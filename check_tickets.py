@@ -42,4 +42,4 @@ def show():
         filtered = filtered[filtered["Assigned To"] == filter_tier]
 
     st.markdown(f"**Showing {len(filtered)} of {len(df)} tickets**")
-    st.dataframe(filtered, use_container_width=True, hide_index=True)
+    st.dataframe(filtered, width='stretch', hide_index=True)

@@ -51,7 +51,7 @@ def show() -> None:
     dated_df = df.copy()
     # Use Submitted At if available, fall back to Date of Purchase for old tickets
     dated_df["Submitted At"] = pd.to_datetime(dated_df.get("Submitted At"), errors="coerce")
-    dated_df["Date of Purchase"] = pd.to_datetime(dated_df["Date of Purchase"], errors="coerce")
+    dated_df["Date of Purchase"] = pd.to_datetime(dated_df["Date of Purchase"], format="mixed", errors="coerce")
     dated_df["Timestamp"] = dated_df["Submitted At"].fillna(dated_df["Date of Purchase"])
     dated_df = dated_df.dropna(subset=["Timestamp"])
 
@@ -127,6 +127,7 @@ def show() -> None:
             values="Ticket Number",
             aggfunc="count",
             fill_value=0,
+            observed=False,
         )
         pivot = pivot.reindex(columns=priority_order, fill_value=0)
         pivot.columns = priority_short

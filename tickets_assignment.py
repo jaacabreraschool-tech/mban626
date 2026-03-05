@@ -133,7 +133,7 @@ def show() -> None:
                 autotext.set_color("white")
 
             ax.set_title(f"{short_p} Priority", fontsize=9, fontweight="bold")
-            st.pyplot(fig, use_container_width=False)
+            st.pyplot(fig, width='content')
             st.caption(f"Tier 1: {t1_val} | Tier 2: {t2_val} | Total: {total_val}")
 
     st.markdown("---")
