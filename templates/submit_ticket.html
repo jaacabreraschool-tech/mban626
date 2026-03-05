@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Submit Ticket - JAC-Global Ticketing System</title>
+    <style>
+        html, body {
+            height: 100%;
+            width: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        
+        .container {
+            width: 95%;
+            height: 100%;
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 0;
+            box-shadow: none;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px 30px;
+            text-align: center;
+            flex-shrink: 0;
+        }
+        
+        .header h1 {
+            font-size: 32px;
+            font-weight: 700;
+            margin-bottom: 10px;
+            letter-spacing: -0.5px;
+        }
+        
+        .header p {
+            font-size: 15px;
+            opacity: 0.9;
+            font-weight: 300;
+        }
+        
+        .content {
+            padding: 45px 80px;
+            flex: 1;
+            overflow-y: auto;
+        }
+        
+        .form-group {
+            margin-bottom: 28px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: 600;
+            color: #2c3e50;
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+        
+        input[type="text"],
+        input[type="date"],
+        select,
+        textarea {
+            width: 100%;
+            padding: 13px 16px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 14px;
+            font-family: inherit;
+            transition: all 0.3s ease;
+            background: #fafafa;
+        }
+        
+        input[type="text"]:focus,
+        input[type="date"]:focus,
+        select:focus,
+        textarea:focus {
+            outline: none;
+            border-color: #667eea;
+            background: white;
+            box-shadow: 0 0 0 4px rgba(102, 126, 234, 0.12);
+        }
+        
+        textarea {
+            resize: vertical;
+            min-height: 130px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        .button-group {
+            display: flex;
+            gap: 15px;
+            margin-top: 35px;
+        }
+        
+        button,
+        .btn {
+            flex: 1;
+            padding: 14px 24px;
+            font-size: 16px;
+            font-weight: 700;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            letter-spacing: 0.4px;
+        }
+        
+        button[type="submit"] {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            box-shadow: 0 8px 15px rgba(102, 126, 234, 0.3);
+        }
+        
+        button[type="submit"]:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 25px rgba(102, 126, 234, 0.4);
+        }
+        
+        button[type="submit"]:active {
+            transform: translateY(-1px);
+        }
+
+        button[type="submit"]:disabled {
+            background: #ccc;
+            color: #999;
+            cursor: not-allowed;
+            box-shadow: none;
+        }
+
+        button[type="submit"]:disabled:hover {
+            transform: none;
+            box-shadow: none;
+        }
+        
+        .btn-secondary {
+            background: #f5f5f5;
+            color: #2c3e50;
+            border: 2px solid #e0e0e0;
+            font-weight: 600;
+        }
+        
+        .btn-secondary:hover {
+            background: #efefef;
+            border-color: #667eea;
+            color: #667eea;
+            transform: translateY(-3px);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>JAC-Global Ticketing System</h1>
+            <p>Submit a New Support Ticket</p>
+        </div>
+        
+        <div class="content">
+            <form method="POST" id="ticketForm">
+            <form method="POST">
+                {% for header in headers %}
+                    <div class="form-group">
+                        <label>{{ header }}</label>
+                        {% if header == "Priority" %}
+                            <select name="{{ header }}">
+                                <option value="">-- Select Priority --</option>
+                                <option value="P1 - Critical">P1 - Critical</option>
+                                <option value="P2 - High">P2 - High</option>
+                                <option value="P3 - Medium">P3 - Medium</option>
+                                <option value="P4 - Low">P4 - Low</option>
+                            </select>
+                        {% elif header == "Assigned To" %}
+                            <select name="{{ header }}">
+                                <option value="">-- Select Assignment --</option>
+                                <option value="Tier 1 Support">Tier 1 Support</option>
+                                <option value="Tier 2 Support">Tier 2 Support</option>
+                            </select>
+                        {% elif header == "Product Purchased" %}
+                            <select name="{{ header }}">
+                                <option value="">-- Select Product --</option>
+                                <option value="Adobe Photoshop">Adobe Photoshop</option>
+                                <option value="Amazon Echo">Amazon Echo</option>
+                                <option value="Amazon Kindle">Amazon Kindle</option>
+                                <option value="Apple AirPods">Apple AirPods</option>
+                                <option value="Asus ROG">Asus ROG</option>
+                                <option value="Autodesk AutoCAD">Autodesk AutoCAD</option>
+                                <option value="Bose QuietComfort">Bose QuietComfort</option>
+                                <option value="Bose SoundLink Speaker">Bose SoundLink Speaker</option>
+                                <option value="Canon DSLR Camera">Canon DSLR Camera</option>
+                                <option value="Canon EOS">Canon EOS</option>
+                                <option value="Dell XPS">Dell XPS</option>
+                                <option value="Dyson Vacuum Cleaner">Dyson Vacuum Cleaner</option>
+                                <option value="Fitbit Charge">Fitbit Charge</option>
+                                <option value="Fitbit Versa Smartwatch">Fitbit Versa Smartwatch</option>
+                                <option value="Garmin Forerunner">Garmin Forerunner</option>
+                                <option value="Google Nest">Google Nest</option>
+                                <option value="Google Pixel">Google Pixel</option>
+                                <option value="GoPro Action Camera">GoPro Action Camera</option>
+                                <option value="GoPro Hero">GoPro Hero</option>
+                                <option value="HP Pavilion">HP Pavilion</option>
+                                <option value="iPhone">iPhone</option>
+                                <option value="Lenovo ThinkPad">Lenovo ThinkPad</option>
+                                <option value="LG OLED">LG OLED</option>
+                                <option value="LG Smart TV">LG Smart TV</option>
+                                <option value="LG Washing Machine">LG Washing Machine</option>
+                                <option value="MacBook Pro">MacBook Pro</option>
+                                <option value="Microsoft Office">Microsoft Office</option>
+                                <option value="Microsoft Surface">Microsoft Surface</option>
+                                <option value="Microsoft Xbox Controller">Microsoft Xbox Controller</option>
+                                <option value="Nest Thermostat">Nest Thermostat</option>
+                                <option value="Nikon D">Nikon D</option>
+                                <option value="Nintendo Switch">Nintendo Switch</option>
+                                <option value="Nintendo Switch Pro Controller">Nintendo Switch Pro Controller</option>
+                                <option value="Philips Hue Lights">Philips Hue Lights</option>
+                                <option value="PlayStation">PlayStation</option>
+                                <option value="Roomba Robot Vacuum">Roomba Robot Vacuum</option>
+                                <option value="Samsung Galaxy">Samsung Galaxy</option>
+                                <option value="Samsung Soundbar">Samsung Soundbar</option>
+                                <option value="Sony 4K HDR TV">Sony 4K HDR TV</option>
+                                <option value="Sony PlayStation">Sony PlayStation</option>
+                            </select>
+                        {% elif header == "Date of Purchase" %}
+                            <input type="date" name="{{ header }}">
+                        {% elif header == "Type" %}
+                            <select name="{{ header }}">
+                                <option value="">-- Select Type --</option>
+                                <option value="Incident">Incident</option>
+                                <option value="Problem">Problem</option>
+                                <option value="Inquiry">Inquiry</option>
+                            </select>
+                        {% elif header == "Detailed Description" %}
+                            <textarea name="{{ header }}" placeholder="Provide detailed information about your issue..."></textarea>
+                        {% else %}
+                            <input type="text" name="{{ header }}" placeholder="">
+                        {% endif %}
+                    </div>
+                {% endfor %}
+                
+                <div class="button-group">
+                    <button type="submit" id="submitBtn" disabled>Submit Ticket</button>
+                    <a href="{{ url_for('dashboard') }}" class="btn btn-secondary">View Dashboard</a>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        const form = document.getElementById('ticketForm');
+        const submitBtn = document.getElementById('submitBtn');
+
+        function validateForm() {
+            const inputs = form.querySelectorAll('input[type="text"], select, textarea');
+            let allFilled = true;
+
+            inputs.forEach(input => {
+                if (!input.value.trim()) {
+                    allFilled = false;
+                }
+            });
+
+            submitBtn.disabled = !allFilled;
+        }
+
+        // Listen to all form inputs for changes
+        form.addEventListener('change', validateForm);
+        form.addEventListener('input', validateForm);
+
+        // Initial validation on page load
+        validateForm();
+    </script>
+</body>
+</html>

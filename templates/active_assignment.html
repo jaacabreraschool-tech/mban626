@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Active Tickets Assignment - JAC-Global Ticketing System</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            min-height: 100vh;
+        }
+        
+        .sidebar {
+            width: 280px;
+            background: linear-gradient(135deg, #1e3a5f 0%, #2c5aa0 100%);
+            color: white;
+            padding: 20px;
+            overflow-y: auto;
+        }
+        
+        .sidebar-header {
+            padding: 20px 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+            margin-bottom: 20px;
+        }
+        
+        .sidebar-header h2 {
+            font-size: 18px;
+            font-weight: 700;
+            letter-spacing: -0.3px;
+        }
+        
+        .sidebar-section {
+            margin-bottom: 30px;
+        }
+        
+        .sidebar-section-title {
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            opacity: 0.7;
+            letter-spacing: 0.5px;
+            margin-bottom: 12px;
+        }
+        
+        .sidebar-menu {
+            list-style: none;
+        }
+        
+        .sidebar-menu li {
+            margin-bottom: 8px;
+        }
+        
+        .sidebar-menu a {
+            display: flex;
+            align-items: center;
+            padding: 10px 15px;
+            color: rgba(255, 255, 255, 0.85);
+            text-decoration: none;
+            border-radius: 6px;
+            transition: all 0.3s ease;
+            font-size: 14px;
+            font-weight: 500;
+        }
+        
+        .sidebar-menu a:hover {
+            background: rgba(255, 255, 255, 0.15);
+            color: white;
+        }
+        
+        .sidebar-menu a.active {
+            background: rgba(102, 126, 234, 0.9);
+            color: white;
+            font-weight: 700;
+        }
+        
+        .sidebar-menu a::before {
+            content: "●";
+            margin-right: 10px;
+            font-size: 8px;
+        }
+        
+        .main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        
+        .top-bar {
+            background: white;
+            padding: 20px 30px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .top-bar h1 {
+            font-size: 24px;
+            color: #1e3a5f;
+        }
+        
+        .btn {
+            padding: 10px 20px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 14px;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+        
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .content-area {
+            flex: 1;
+            overflow-y: auto;
+            padding: 30px;
+        }
+        
+        .report-section {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+            margin-bottom: 30px;
+        }
+        
+        .report-title {
+            font-size: 20px;
+            font-weight: 700;
+            color: #1e3a5f;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 15px;
+        }
+        
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 40px;
+            margin-bottom: 40px;
+        }
+        
+        .chart-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0px;
+        }
+        
+        .chart-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #1e3a5f;
+            margin-bottom: 20px;
+        }
+        
+        .pie-chart {
+            position: relative;
+            width: 100%;
+            max-width: 400px;
+            height: auto;
+        }
+        
+        .breakdown-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 30px;
+        }
+        
+        .breakdown-table th {
+            background: #f0f0f0;
+            padding: 12px;
+            text-align: left;
+            font-weight: 700;
+            color: #1e3a5f;
+            border: 1px solid #e0e0e0;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+        
+        .breakdown-table td {
+            padding: 12px;
+            border: 1px solid #e0e0e0;
+            font-size: 14px;
+        }
+        
+        .breakdown-table tr:nth-child(even) {
+            background: #f9f9f9;
+        }
+        
+        .breakdown-table tr:hover {
+            background: #f0f5ff;
+        }
+        
+        .breakdown-table .row-label {
+            font-weight: 600;
+            color: #1e3a5f;
+            width: 120px;
+        }
+        
+        .breakdown-table .total-row {
+            background: #667eea;
+            color: white;
+            font-weight: 700;
+        }
+        
+        .breakdown-table .total-row td {
+            border-color: #667eea;
+        }
+
+        .tickets-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            font-size: 13px;
+        }
+
+        .tickets-table th {
+            background: #f0f0f0;
+            padding: 12px;
+            text-align: left;
+            font-weight: 700;
+            color: #1e3a5f;
+            border: 1px solid #e0e0e0;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+            position: sticky;
+            top: 0;
+        }
+
+        .tickets-table td {
+            padding: 12px;
+            border: 1px solid #e0e0e0;
+        }
+
+        .tickets-table tr:nth-child(even) {
+            background: #f9f9f9;
+        }
+
+        .tickets-table tr:hover {
+            background: #f0f5ff;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-weight: 600;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+
+        .badge-critical {
+            background: #fee;
+            color: #c33;
+        }
+
+        .badge-high {
+            background: #fef0e6;
+            color: #e67e22;
+        }
+
+        .badge-medium {
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+
+        .badge-low {
+            background: #e8f5e9;
+            color: #388e3c;
+        }
+        
+        @media (max-width: 1200px) {
+            .charts-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <h2>JAC-Global</h2>
+        </div>
+        
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Operational Reports</div>
+            <ul class="sidebar-menu">
+                <li><a href="/active-assignment" class="active">Active Tickets Assignment</a></li>
+                <li><a href="/">Active Tickets Counts</a></li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="main-content">
+        <div class="top-bar">
+            <h1>Active Tickets Assignment Report</h1>
+            <div class="top-bar-actions">
+                <a href="{{ url_for('submit_ticket') }}" class="btn btn-primary">+ New Ticket</a>
+            </div>
+        </div>
+        
+        <div class="content-area">
+            <div class="report-section">
+                <h2 class="report-title">Priority Distribution - Tier 1 vs Tier 2 Support</h2>
+                
+                <div class="charts-grid">
+                    {% for priority in priority_short %}
+                        <div class="chart-container">
+                            <div class="chart-title">{{ priority.upper() }}</div>
+                            <div class="pie-chart">
+                                <canvas id="chart-{{ priority }}"></canvas>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+            
+            <div class="report-section">
+                <h2 class="report-title">Breakdown by Priority & Assignee</h2>
+                
+                <table class="breakdown-table">
+                    <thead>
+                        <tr>
+                            <th>Assignee</th>
+                            {% for priority in priority_short %}
+                                <th>{{ priority }}</th>
+                            {% endfor %}
+                            <th>TOTAL</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="row-label">Tier 1 Support</td>
+                            {% for priority in priority_short %}
+                                <td>{{ breakdown['Tier 1 Support'][priority] }}</td>
+                            {% endfor %}
+                            <td>{{ tier1_totals }}</td>
+                        </tr>
+                        <tr>
+                            <td class="row-label">Tier 2 Support</td>
+                            {% for priority in priority_short %}
+                                <td>{{ breakdown['Tier 2 Support'][priority] }}</td>
+                            {% endfor %}
+                            <td>{{ tier2_totals }}</td>
+                        </tr>
+                        <tr class="total-row">
+                            <td class="row-label">Grand Total</td>
+                            {% for priority in priority_short %}
+                                <td>{% set total = breakdown['Tier 1 Support'][priority] + breakdown['Tier 2 Support'][priority] %}{{ total }}</td>
+                            {% endfor %}
+                            <td>{{ grand_total }}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Register the datalabels plugin
+        Chart.register(ChartDataLabels);
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            // Define colors for charts
+            const colors = {
+                tier1: 'rgba(102, 126, 234, 0.9)',
+                tier2: 'rgba(220, 53, 69, 0.9)',
+                tier1Border: 'rgba(102, 126, 234, 1)',
+                tier2Border: 'rgba(220, 53, 69, 1)'
+            };
+            
+            // Create pie charts for each priority
+            const priorities = {{ priority_short | tojson }};
+            const breakdown = {{ breakdown | tojson }};
+            
+            priorities.forEach(priority => {
+                const canvasElement = document.getElementById(`chart-${priority}`);
+                if (!canvasElement) {
+                    console.warn(`Canvas element chart-${priority} not found`);
+                    return;
+                }
+                
+                const ctx = canvasElement.getContext('2d');
+                const tier1 = breakdown['Tier 1 Support'][priority];
+                const tier2 = breakdown['Tier 2 Support'][priority];
+                const total = tier1 + tier2;
+                
+                new Chart(ctx, {
+                    type: 'doughnut',
+                    data: {
+                        labels: ['Tier 1 Support', 'Tier 2 Support'],
+                        datasets: [{
+                            data: [tier1, tier2],
+                            backgroundColor: [colors.tier1, colors.tier2],
+                            borderColor: [colors.tier1Border, colors.tier2Border],
+                            borderWidth: 2
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: true,
+                        plugins: {
+                            legend: {
+                                display: false
+                            },
+                            datalabels: {
+                                color: '#fff',
+                                font: {
+                                    weight: 'bold',
+                                    size: 14
+                                },
+                                formatter: (value, context) => {
+                                    const percentage = total > 0 ? ((value / total) * 100).toFixed(1) : 0;
+                                    return value + '\n' + percentage + '%';
+                                },
+                                padding: 6
+                            }
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

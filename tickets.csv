@@ -1,0 +1,1017 @@
+Ticket Number,Name,Priority,Assigned To,Product Purchased,Date of Purchase,Type,Short Description,Detailed Description,Submitted At
+PRB-00001,Andrew Wilson,P3-Medium,Tier 2 Support,Lenovo ThinkPad,6/14/25,Problem,General question,Follow-up required from previous ticket.,2025-06-14 08:31:31
+PRB-00002,Mary Phillips,P4-Low,Tier 1 Support,Microsoft Office,8/18/25,Problem,Shipping question,Customer reported issue with the product.,2025-08-18 18:50:20
+PRB-00003,Susan Clark,P1-Critical,Tier 2 Support,Amazon Kindle,1/18/26,Problem,General question,Follow-up required from previous ticket.,2026-01-18 16:23:33
+INC-00001,Margaret Young,P2-High,Tier 2 Support,MacBook Pro,6/24/25,Incident,Need support,Unable to resolve the issue through standard troubleshooting.,2025-06-24 13:29:10
+INQ-00001,Mary Martin,P1-Critical,Tier 1 Support,Fitbit Charge,10/12/25,Inquiry,General question,Unable to resolve the issue through standard troubleshooting.,2025-10-12 13:02:05
+PRB-00004,Emily Allen,P1-Critical,Tier 1 Support,Philips Hue Lights,7/13/25,Problem,Product not working,Product arrived damaged or defective.,2025-07-13 19:06:40
+PRB-00005,Tom Smith,P2-High,Tier 2 Support,LG OLED,5/29/25,Problem,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-05-29 08:03:59
+INQ-00002,Margaret Jones,P2-High,Tier 1 Support,Dyson Vacuum Cleaner,7/17/25,Inquiry,Shipping question,Escalation needed for resolution.,2025-07-17 17:04:50
+PRB-00006,Karen Campbell,P3-Medium,Tier 1 Support,Garmin Forerunner,10/6/25,Problem,Need support,Escalation needed for resolution.,2025-10-06 10:52:35
+INQ-00003,Nancy Smith,P3-Medium,Tier 1 Support,Google Nest,12/14/25,Inquiry,Need support,Customer reported issue with the product.,2025-12-14 08:50:02
+INQ-00004,James Brown,P2-High,Tier 2 Support,LG OLED,8/30/25,Inquiry,Billing inquiry,Customer reported issue with the product.,2025-08-30 14:49:59
+PRB-00007,Kimberly Miller,P3-Medium,Tier 2 Support,Dyson Vacuum Cleaner,4/28/25,Problem,Feature request,Customer needs urgent assistance.,2025-04-28 21:03:26
+INQ-00005,Karen Smith,P3-Medium,Tier 2 Support,Google Nest,10/2/25,Inquiry,Product not working,Product arrived damaged or defective.,2025-10-02 18:04:17
+PRB-00008,Paul Taylor,P1-Critical,Tier 2 Support,Autodesk AutoCAD,8/22/25,Problem,Shipping question,Customer reported issue with the product.,2025-08-22 18:16:53
+INQ-00006,Christopher Lopez,P3-Medium,Tier 2 Support,Nintendo Switch,12/6/25,Inquiry,Product not working,Follow-up required from previous ticket.,2025-12-06 17:33:44
+INC-00002,Daniel Campbell,P3-Medium,Tier 1 Support,Autodesk AutoCAD,3/26/25,Incident,Billing inquiry,Follow-up required from previous ticket.,2025-03-26 18:20:44
+INQ-00007,Sarah Harris,P3-Medium,Tier 2 Support,Adobe Photoshop,4/19/25,Inquiry,Shipping question,Customer needs urgent assistance.,2025-04-19 14:29:16
+INC-00003,Mark Young,P3-Medium,Tier 1 Support,Autodesk AutoCAD,2/23/26,Incident,General question,Product arrived damaged or defective.,2026-02-23 08:10:59
+INC-00004,Jessica Anderson,P3-Medium,Tier 1 Support,Dell XPS,11/3/25,Incident,Bug report,Follow-up required from previous ticket.,2025-11-03 19:43:27
+INC-00005,Donald King,P4-Low,Tier 1 Support,LG OLED,10/18/25,Incident,Feature request,Product arrived damaged or defective.,2025-10-18 13:18:31
+INQ-00008,Susan Thompson,P1-Critical,Tier 2 Support,GoPro Action Camera,10/22/25,Inquiry,Shipping question,Product arrived damaged or defective.,2025-10-22 14:03:45
+INC-00006,George Thomas,P3-Medium,Tier 2 Support,Philips Hue Lights,11/16/25,Incident,Technical issue,Customer reported issue with the product.,2025-11-16 12:44:39
+INQ-00009,James White,P1-Critical,Tier 2 Support,Nikon D,5/21/25,Inquiry,Feature request,Product arrived damaged or defective.,2025-05-21 09:54:10
+INC-00007,Donald Lee,P2-High,Tier 2 Support,GoPro Action Camera,3/5/26,Incident,Feature request,Customer reported issue with the product.,2026-03-05 20:00:18
+PRB-00009,Mark Davis,P1-Critical,Tier 1 Support,Sony PlayStation,4/27/25,Problem,Billing inquiry,Product arrived damaged or defective.,2025-04-27 18:26:21
+INQ-00010,Jennifer Garcia,P2-High,Tier 1 Support,Bose QuietComfort,2/1/26,Inquiry,General question,Customer reported issue with the product.,2026-02-01 16:49:56
+INC-00008,Paul Jackson,P2-High,Tier 1 Support,Roomba Robot Vacuum,8/29/25,Incident,General question,Follow-up required from previous ticket.,2025-08-29 13:42:42
+INQ-00011,Robert Lewis,P4-Low,Tier 1 Support,Google Pixel,11/26/25,Inquiry,Billing inquiry,Customer needs urgent assistance.,2025-11-26 19:51:21
+PRB-00010,George Allen,P2-High,Tier 2 Support,Autodesk AutoCAD,11/3/25,Problem,Need support,Follow-up required from previous ticket.,2025-11-03 15:24:44
+PRB-00011,David Miller,P3-Medium,Tier 1 Support,Roomba Robot Vacuum,8/20/25,Problem,Bug report,Customer reported issue with the product.,2025-08-20 13:22:44
+INC-00009,Christopher Gonzalez,P3-Medium,Tier 2 Support,Microsoft Xbox Controller,12/13/25,Incident,Billing inquiry,Customer reported issue with the product.,2025-12-13 13:42:23
+PRB-00012,Kimberly Clark,P3-Medium,Tier 1 Support,GoPro Action Camera,2/10/26,Problem,Product not working,Product arrived damaged or defective.,2026-02-10 10:09:24
+PRB-00013,Tom Peterson,P2-High,Tier 2 Support,Canon DSLR Camera,12/17/25,Problem,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-12-17 08:14:53
+INC-00010,Sarah Garcia,P2-High,Tier 2 Support,Canon DSLR Camera,8/11/25,Incident,Shipping question,Follow-up required from previous ticket.,2025-08-11 15:36:33
+INQ-00012,Mary Thompson,P3-Medium,Tier 2 Support,Autodesk AutoCAD,12/7/25,Inquiry,Technical issue,Customer needs urgent assistance.,2025-12-07 20:40:08
+PRB-00014,James Martin,P1-Critical,Tier 2 Support,Microsoft Office,5/28/25,Problem,Bug report,Customer needs urgent assistance.,2025-05-28 07:07:43
+INC-00011,Christopher Thomas,P3-Medium,Tier 1 Support,Samsung Soundbar,5/5/25,Incident,Need support,Escalation needed for resolution.,2025-05-05 19:30:35
+INQ-00013,Mike Lopez,P2-High,Tier 2 Support,Adobe Photoshop,12/14/25,Inquiry,Product not working,Product arrived damaged or defective.,2025-12-14 19:21:30
+PRB-00015,Margaret King,P4-Low,Tier 1 Support,MacBook Pro,12/7/25,Problem,Shipping question,Customer needs urgent assistance.,2025-12-07 11:30:43
+INC-00012,Susan Anderson,P1-Critical,Tier 1 Support,Amazon Echo,9/26/25,Incident,General question,Follow-up required from previous ticket.,2025-09-26 16:57:54
+INC-00013,Daniel Phillips,P3-Medium,Tier 1 Support,GoPro Action Camera,9/19/25,Incident,General question,Customer reported issue with the product.,2025-09-19 09:04:19
+INC-00014,Emily Perez,P4-Low,Tier 1 Support,iPhone,7/11/25,Incident,Technical issue,Customer reported issue with the product.,2025-07-11 18:59:25
+PRB-00016,John Smith,P2-High,Tier 1 Support,Fitbit Charge,12/16/25,Problem,General question,Product arrived damaged or defective.,2025-12-16 17:26:11
+INC-00015,Sandra Lee,P2-High,Tier 1 Support,Fitbit Versa Smartwatch,7/11/25,Incident,General question,Customer reported issue with the product.,2025-07-11 12:46:38
+INQ-00014,Robert Martin,P4-Low,Tier 2 Support,LG Washing Machine,9/27/25,Inquiry,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-09-27 08:25:24
+PRB-00017,Paul Smith,P1-Critical,Tier 1 Support,LG Smart TV,5/19/25,Problem,General question,Product arrived damaged or defective.,2025-05-19 21:18:20
+PRB-00018,Patricia Scott,P1-Critical,Tier 1 Support,Adobe Photoshop,1/29/26,Problem,Technical issue,Unable to resolve the issue through standard troubleshooting.,2026-01-29 13:46:41
+INC-00016,Anthony Jones,P1-Critical,Tier 1 Support,HP Pavilion,11/17/25,Incident,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-11-17 20:41:24
+INQ-00015,Mary Lopez,P1-Critical,Tier 2 Support,Canon EOS,2/6/26,Inquiry,Product not working,Product arrived damaged or defective.,2026-02-06 17:08:27
+PRB-00019,Margaret Robinson,P4-Low,Tier 2 Support,LG Washing Machine,5/1/25,Problem,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-05-01 18:42:26
+PRB-00020,Sarah Moore,P4-Low,Tier 1 Support,LG Smart TV,8/14/25,Problem,Bug report,Customer reported issue with the product.,2025-08-14 18:45:15
+INC-00017,Mike Campbell,P1-Critical,Tier 2 Support,LG Washing Machine,12/9/25,Incident,General question,Product arrived damaged or defective.,2025-12-09 09:23:07
+PRB-00021,Jennifer Campbell,P4-Low,Tier 1 Support,Canon EOS,12/1/25,Problem,Bug report,Customer reported issue with the product.,2025-12-01 12:55:49
+PRB-00022,Patricia Young,P1-Critical,Tier 2 Support,Apple AirPods,4/1/25,Problem,Shipping question,Product arrived damaged or defective.,2025-04-01 14:38:05
+INC-00018,Richard Phillips,P1-Critical,Tier 2 Support,Canon DSLR Camera,12/25/25,Incident,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-12-25 14:20:19
+INQ-00016,Jane Moore,P3-Medium,Tier 1 Support,Sony PlayStation,6/22/25,Inquiry,Need support,Unable to resolve the issue through standard troubleshooting.,2025-06-22 07:00:40
+INC-00019,Jane Jones,P3-Medium,Tier 1 Support,Microsoft Office,11/20/25,Incident,Billing inquiry,Follow-up required from previous ticket.,2025-11-20 15:40:07
+PRB-00023,Charles Lewis,P2-High,Tier 1 Support,Adobe Photoshop,5/1/25,Problem,Feature request,Follow-up required from previous ticket.,2025-05-01 09:12:39
+PRB-00024,Barbara Jones,P3-Medium,Tier 2 Support,Canon EOS,8/2/25,Problem,Technical issue,Customer reported issue with the product.,2025-08-02 18:45:43
+INQ-00017,Kimberly Harris,P2-High,Tier 2 Support,GoPro Hero,6/29/25,Inquiry,Feature request,Product arrived damaged or defective.,2025-06-29 17:31:39
+INC-00020,Sandra Moore,P4-Low,Tier 1 Support,Autodesk AutoCAD,6/5/25,Incident,Technical issue,Customer needs urgent assistance.,2025-06-05 20:28:18
+INQ-00018,Anthony Phillips,P2-High,Tier 1 Support,Nest Thermostat,6/1/25,Inquiry,General question,Product arrived damaged or defective.,2025-06-01 18:09:01
+PRB-00025,Jane Lewis,P2-High,Tier 2 Support,Amazon Kindle,6/22/25,Problem,Technical issue,Follow-up required from previous ticket.,2025-06-22 12:42:53
+INQ-00019,Joseph King,P3-Medium,Tier 1 Support,Garmin Forerunner,3/5/26,Inquiry,Technical issue,Unable to resolve the issue through standard troubleshooting.,2026-03-05 21:09:19
+INQ-00020,George Peterson,P1-Critical,Tier 2 Support,Nintendo Switch Pro Controller,12/15/25,Inquiry,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-12-15 13:25:48
+INC-00021,Robert Gonzalez,P1-Critical,Tier 1 Support,Philips Hue Lights,10/3/25,Incident,General question,Follow-up required from previous ticket.,2025-10-03 11:50:11
+PRB-00026,Karen Jackson,P2-High,Tier 2 Support,iPhone,1/19/26,Problem,General question,Customer needs urgent assistance.,2026-01-19 20:55:09
+PRB-00027,Joseph Rodriguez,P2-High,Tier 2 Support,PlayStation,3/2/26,Problem,Technical issue,Follow-up required from previous ticket.,2026-03-02 12:59:46
+INQ-00021,Andrew Robinson,P2-High,Tier 1 Support,Dell XPS,7/7/25,Inquiry,Shipping question,Customer needs urgent assistance.,2025-07-07 08:57:56
+INC-00022,John Parker,P3-Medium,Tier 1 Support,Google Pixel,1/29/26,Incident,Technical issue,Product arrived damaged or defective.,2026-01-29 14:33:51
+INQ-00022,Emily Scott,P4-Low,Tier 1 Support,Canon EOS,12/22/25,Inquiry,Product not working,Product arrived damaged or defective.,2025-12-22 18:12:45
+INQ-00023,Donald Thompson,P4-Low,Tier 1 Support,Microsoft Office,7/13/25,Inquiry,General question,Customer reported issue with the product.,2025-07-13 09:50:14
+INQ-00024,Jennifer Robinson,P4-Low,Tier 1 Support,Samsung Galaxy,8/16/25,Inquiry,Feature request,Customer needs urgent assistance.,2025-08-16 13:48:54
+INQ-00025,George Rodriguez,P4-Low,Tier 1 Support,Lenovo ThinkPad,5/20/25,Inquiry,Bug report,Follow-up required from previous ticket.,2025-05-20 08:59:40
+INQ-00026,Betty Wright,P3-Medium,Tier 1 Support,Apple AirPods,3/12/25,Inquiry,Billing inquiry,Escalation needed for resolution.,2025-03-12 17:39:10
+INQ-00027,Sarah Phillips,P1-Critical,Tier 1 Support,Microsoft Office,1/3/26,Inquiry,Billing inquiry,Escalation needed for resolution.,2026-01-03 14:08:07
+INC-00023,Joseph Jackson,P3-Medium,Tier 2 Support,Nikon D,9/13/25,Incident,Technical issue,Product arrived damaged or defective.,2025-09-13 11:30:52
+PRB-00028,Barbara Johnson,P2-High,Tier 1 Support,Nintendo Switch Pro Controller,10/28/25,Problem,General question,Follow-up required from previous ticket.,2025-10-28 10:26:16
+INQ-00028,Jessica Parker,P3-Medium,Tier 1 Support,Canon DSLR Camera,4/5/25,Inquiry,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-04-05 15:50:45
+PRB-00029,Linda Smith,P3-Medium,Tier 2 Support,Apple AirPods,3/7/25,Problem,Feature request,Follow-up required from previous ticket.,2025-03-07 17:23:08
+INC-00024,Donna Ramirez,P4-Low,Tier 1 Support,Bose SoundLink Speaker,5/6/25,Incident,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-05-06 21:19:16
+PRB-00030,Richard Martinez,P3-Medium,Tier 2 Support,HP Pavilion,2/24/26,Problem,Billing inquiry,Escalation needed for resolution.,2026-02-24 13:04:17
+INQ-00029,Betty Young,P1-Critical,Tier 2 Support,Philips Hue Lights,9/1/25,Inquiry,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-09-01 09:50:16
+PRB-00031,Andrew Perez,P4-Low,Tier 1 Support,Fitbit Charge,3/20/25,Problem,Shipping question,Customer reported issue with the product.,2025-03-20 19:45:40
+PRB-00032,Christopher Ramirez,P2-High,Tier 2 Support,LG OLED,11/12/25,Problem,Need support,Escalation needed for resolution.,2025-11-12 16:02:54
+INC-00025,Betty Phillips,P1-Critical,Tier 2 Support,Bose QuietComfort,5/28/25,Incident,Billing inquiry,Follow-up required from previous ticket.,2025-05-28 17:26:54
+INQ-00030,Sarah Young,P3-Medium,Tier 1 Support,Amazon Kindle,6/14/25,Inquiry,Need support,Customer needs urgent assistance.,2025-06-14 08:28:44
+INQ-00031,Robert King,P1-Critical,Tier 2 Support,Asus ROG,5/6/25,Inquiry,Bug report,Follow-up required from previous ticket.,2025-05-06 11:28:12
+INC-00026,Karen Williams,P3-Medium,Tier 1 Support,Nintendo Switch Pro Controller,1/25/26,Incident,Need support,Unable to resolve the issue through standard troubleshooting.,2026-01-25 18:55:57
+INQ-00032,Richard Lee,P4-Low,Tier 2 Support,Fitbit Charge,2/20/26,Inquiry,Technical issue,Customer reported issue with the product.,2026-02-20 19:09:32
+PRB-00033,Barbara Ramirez,P3-Medium,Tier 2 Support,Microsoft Xbox Controller,4/19/25,Problem,Bug report,Follow-up required from previous ticket.,2025-04-19 13:18:32
+INC-00027,Patricia Clark,P4-Low,Tier 2 Support,Google Nest,10/14/25,Incident,Billing inquiry,Follow-up required from previous ticket.,2025-10-14 19:10:42
+INQ-00033,Patricia Miller,P4-Low,Tier 1 Support,GoPro Action Camera,3/12/25,Inquiry,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-03-12 19:14:46
+INQ-00034,Jane Ramirez,P3-Medium,Tier 1 Support,Bose SoundLink Speaker,5/14/25,Inquiry,Need support,Customer reported issue with the product.,2025-05-14 12:54:57
+INQ-00035,Steven Davis,P4-Low,Tier 1 Support,LG OLED,11/17/25,Inquiry,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-11-17 20:56:34
+PRB-00034,Franklin Wilson,P4-Low,Tier 2 Support,Canon DSLR Camera,1/10/26,Problem,General question,Product arrived damaged or defective.,2026-01-10 11:02:36
+INQ-00036,Tom Anderson,P1-Critical,Tier 1 Support,Nest Thermostat,5/30/25,Inquiry,Technical issue,Escalation needed for resolution.,2025-05-30 10:37:44
+INQ-00037,James King,P4-Low,Tier 1 Support,Samsung Galaxy,12/31/25,Inquiry,Product not working,Follow-up required from previous ticket.,2025-12-31 17:13:15
+PRB-00035,Margaret Campbell,P2-High,Tier 2 Support,Nest Thermostat,10/23/25,Problem,Feature request,Follow-up required from previous ticket.,2025-10-23 16:11:18
+PRB-00036,David Ramirez,P3-Medium,Tier 2 Support,Apple AirPods,4/6/25,Problem,Billing inquiry,Product arrived damaged or defective.,2025-04-06 09:17:37
+PRB-00037,Joseph Jones,P3-Medium,Tier 1 Support,Dyson Vacuum Cleaner,12/30/25,Problem,Shipping question,Product arrived damaged or defective.,2025-12-30 19:11:03
+PRB-00038,Anthony Harris,P1-Critical,Tier 1 Support,Asus ROG,9/7/25,Problem,General question,Unable to resolve the issue through standard troubleshooting.,2025-09-07 09:29:19
+INC-00028,Jennifer Sanchez,P3-Medium,Tier 2 Support,Autodesk AutoCAD,6/9/25,Incident,Product not working,Follow-up required from previous ticket.,2025-06-09 19:59:43
+PRB-00039,Donald Hernandez,P1-Critical,Tier 2 Support,Nest Thermostat,11/28/25,Problem,Feature request,Product arrived damaged or defective.,2025-11-28 07:35:58
+INQ-00038,James Campbell,P1-Critical,Tier 2 Support,Fitbit Versa Smartwatch,9/6/25,Inquiry,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-09-06 18:43:31
+INQ-00039,Sarah Hernandez,P4-Low,Tier 1 Support,Asus ROG,12/26/25,Inquiry,Bug report,Customer reported issue with the product.,2025-12-26 18:29:23
+PRB-00040,Betty Sanchez,P2-High,Tier 1 Support,Samsung Soundbar,9/21/25,Problem,Billing inquiry,Follow-up required from previous ticket.,2025-09-21 18:00:26
+INQ-00040,Donald Martin,P3-Medium,Tier 2 Support,Bose SoundLink Speaker,5/26/25,Inquiry,Product not working,Escalation needed for resolution.,2025-05-26 16:05:41
+PRB-00041,Carol Wilson,P3-Medium,Tier 1 Support,Nintendo Switch,4/15/25,Problem,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-04-15 14:16:32
+PRB-00042,Emily Lopez,P1-Critical,Tier 2 Support,HP Pavilion,2/11/26,Problem,General question,Follow-up required from previous ticket.,2026-02-11 17:14:01
+INQ-00041,Donna Harris,P2-High,Tier 1 Support,Lenovo ThinkPad,5/21/25,Inquiry,Bug report,Follow-up required from previous ticket.,2025-05-21 11:50:32
+PRB-00043,John Clark,P1-Critical,Tier 1 Support,GoPro Action Camera,1/11/26,Problem,Bug report,Customer needs urgent assistance.,2026-01-11 18:50:24
+INQ-00042,Charles Perez,P1-Critical,Tier 2 Support,Nintendo Switch,4/17/25,Inquiry,Shipping question,Escalation needed for resolution.,2025-04-17 15:51:42
+INQ-00043,Thomas Martin,P1-Critical,Tier 2 Support,Nintendo Switch Pro Controller,10/20/25,Inquiry,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-10-20 13:38:52
+PRB-00044,Ashley Peterson,P3-Medium,Tier 1 Support,Nintendo Switch Pro Controller,5/9/25,Problem,Feature request,Customer reported issue with the product.,2025-05-09 14:33:57
+INQ-00044,Steven Jackson,P4-Low,Tier 2 Support,Canon DSLR Camera,12/6/25,Inquiry,Technical issue,Product arrived damaged or defective.,2025-12-06 15:38:36
+INC-00029,Jessica Robinson,P1-Critical,Tier 1 Support,Nintendo Switch,8/6/25,Incident,Product not working,Customer reported issue with the product.,2025-08-06 07:24:21
+PRB-00045,Sandra Davis,P4-Low,Tier 1 Support,Sony 4K HDR TV,9/1/25,Problem,Billing inquiry,Customer needs urgent assistance.,2025-09-01 09:40:26
+INC-00030,Nancy Young,P2-High,Tier 2 Support,Fitbit Versa Smartwatch,8/28/25,Incident,Product not working,Customer needs urgent assistance.,2025-08-28 10:47:10
+PRB-00046,Christopher Garcia,P4-Low,Tier 1 Support,Sony PlayStation,4/6/25,Problem,Billing inquiry,Escalation needed for resolution.,2025-04-06 08:45:56
+PRB-00047,John Scott,P1-Critical,Tier 1 Support,Nikon D,9/26/25,Problem,Technical issue,Follow-up required from previous ticket.,2025-09-26 13:36:50
+INQ-00045,Linda Lewis,P1-Critical,Tier 2 Support,Google Nest,4/30/25,Inquiry,Shipping question,Customer needs urgent assistance.,2025-04-30 17:03:51
+PRB-00048,Daniel Clark,P4-Low,Tier 2 Support,Apple AirPods,6/8/25,Problem,Feature request,Follow-up required from previous ticket.,2025-06-08 16:43:19
+INQ-00046,Joseph Young,P4-Low,Tier 1 Support,Nintendo Switch,12/29/25,Inquiry,Shipping question,Customer reported issue with the product.,2025-12-29 14:21:19
+INQ-00047,Jessica Brown,P2-High,Tier 1 Support,Google Nest,9/25/25,Inquiry,Technical issue,Product arrived damaged or defective.,2025-09-25 19:44:51
+PRB-00049,Matthew Phillips,P3-Medium,Tier 2 Support,Nintendo Switch Pro Controller,1/2/26,Problem,Feature request,Customer reported issue with the product.,2026-01-02 15:32:32
+INQ-00048,Jane Garcia,P4-Low,Tier 1 Support,Philips Hue Lights,1/12/26,Inquiry,Bug report,Escalation needed for resolution.,2026-01-12 08:52:42
+INC-00031,Nancy Parker,P3-Medium,Tier 2 Support,Microsoft Surface,10/5/25,Incident,General question,Follow-up required from previous ticket.,2025-10-05 18:20:29
+INQ-00049,Donna Jackson,P4-Low,Tier 2 Support,Nest Thermostat,10/4/25,Inquiry,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-10-04 15:55:26
+INQ-00050,Paul Lewis,P3-Medium,Tier 2 Support,LG OLED,12/28/25,Inquiry,Bug report,Follow-up required from previous ticket.,2025-12-28 16:50:37
+PRB-00050,Christopher Wright,P2-High,Tier 2 Support,Lenovo ThinkPad,5/24/25,Problem,Billing inquiry,Follow-up required from previous ticket.,2025-05-24 15:19:48
+INC-00032,Jane Robinson,P4-Low,Tier 1 Support,Microsoft Office,5/5/25,Incident,Technical issue,Follow-up required from previous ticket.,2025-05-05 15:28:20
+PRB-00051,Christopher King,P3-Medium,Tier 2 Support,LG Washing Machine,2/21/26,Problem,General question,Escalation needed for resolution.,2026-02-21 08:31:48
+PRB-00052,Carol Clark,P1-Critical,Tier 2 Support,Roomba Robot Vacuum,2/19/26,Problem,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2026-02-19 15:46:14
+INC-00033,Donna Davis,P3-Medium,Tier 2 Support,Dell XPS,10/25/25,Incident,Feature request,Escalation needed for resolution.,2025-10-25 18:41:24
+INC-00034,Carol King,P2-High,Tier 1 Support,Nikon D,9/19/25,Incident,Feature request,Customer needs urgent assistance.,2025-09-19 11:51:54
+PRB-00053,Nancy Anderson,P2-High,Tier 2 Support,GoPro Action Camera,4/4/25,Problem,General question,Customer reported issue with the product.,2025-04-04 16:22:57
+PRB-00054,Donald Phillips,P3-Medium,Tier 1 Support,LG Smart TV,9/23/25,Problem,Feature request,Escalation needed for resolution.,2025-09-23 07:30:55
+PRB-00055,Margaret Garcia,P4-Low,Tier 2 Support,Google Nest,7/17/25,Problem,Feature request,Follow-up required from previous ticket.,2025-07-17 12:25:18
+PRB-00056,Anthony Thompson,P2-High,Tier 1 Support,Nikon D,6/22/25,Problem,Bug report,Follow-up required from previous ticket.,2025-06-22 13:54:50
+PRB-00057,Mark Lopez,P4-Low,Tier 2 Support,MacBook Pro,7/21/25,Problem,Technical issue,Follow-up required from previous ticket.,2025-07-21 21:18:56
+INC-00035,John Young,P4-Low,Tier 1 Support,Google Pixel,1/19/26,Incident,Need support,Product arrived damaged or defective.,2026-01-19 10:35:58
+PRB-00058,Daniel Scott,P2-High,Tier 1 Support,Amazon Kindle,4/20/25,Problem,Feature request,Customer reported issue with the product.,2025-04-20 11:07:01
+PRB-00059,Kimberly Rodriguez,P3-Medium,Tier 1 Support,LG Washing Machine,1/25/26,Problem,Bug report,Unable to resolve the issue through standard troubleshooting.,2026-01-25 13:51:44
+PRB-00060,David Brown,P3-Medium,Tier 2 Support,Autodesk AutoCAD,10/29/25,Problem,Technical issue,Customer reported issue with the product.,2025-10-29 21:23:59
+PRB-00061,Steven Phillips,P4-Low,Tier 2 Support,Bose SoundLink Speaker,7/22/25,Problem,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-07-22 19:20:45
+PRB-00062,Thomas Garcia,P1-Critical,Tier 1 Support,GoPro Action Camera,8/19/25,Problem,General question,Unable to resolve the issue through standard troubleshooting.,2025-08-19 07:34:13
+PRB-00063,George Brown,P4-Low,Tier 1 Support,HP Pavilion,9/13/25,Problem,Need support,Product arrived damaged or defective.,2025-09-13 10:29:45
+INC-00036,Joseph Martin,P3-Medium,Tier 2 Support,Microsoft Office,11/24/25,Incident,Shipping question,Product arrived damaged or defective.,2025-11-24 19:50:06
+INC-00037,Thomas Robinson,P1-Critical,Tier 1 Support,Garmin Forerunner,3/9/25,Incident,Feature request,Escalation needed for resolution.,2025-03-09 07:31:28
+INC-00038,Barbara White,P3-Medium,Tier 1 Support,Philips Hue Lights,10/23/25,Incident,Technical issue,Customer needs urgent assistance.,2025-10-23 19:31:37
+PRB-00064,John Wilson,P2-High,Tier 1 Support,Microsoft Surface,5/16/25,Problem,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-05-16 11:06:27
+INQ-00051,Daniel Martinez,P1-Critical,Tier 1 Support,Adobe Photoshop,8/31/25,Inquiry,Need support,Escalation needed for resolution.,2025-08-31 20:01:41
+INQ-00052,Charles Gonzalez,P2-High,Tier 1 Support,GoPro Action Camera,12/8/25,Inquiry,General question,Customer needs urgent assistance.,2025-12-08 11:23:14
+INQ-00053,Patricia Gonzalez,P2-High,Tier 2 Support,Asus ROG,5/1/25,Inquiry,Need support,Customer reported issue with the product.,2025-05-01 13:59:36
+INQ-00054,Andrew White,P4-Low,Tier 2 Support,LG OLED,9/26/25,Inquiry,Billing inquiry,Product arrived damaged or defective.,2025-09-26 16:55:38
+INQ-00055,Sandra Harris,P4-Low,Tier 1 Support,Autodesk AutoCAD,1/28/26,Inquiry,Product not working,Product arrived damaged or defective.,2026-01-28 08:37:38
+INC-00039,Carol Brown,P2-High,Tier 2 Support,Samsung Soundbar,6/2/25,Incident,Technical issue,Follow-up required from previous ticket.,2025-06-02 15:37:17
+INQ-00056,Franklin Miller,P3-Medium,Tier 2 Support,Dell XPS,7/14/25,Inquiry,Need support,Unable to resolve the issue through standard troubleshooting.,2025-07-14 14:23:18
+INQ-00057,James Davis,P2-High,Tier 2 Support,Philips Hue Lights,5/19/25,Inquiry,Bug report,Product arrived damaged or defective.,2025-05-19 18:10:15
+INC-00040,Donna Martin,P3-Medium,Tier 1 Support,Canon EOS,11/8/25,Incident,Need support,Customer reported issue with the product.,2025-11-08 21:00:27
+INQ-00058,Matthew Clark,P4-Low,Tier 2 Support,Garmin Forerunner,3/20/25,Inquiry,Need support,Customer reported issue with the product.,2025-03-20 16:20:35
+PRB-00065,Nancy Scott,P2-High,Tier 1 Support,Canon DSLR Camera,11/20/25,Problem,Shipping question,Customer reported issue with the product.,2025-11-20 13:18:21
+INC-00041,Ashley Lewis,P1-Critical,Tier 1 Support,Nintendo Switch,9/30/25,Incident,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-09-30 13:11:24
+INQ-00059,Donald Peterson,P2-High,Tier 1 Support,GoPro Hero,1/1/26,Inquiry,Shipping question,Product arrived damaged or defective.,2026-01-01 13:15:17
+INQ-00060,Ashley Lopez,P1-Critical,Tier 1 Support,LG Washing Machine,8/4/25,Inquiry,Bug report,Follow-up required from previous ticket.,2025-08-04 19:01:13
+PRB-00066,Tom Parker,P2-High,Tier 1 Support,MacBook Pro,1/22/26,Problem,Need support,Follow-up required from previous ticket.,2026-01-22 11:36:39
+INC-00042,Mary Wright,P4-Low,Tier 2 Support,Canon EOS,11/1/25,Incident,Feature request,Escalation needed for resolution.,2025-11-01 09:55:48
+PRB-00067,Daniel Sanchez,P3-Medium,Tier 1 Support,Canon DSLR Camera,12/30/25,Problem,Technical issue,Escalation needed for resolution.,2025-12-30 12:41:17
+INC-00043,Anthony White,P1-Critical,Tier 2 Support,Google Nest,10/11/25,Incident,General question,Unable to resolve the issue through standard troubleshooting.,2025-10-11 07:26:51
+INQ-00061,Margaret Lewis,P2-High,Tier 1 Support,Sony PlayStation,10/28/25,Inquiry,Product not working,Product arrived damaged or defective.,2025-10-28 08:25:34
+PRB-00068,Thomas Davis,P2-High,Tier 2 Support,Microsoft Xbox Controller,11/18/25,Problem,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-11-18 08:18:10
+PRB-00069,Sarah Davis,P2-High,Tier 1 Support,MacBook Pro,10/5/25,Problem,Technical issue,Customer needs urgent assistance.,2025-10-05 18:08:21
+INC-00044,Donna Martinez,P2-High,Tier 1 Support,Nest Thermostat,1/23/26,Incident,Technical issue,Customer needs urgent assistance.,2026-01-23 17:35:00
+PRB-00070,Patricia Thomas,P1-Critical,Tier 2 Support,Microsoft Surface,8/19/25,Problem,Technical issue,Follow-up required from previous ticket.,2025-08-19 17:33:02
+INQ-00062,Mark Martin,P2-High,Tier 1 Support,HP Pavilion,10/30/25,Inquiry,Billing inquiry,Customer needs urgent assistance.,2025-10-30 13:00:20
+INC-00045,Andrew Campbell,P3-Medium,Tier 2 Support,Nintendo Switch,12/24/25,Incident,Bug report,Escalation needed for resolution.,2025-12-24 17:24:27
+INQ-00063,Jessica Ramirez,P2-High,Tier 2 Support,Bose QuietComfort,5/19/25,Inquiry,Need support,Unable to resolve the issue through standard troubleshooting.,2025-05-19 09:16:47
+INQ-00064,Kimberly Smith,P4-Low,Tier 1 Support,Canon DSLR Camera,3/23/25,Inquiry,Shipping question,Customer needs urgent assistance.,2025-03-23 20:10:08
+INC-00046,Paul Brown,P4-Low,Tier 1 Support,Samsung Galaxy,1/2/26,Incident,Feature request,Unable to resolve the issue through standard troubleshooting.,2026-01-02 14:42:50
+INC-00047,David Torres,P1-Critical,Tier 2 Support,Roomba Robot Vacuum,5/18/25,Incident,Shipping question,Customer reported issue with the product.,2025-05-18 21:31:14
+PRB-00071,Carol Rodriguez,P1-Critical,Tier 1 Support,Fitbit Charge,9/6/25,Problem,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-09-06 09:38:08
+INC-00048,Tom Williams,P3-Medium,Tier 1 Support,Fitbit Charge,6/17/25,Incident,Bug report,Escalation needed for resolution.,2025-06-17 14:42:41
+PRB-00072,Franklin Williams,P1-Critical,Tier 1 Support,LG Washing Machine,1/7/26,Problem,Shipping question,Escalation needed for resolution.,2026-01-07 17:58:46
+PRB-00073,John Miller,P2-High,Tier 2 Support,Amazon Echo,12/17/25,Problem,Shipping question,Customer needs urgent assistance.,2025-12-17 14:48:36
+INC-00049,Linda Wright,P1-Critical,Tier 2 Support,Sony 4K HDR TV,2/15/26,Incident,Shipping question,Customer reported issue with the product.,2026-02-15 13:37:06
+INQ-00065,Mary Williams,P1-Critical,Tier 2 Support,Philips Hue Lights,10/24/25,Inquiry,Billing inquiry,Product arrived damaged or defective.,2025-10-24 09:52:06
+INC-00050,Jessica Campbell,P4-Low,Tier 2 Support,Sony 4K HDR TV,12/20/25,Incident,Billing inquiry,Escalation needed for resolution.,2025-12-20 12:28:23
+INQ-00066,Nancy Torres,P2-High,Tier 1 Support,Autodesk AutoCAD,6/4/25,Inquiry,Need support,Customer reported issue with the product.,2025-06-04 10:59:27
+INC-00051,Jane Campbell,P2-High,Tier 2 Support,HP Pavilion,6/28/25,Incident,Feature request,Escalation needed for resolution.,2025-06-28 11:45:59
+INQ-00067,Donna Lopez,P2-High,Tier 1 Support,Amazon Echo,2/18/26,Inquiry,Bug report,Customer reported issue with the product.,2026-02-18 17:39:17
+INQ-00068,Karen Robinson,P1-Critical,Tier 2 Support,Adobe Photoshop,4/2/25,Inquiry,Need support,Unable to resolve the issue through standard troubleshooting.,2025-04-02 16:54:11
+PRB-00074,Jessica Gonzalez,P1-Critical,Tier 2 Support,MacBook Pro,2/4/26,Problem,Bug report,Unable to resolve the issue through standard troubleshooting.,2026-02-04 16:30:56
+INC-00052,Daniel Perez,P2-High,Tier 1 Support,Sony PlayStation,5/27/25,Incident,Bug report,Product arrived damaged or defective.,2025-05-27 12:43:09
+INC-00053,Donald Jackson,P3-Medium,Tier 2 Support,Bose QuietComfort,12/28/25,Incident,Shipping question,Customer needs urgent assistance.,2025-12-28 21:17:01
+PRB-00075,Charles Scott,P3-Medium,Tier 1 Support,Roomba Robot Vacuum,5/8/25,Problem,Feature request,Customer needs urgent assistance.,2025-05-08 08:57:25
+INQ-00069,Donald White,P2-High,Tier 1 Support,Sony 4K HDR TV,9/1/25,Inquiry,Bug report,Follow-up required from previous ticket.,2025-09-01 12:37:24
+INC-00054,Joseph Hernandez,P1-Critical,Tier 2 Support,Bose SoundLink Speaker,6/15/25,Incident,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-06-15 08:46:37
+PRB-00076,Sandra Jones,P3-Medium,Tier 2 Support,Nintendo Switch,6/23/25,Problem,Shipping question,Follow-up required from previous ticket.,2025-06-23 12:27:52
+PRB-00077,Carol Robinson,P4-Low,Tier 1 Support,Google Pixel,2/9/26,Problem,Technical issue,Unable to resolve the issue through standard troubleshooting.,2026-02-09 21:52:55
+INQ-00070,Donna Lewis,P1-Critical,Tier 1 Support,Garmin Forerunner,2/25/26,Inquiry,Product not working,Customer needs urgent assistance.,2026-02-25 12:04:17
+INQ-00071,Jessica Thomas,P2-High,Tier 2 Support,GoPro Hero,10/8/25,Inquiry,General question,Customer needs urgent assistance.,2025-10-08 20:06:58
+INC-00055,Robert Scott,P2-High,Tier 2 Support,Philips Hue Lights,1/29/26,Incident,General question,Product arrived damaged or defective.,2026-01-29 14:30:37
+INC-00056,Mary Anderson,P1-Critical,Tier 2 Support,Amazon Echo,7/12/25,Incident,Technical issue,Product arrived damaged or defective.,2025-07-12 17:43:04
+PRB-00078,Barbara Rodriguez,P4-Low,Tier 2 Support,Nintendo Switch Pro Controller,12/6/25,Problem,General question,Customer needs urgent assistance.,2025-12-06 13:48:56
+PRB-00079,Lisa Davis,P4-Low,Tier 2 Support,Samsung Galaxy,12/28/25,Problem,Shipping question,Customer needs urgent assistance.,2025-12-28 10:26:08
+INQ-00072,Betty Taylor,P2-High,Tier 1 Support,LG OLED,1/2/26,Inquiry,Need support,Escalation needed for resolution.,2026-01-02 18:38:35
+INQ-00073,Tom Jones,P4-Low,Tier 1 Support,Dell XPS,6/21/25,Inquiry,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-06-21 21:33:47
+INC-00057,George Jones,P3-Medium,Tier 1 Support,Microsoft Xbox Controller,5/22/25,Incident,General question,Customer reported issue with the product.,2025-05-22 10:57:14
+INQ-00074,George White,P3-Medium,Tier 1 Support,Dell XPS,4/2/25,Inquiry,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-04-02 18:39:16
+INC-00058,Joseph Taylor,P2-High,Tier 2 Support,Adobe Photoshop,10/23/25,Incident,Product not working,Product arrived damaged or defective.,2025-10-23 10:25:28
+INC-00059,Charles Taylor,P2-High,Tier 2 Support,Fitbit Charge,1/10/26,Incident,Need support,Product arrived damaged or defective.,2026-01-10 17:58:53
+PRB-00080,Kimberly Young,P2-High,Tier 2 Support,Amazon Kindle,7/27/25,Problem,Feature request,Escalation needed for resolution.,2025-07-27 18:06:13
+INC-00060,Andrew Sanchez,P1-Critical,Tier 2 Support,Bose SoundLink Speaker,11/21/25,Incident,Bug report,Product arrived damaged or defective.,2025-11-21 13:59:39
+INC-00061,Nancy Jackson,P1-Critical,Tier 1 Support,Amazon Kindle,9/9/25,Incident,Feature request,Escalation needed for resolution.,2025-09-09 18:09:27
+INC-00062,Matthew Rodriguez,P3-Medium,Tier 1 Support,HP Pavilion,5/25/25,Incident,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-05-25 11:17:06
+INC-00063,Susan Miller,P4-Low,Tier 1 Support,Google Pixel,12/19/25,Incident,Technical issue,Product arrived damaged or defective.,2025-12-19 08:49:42
+INQ-00075,Mike Peterson,P2-High,Tier 2 Support,GoPro Action Camera,9/13/25,Inquiry,Technical issue,Customer reported issue with the product.,2025-09-13 08:44:49
+PRB-00081,David Scott,P3-Medium,Tier 2 Support,Bose QuietComfort,3/27/25,Problem,Technical issue,Customer reported issue with the product.,2025-03-27 13:58:34
+INC-00064,Robert Moore,P1-Critical,Tier 2 Support,Dell XPS,5/4/25,Incident,General question,Escalation needed for resolution.,2025-05-04 20:44:10
+PRB-00082,Tom Hernandez,P2-High,Tier 1 Support,Nikon D,4/20/25,Problem,Need support,Product arrived damaged or defective.,2025-04-20 08:38:09
+INC-00065,Sarah Allen,P2-High,Tier 2 Support,Nintendo Switch,1/25/26,Incident,Need support,Unable to resolve the issue through standard troubleshooting.,2026-01-25 13:20:25
+INC-00066,Anthony Anderson,P4-Low,Tier 1 Support,Google Pixel,6/25/25,Incident,Feature request,Escalation needed for resolution.,2025-06-25 17:00:30
+PRB-00083,Patricia Moore,P1-Critical,Tier 2 Support,LG Smart TV,6/15/25,Problem,General question,Escalation needed for resolution.,2025-06-15 10:07:33
+PRB-00084,Barbara Anderson,P4-Low,Tier 2 Support,Nintendo Switch Pro Controller,4/10/25,Problem,Bug report,Customer needs urgent assistance.,2025-04-10 17:17:14
+INQ-00076,Nancy Brown,P3-Medium,Tier 2 Support,Canon EOS,8/25/25,Inquiry,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-08-25 11:02:30
+PRB-00085,Karen Davis,P1-Critical,Tier 1 Support,Dyson Vacuum Cleaner,3/3/26,Problem,Technical issue,Follow-up required from previous ticket.,2026-03-03 19:30:17
+INC-00067,Joseph Robinson,P2-High,Tier 2 Support,Bose QuietComfort,6/12/25,Incident,General question,Unable to resolve the issue through standard troubleshooting.,2025-06-12 15:46:41
+INC-00068,James Smith,P4-Low,Tier 1 Support,HP Pavilion,1/9/26,Incident,Billing inquiry,Escalation needed for resolution.,2026-01-09 15:57:47
+INQ-00077,Sarah Robinson,P1-Critical,Tier 1 Support,Dell XPS,3/13/25,Inquiry,Shipping question,Escalation needed for resolution.,2025-03-13 09:29:39
+INC-00069,Mark Jackson,P4-Low,Tier 2 Support,Dell XPS,3/28/25,Incident,Bug report,Follow-up required from previous ticket.,2025-03-28 13:52:00
+INQ-00078,Andrew Young,P4-Low,Tier 2 Support,Google Nest,8/10/25,Inquiry,Technical issue,Customer needs urgent assistance.,2025-08-10 19:59:59
+INQ-00079,Franklin Jones,P1-Critical,Tier 1 Support,Sony 4K HDR TV,1/29/26,Inquiry,Feature request,Customer reported issue with the product.,2026-01-29 07:51:01
+INQ-00080,Linda Phillips,P2-High,Tier 1 Support,HP Pavilion,12/15/25,Inquiry,Billing inquiry,Customer needs urgent assistance.,2025-12-15 18:27:59
+INQ-00081,Lisa Wilson,P1-Critical,Tier 2 Support,Microsoft Office,2/2/26,Inquiry,Feature request,Customer reported issue with the product.,2026-02-02 14:19:01
+INC-00070,Donna Scott,P3-Medium,Tier 1 Support,Samsung Galaxy,12/11/25,Incident,Shipping question,Customer needs urgent assistance.,2025-12-11 17:58:30
+INC-00071,Margaret Thompson,P4-Low,Tier 1 Support,Microsoft Xbox Controller,9/5/25,Incident,Technical issue,Escalation needed for resolution.,2025-09-05 16:14:06
+PRB-00086,Betty Davis,P2-High,Tier 1 Support,Dyson Vacuum Cleaner,2/11/26,Problem,General question,Unable to resolve the issue through standard troubleshooting.,2026-02-11 13:24:05
+PRB-00087,Sarah Torres,P1-Critical,Tier 1 Support,Dell XPS,12/31/25,Problem,Technical issue,Customer needs urgent assistance.,2025-12-31 11:04:41
+PRB-00088,David Wilson,P1-Critical,Tier 2 Support,Asus ROG,7/9/25,Problem,General question,Customer reported issue with the product.,2025-07-09 16:47:43
+PRB-00089,Lisa Hernandez,P1-Critical,Tier 1 Support,Apple AirPods,12/29/25,Problem,Product not working,Customer reported issue with the product.,2025-12-29 09:38:07
+INC-00072,Matthew Jones,P2-High,Tier 2 Support,Nikon D,2/5/26,Incident,Technical issue,Customer needs urgent assistance.,2026-02-05 15:05:58
+INC-00073,Matthew Robinson,P3-Medium,Tier 2 Support,Nest Thermostat,4/1/25,Incident,General question,Escalation needed for resolution.,2025-04-01 08:13:19
+PRB-00090,Donna Miller,P4-Low,Tier 2 Support,Lenovo ThinkPad,11/15/25,Problem,Feature request,Product arrived damaged or defective.,2025-11-15 16:33:19
+INQ-00082,Donna Sanchez,P2-High,Tier 1 Support,Microsoft Surface,8/27/25,Inquiry,Billing inquiry,Customer reported issue with the product.,2025-08-27 16:32:17
+INQ-00083,Richard Rodriguez,P2-High,Tier 2 Support,HP Pavilion,5/5/25,Inquiry,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-05-05 08:48:27
+INC-00074,Paul Anderson,P4-Low,Tier 1 Support,Microsoft Surface,7/31/25,Incident,Feature request,Escalation needed for resolution.,2025-07-31 18:15:10
+INQ-00084,Barbara Thompson,P1-Critical,Tier 1 Support,Nintendo Switch Pro Controller,2/21/26,Inquiry,Shipping question,Customer needs urgent assistance.,2026-02-21 13:55:25
+INQ-00085,Jennifer Brown,P2-High,Tier 1 Support,HP Pavilion,1/30/26,Inquiry,General question,Escalation needed for resolution.,2026-01-30 18:26:12
+PRB-00091,Paul Torres,P3-Medium,Tier 1 Support,Microsoft Surface,8/23/25,Problem,Need support,Unable to resolve the issue through standard troubleshooting.,2025-08-23 07:49:03
+PRB-00092,James Jones,P4-Low,Tier 2 Support,Fitbit Charge,7/3/25,Problem,Need support,Customer needs urgent assistance.,2025-07-03 09:14:22
+INQ-00086,Mike Young,P3-Medium,Tier 1 Support,Garmin Forerunner,8/27/25,Inquiry,Shipping question,Customer reported issue with the product.,2025-08-27 14:02:40
+PRB-00093,Ashley Thompson,P1-Critical,Tier 1 Support,Asus ROG,5/17/25,Problem,Technical issue,Customer needs urgent assistance.,2025-05-17 09:03:45
+PRB-00094,Emily Lewis,P2-High,Tier 1 Support,Bose QuietComfort,4/14/25,Problem,Feature request,Customer needs urgent assistance.,2025-04-14 11:22:21
+INQ-00087,Emily Gonzalez,P2-High,Tier 1 Support,Dell XPS,12/27/25,Inquiry,Feature request,Customer needs urgent assistance.,2025-12-27 16:57:19
+INC-00075,Jessica Moore,P4-Low,Tier 2 Support,Philips Hue Lights,2/15/26,Incident,Billing inquiry,Follow-up required from previous ticket.,2026-02-15 09:02:47
+INQ-00088,Mark Jones,P1-Critical,Tier 1 Support,Amazon Kindle,12/21/25,Inquiry,Need support,Customer needs urgent assistance.,2025-12-21 17:22:40
+PRB-00095,George Johnson,P4-Low,Tier 2 Support,Microsoft Office,7/5/25,Problem,Shipping question,Product arrived damaged or defective.,2025-07-05 08:06:49
+INC-00076,Andrew Harris,P2-High,Tier 2 Support,Adobe Photoshop,6/4/25,Incident,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-06-04 09:55:54
+PRB-00096,Charles Harris,P2-High,Tier 1 Support,Google Pixel,5/4/25,Problem,Feature request,Follow-up required from previous ticket.,2025-05-04 15:40:49
+INQ-00089,Jessica Garcia,P4-Low,Tier 2 Support,Lenovo ThinkPad,11/25/25,Inquiry,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-11-25 18:45:56
+INQ-00090,Jennifer Wilson,P2-High,Tier 2 Support,Fitbit Versa Smartwatch,5/28/25,Inquiry,Feature request,Product arrived damaged or defective.,2025-05-28 09:42:24
+INQ-00091,Jennifer Torres,P4-Low,Tier 2 Support,Sony PlayStation,6/12/25,Inquiry,Feature request,Follow-up required from previous ticket.,2025-06-12 11:39:23
+INQ-00092,Sandra Hernandez,P3-Medium,Tier 2 Support,GoPro Hero,9/16/25,Inquiry,Product not working,Customer needs urgent assistance.,2025-09-16 20:46:19
+INQ-00093,John Lewis,P4-Low,Tier 2 Support,Nest Thermostat,6/22/25,Inquiry,Billing inquiry,Customer reported issue with the product.,2025-06-22 21:00:14
+PRB-00097,Susan Lewis,P4-Low,Tier 1 Support,Sony 4K HDR TV,11/19/25,Problem,Technical issue,Product arrived damaged or defective.,2025-11-19 15:51:44
+INQ-00094,Sandra Jackson,P1-Critical,Tier 1 Support,LG OLED,8/19/25,Inquiry,Billing inquiry,Follow-up required from previous ticket.,2025-08-19 13:44:42
+PRB-00098,Sarah Ramirez,P4-Low,Tier 2 Support,Sony 4K HDR TV,7/4/25,Problem,Product not working,Follow-up required from previous ticket.,2025-07-04 12:44:48
+INQ-00095,Christopher Lee,P1-Critical,Tier 2 Support,Nest Thermostat,9/20/25,Inquiry,Bug report,Customer needs urgent assistance.,2025-09-20 16:23:10
+INC-00077,Donna Smith,P1-Critical,Tier 1 Support,Nintendo Switch Pro Controller,9/12/25,Incident,Need support,Unable to resolve the issue through standard troubleshooting.,2025-09-12 15:48:29
+INQ-00096,Karen Torres,P2-High,Tier 2 Support,Roomba Robot Vacuum,5/25/25,Inquiry,Product not working,Follow-up required from previous ticket.,2025-05-25 11:22:13
+INQ-00097,Mike White,P1-Critical,Tier 1 Support,LG OLED,8/2/25,Inquiry,Shipping question,Customer reported issue with the product.,2025-08-02 07:02:53
+PRB-00099,Lisa Young,P2-High,Tier 1 Support,GoPro Hero,5/1/25,Problem,General question,Follow-up required from previous ticket.,2025-05-01 09:54:16
+PRB-00100,Betty Torres,P3-Medium,Tier 1 Support,GoPro Action Camera,6/26/25,Problem,General question,Customer needs urgent assistance.,2025-06-26 21:14:08
+PRB-00101,Franklin Ramirez,P1-Critical,Tier 2 Support,Sony PlayStation,3/31/25,Problem,General question,Follow-up required from previous ticket.,2025-03-31 13:06:34
+PRB-00102,Nancy Thomas,P2-High,Tier 1 Support,PlayStation,6/11/25,Problem,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-06-11 14:37:52
+INQ-00098,David King,P4-Low,Tier 1 Support,Microsoft Surface,5/30/25,Inquiry,Technical issue,Customer needs urgent assistance.,2025-05-30 14:14:54
+INC-00078,Kimberly Torres,P3-Medium,Tier 2 Support,MacBook Pro,10/13/25,Incident,Billing inquiry,Escalation needed for resolution.,2025-10-13 18:51:05
+PRB-00103,Paul Clark,P3-Medium,Tier 2 Support,Fitbit Versa Smartwatch,11/19/25,Problem,Shipping question,Customer reported issue with the product.,2025-11-19 07:26:19
+INQ-00099,Ashley Hernandez,P1-Critical,Tier 1 Support,Nest Thermostat,6/9/25,Inquiry,Technical issue,Escalation needed for resolution.,2025-06-09 08:00:09
+PRB-00104,Linda Wilson,P3-Medium,Tier 1 Support,Sony PlayStation,3/16/25,Problem,General question,Unable to resolve the issue through standard troubleshooting.,2025-03-16 11:57:18
+INC-00079,Mike Phillips,P3-Medium,Tier 2 Support,Adobe Photoshop,5/29/25,Incident,Technical issue,Product arrived damaged or defective.,2025-05-29 14:30:32
+INQ-00100,Betty Thompson,P4-Low,Tier 1 Support,MacBook Pro,7/29/25,Inquiry,Bug report,Product arrived damaged or defective.,2025-07-29 17:15:16
+INC-00080,Richard Brown,P2-High,Tier 2 Support,Canon DSLR Camera,6/1/25,Incident,General question,Escalation needed for resolution.,2025-06-01 14:40:04
+INQ-00101,Linda Miller,P1-Critical,Tier 1 Support,Fitbit Versa Smartwatch,11/3/25,Inquiry,General question,Product arrived damaged or defective.,2025-11-03 13:31:30
+INQ-00102,Joseph Gonzalez,P3-Medium,Tier 1 Support,Fitbit Versa Smartwatch,7/20/25,Inquiry,Shipping question,Product arrived damaged or defective.,2025-07-20 21:01:03
+INC-00081,Anthony Torres,P1-Critical,Tier 1 Support,Lenovo ThinkPad,6/11/25,Incident,Technical issue,Customer reported issue with the product.,2025-06-11 09:45:13
+PRB-00105,Donald Torres,P2-High,Tier 1 Support,Bose SoundLink Speaker,6/23/25,Problem,Product not working,Customer reported issue with the product.,2025-06-23 15:24:00
+PRB-00106,Richard Thomas,P1-Critical,Tier 1 Support,Samsung Soundbar,11/2/25,Problem,General question,Customer needs urgent assistance.,2025-11-02 15:41:05
+PRB-00107,Karen King,P1-Critical,Tier 1 Support,Sony PlayStation,3/26/25,Problem,Need support,Follow-up required from previous ticket.,2025-03-26 14:53:26
+INC-00082,Patricia Wilson,P3-Medium,Tier 2 Support,PlayStation,11/21/25,Incident,Technical issue,Product arrived damaged or defective.,2025-11-21 19:36:51
+INC-00083,Karen Lopez,P3-Medium,Tier 1 Support,Bose QuietComfort,6/23/25,Incident,Feature request,Escalation needed for resolution.,2025-06-23 11:40:46
+PRB-00108,Nancy Davis,P4-Low,Tier 1 Support,GoPro Action Camera,9/6/25,Problem,Product not working,Escalation needed for resolution.,2025-09-06 21:15:05
+INQ-00103,Ashley Smith,P1-Critical,Tier 2 Support,GoPro Action Camera,8/12/25,Inquiry,Billing inquiry,Customer reported issue with the product.,2025-08-12 11:14:02
+INC-00084,Matthew Martinez,P3-Medium,Tier 1 Support,Google Pixel,12/20/25,Incident,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-12-20 15:24:20
+PRB-00109,Sarah Taylor,P3-Medium,Tier 1 Support,Microsoft Surface,9/20/25,Problem,Billing inquiry,Escalation needed for resolution.,2025-09-20 14:51:39
+INC-00085,Carol Moore,P1-Critical,Tier 1 Support,GoPro Action Camera,10/31/25,Incident,Product not working,Escalation needed for resolution.,2025-10-31 19:31:44
+INC-00086,Lisa Williams,P4-Low,Tier 2 Support,Nikon D,8/12/25,Incident,Billing inquiry,Follow-up required from previous ticket.,2025-08-12 13:20:49
+INQ-00104,Thomas Williams,P2-High,Tier 1 Support,Roomba Robot Vacuum,4/12/25,Inquiry,Need support,Unable to resolve the issue through standard troubleshooting.,2025-04-12 11:46:20
+INC-00087,Donna Wilson,P2-High,Tier 2 Support,Google Pixel,3/1/26,Incident,Technical issue,Follow-up required from previous ticket.,2026-03-01 07:51:10
+INQ-00105,Margaret Williams,P4-Low,Tier 1 Support,Asus ROG,3/9/25,Inquiry,Product not working,Unable to resolve the issue through standard troubleshooting.,2025-03-09 12:54:01
+PRB-00110,James Lewis,P3-Medium,Tier 2 Support,Adobe Photoshop,7/1/25,Problem,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-07-01 19:17:08
+PRB-00111,Emily Torres,P1-Critical,Tier 1 Support,GoPro Hero,11/7/25,Problem,Billing inquiry,Product arrived damaged or defective.,2025-11-07 07:42:03
+INQ-00106,Charles Brown,P4-Low,Tier 1 Support,Dyson Vacuum Cleaner,6/21/25,Inquiry,Shipping question,Escalation needed for resolution.,2025-06-21 20:35:51
+INC-00088,Sandra Wright,P1-Critical,Tier 2 Support,Roomba Robot Vacuum,11/23/25,Incident,Product not working,Unable to resolve the issue through standard troubleshooting.,2025-11-23 15:26:16
+INQ-00107,Patricia Harris,P1-Critical,Tier 2 Support,GoPro Action Camera,8/18/25,Inquiry,Bug report,Product arrived damaged or defective.,2025-08-18 09:23:49
+INQ-00108,Carol Scott,P1-Critical,Tier 1 Support,LG Smart TV,9/28/25,Inquiry,Need support,Product arrived damaged or defective.,2025-09-28 11:06:33
+INQ-00109,Steven Wilson,P3-Medium,Tier 1 Support,iPhone,7/11/25,Inquiry,Product not working,Product arrived damaged or defective.,2025-07-11 15:16:32
+INC-00089,Sarah Martinez,P2-High,Tier 1 Support,Nintendo Switch,1/4/26,Incident,Feature request,Follow-up required from previous ticket.,2026-01-04 11:32:27
+INC-00090,George Wright,P1-Critical,Tier 1 Support,Microsoft Office,1/10/26,Incident,Bug report,Follow-up required from previous ticket.,2026-01-10 08:53:49
+INQ-00110,Karen Phillips,P3-Medium,Tier 1 Support,Philips Hue Lights,11/10/25,Inquiry,General question,Product arrived damaged or defective.,2025-11-10 16:51:02
+INQ-00111,David Garcia,P3-Medium,Tier 2 Support,HP Pavilion,10/26/25,Inquiry,Bug report,Customer needs urgent assistance.,2025-10-26 17:11:05
+INQ-00112,Paul Rodriguez,P3-Medium,Tier 1 Support,GoPro Hero,1/10/26,Inquiry,Shipping question,Customer reported issue with the product.,2026-01-10 08:40:25
+INC-00091,Barbara Gonzalez,P2-High,Tier 2 Support,Dyson Vacuum Cleaner,3/1/26,Incident,Need support,Follow-up required from previous ticket.,2026-03-01 11:05:23
+INQ-00113,Tom Campbell,P3-Medium,Tier 1 Support,GoPro Hero,2/27/26,Inquiry,Technical issue,Customer reported issue with the product.,2026-02-27 10:40:32
+PRB-00112,Sarah Lopez,P3-Medium,Tier 1 Support,Nest Thermostat,7/13/25,Problem,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-07-13 16:20:44
+PRB-00113,Daniel Davis,P3-Medium,Tier 1 Support,Sony 4K HDR TV,3/25/25,Problem,Shipping question,Customer needs urgent assistance.,2025-03-25 17:26:35
+INQ-00114,Donna Gonzalez,P2-High,Tier 1 Support,Microsoft Xbox Controller,7/9/25,Inquiry,Bug report,Follow-up required from previous ticket.,2025-07-09 17:43:15
+PRB-00114,Jane Clark,P1-Critical,Tier 1 Support,MacBook Pro,1/26/26,Problem,Product not working,Unable to resolve the issue through standard troubleshooting.,2026-01-26 21:25:19
+PRB-00115,Daniel Lopez,P2-High,Tier 1 Support,Dell XPS,12/11/25,Problem,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-12-11 18:48:45
+INC-00092,Susan Garcia,P4-Low,Tier 1 Support,Canon DSLR Camera,5/19/25,Incident,Shipping question,Escalation needed for resolution.,2025-05-19 11:32:12
+INC-00093,Paul Moore,P1-Critical,Tier 2 Support,Canon DSLR Camera,1/22/26,Incident,Need support,Customer needs urgent assistance.,2026-01-22 08:59:30
+PRB-00116,Andrew Miller,P2-High,Tier 2 Support,Fitbit Versa Smartwatch,6/5/25,Problem,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-06-05 16:38:32
+PRB-00117,Donna Johnson,P2-High,Tier 1 Support,LG OLED,11/16/25,Problem,Technical issue,Escalation needed for resolution.,2025-11-16 20:17:45
+INC-00094,Betty Ramirez,P2-High,Tier 1 Support,Garmin Forerunner,1/16/26,Incident,Feature request,Escalation needed for resolution.,2026-01-16 21:46:42
+PRB-00118,Sandra Gonzalez,P3-Medium,Tier 2 Support,Nest Thermostat,10/22/25,Problem,General question,Follow-up required from previous ticket.,2025-10-22 10:24:27
+INC-00095,Barbara Clark,P4-Low,Tier 2 Support,Nest Thermostat,4/9/25,Incident,Need support,Unable to resolve the issue through standard troubleshooting.,2025-04-09 10:32:18
+INQ-00115,Mike Moore,P1-Critical,Tier 1 Support,Samsung Soundbar,3/19/25,Inquiry,Billing inquiry,Follow-up required from previous ticket.,2025-03-19 07:08:22
+INQ-00116,Lisa Clark,P1-Critical,Tier 2 Support,Google Nest,1/14/26,Inquiry,General question,Customer reported issue with the product.,2026-01-14 09:07:24
+INC-00096,Karen Wright,P1-Critical,Tier 2 Support,Fitbit Charge,9/2/25,Incident,Shipping question,Customer needs urgent assistance.,2025-09-02 15:34:13
+INC-00097,Patricia Johnson,P3-Medium,Tier 2 Support,Fitbit Charge,5/10/25,Incident,Shipping question,Escalation needed for resolution.,2025-05-10 15:11:37
+PRB-00119,Thomas Gonzalez,P2-High,Tier 2 Support,PlayStation,5/3/25,Problem,Need support,Customer needs urgent assistance.,2025-05-03 12:59:12
+INC-00098,Margaret White,P3-Medium,Tier 2 Support,Fitbit Charge,5/22/25,Incident,Shipping question,Product arrived damaged or defective.,2025-05-22 11:51:38
+INQ-00117,Sarah Scott,P2-High,Tier 2 Support,Canon EOS,10/15/25,Inquiry,Need support,Customer needs urgent assistance.,2025-10-15 19:42:45
+PRB-00120,Kimberly Lewis,P3-Medium,Tier 2 Support,Sony PlayStation,10/28/25,Problem,General question,Follow-up required from previous ticket.,2025-10-28 13:44:57
+PRB-00121,Tom Johnson,P3-Medium,Tier 2 Support,Bose SoundLink Speaker,9/19/25,Problem,Billing inquiry,Customer needs urgent assistance.,2025-09-19 19:35:07
+INQ-00118,Thomas Perez,P3-Medium,Tier 1 Support,Nest Thermostat,10/5/25,Inquiry,Need support,Follow-up required from previous ticket.,2025-10-05 21:03:45
+INC-00099,Barbara Torres,P4-Low,Tier 2 Support,HP Pavilion,1/10/26,Incident,Shipping question,Product arrived damaged or defective.,2026-01-10 11:23:05
+PRB-00122,Ashley Davis,P4-Low,Tier 2 Support,Fitbit Versa Smartwatch,10/16/25,Problem,Bug report,Follow-up required from previous ticket.,2025-10-16 10:29:20
+INC-00100,Steven Ramirez,P1-Critical,Tier 2 Support,Philips Hue Lights,12/18/25,Incident,Need support,Follow-up required from previous ticket.,2025-12-18 21:54:10
+INQ-00119,Karen Ramirez,P4-Low,Tier 2 Support,GoPro Hero,5/9/25,Inquiry,Product not working,Escalation needed for resolution.,2025-05-09 16:13:09
+INQ-00120,Franklin Wright,P2-High,Tier 1 Support,Samsung Galaxy,10/28/25,Inquiry,Billing inquiry,Customer reported issue with the product.,2025-10-28 11:29:10
+INQ-00121,Anthony Campbell,P3-Medium,Tier 2 Support,Nintendo Switch Pro Controller,9/15/25,Inquiry,Feature request,Follow-up required from previous ticket.,2025-09-15 16:20:02
+PRB-00123,Richard Williams,P3-Medium,Tier 2 Support,Nintendo Switch,10/19/25,Problem,Billing inquiry,Customer needs urgent assistance.,2025-10-19 14:08:49
+PRB-00124,David Thomas,P2-High,Tier 1 Support,Philips Hue Lights,10/29/25,Problem,Shipping question,Escalation needed for resolution.,2025-10-29 20:06:03
+INC-00101,George Lopez,P4-Low,Tier 1 Support,LG Smart TV,6/17/25,Incident,Need support,Unable to resolve the issue through standard troubleshooting.,2025-06-17 10:21:23
+PRB-00125,Joseph Smith,P1-Critical,Tier 1 Support,Google Pixel,8/8/25,Problem,General question,Customer reported issue with the product.,2025-08-08 21:04:41
+INC-00102,Mike Wright,P2-High,Tier 2 Support,Fitbit Charge,8/25/25,Incident,Shipping question,Follow-up required from previous ticket.,2025-08-25 21:04:59
+PRB-00126,John Jones,P1-Critical,Tier 1 Support,Nest Thermostat,8/28/25,Problem,General question,Product arrived damaged or defective.,2025-08-28 09:21:51
+INQ-00122,David White,P4-Low,Tier 1 Support,Nest Thermostat,4/5/25,Inquiry,General question,Escalation needed for resolution.,2025-04-05 09:12:08
+PRB-00127,Paul Garcia,P2-High,Tier 2 Support,Lenovo ThinkPad,3/3/26,Problem,Bug report,Escalation needed for resolution.,2026-03-03 14:33:59
+INQ-00123,Donald Wilson,P4-Low,Tier 2 Support,HP Pavilion,3/29/25,Inquiry,Shipping question,Customer needs urgent assistance.,2025-03-29 07:01:39
+PRB-00128,Carol Hernandez,P3-Medium,Tier 1 Support,Dell XPS,10/13/25,Problem,Shipping question,Follow-up required from previous ticket.,2025-10-13 11:18:10
+PRB-00129,Mike Torres,P2-High,Tier 1 Support,Nest Thermostat,2/13/26,Problem,Need support,Product arrived damaged or defective.,2026-02-13 13:27:26
+PRB-00130,Franklin Young,P4-Low,Tier 1 Support,Nest Thermostat,7/27/25,Problem,Need support,Follow-up required from previous ticket.,2025-07-27 21:57:55
+INQ-00124,Kimberly Johnson,P3-Medium,Tier 1 Support,Microsoft Xbox Controller,9/29/25,Inquiry,Feature request,Escalation needed for resolution.,2025-09-29 21:38:23
+INC-00103,Mark Robinson,P3-Medium,Tier 1 Support,Lenovo ThinkPad,11/6/25,Incident,General question,Customer needs urgent assistance.,2025-11-06 09:52:11
+PRB-00131,Franklin King,P3-Medium,Tier 1 Support,Samsung Galaxy,10/2/25,Problem,Bug report,Customer needs urgent assistance.,2025-10-02 20:20:52
+INQ-00125,Patricia Campbell,P1-Critical,Tier 1 Support,Samsung Galaxy,11/23/25,Inquiry,General question,Product arrived damaged or defective.,2025-11-23 08:26:57
+PRB-00132,Emily Williams,P2-High,Tier 2 Support,Asus ROG,12/13/25,Problem,Shipping question,Follow-up required from previous ticket.,2025-12-13 18:25:58
+INC-00104,Steven Gonzalez,P2-High,Tier 2 Support,Dyson Vacuum Cleaner,8/3/25,Incident,Need support,Product arrived damaged or defective.,2025-08-03 19:53:57
+INQ-00126,Andrew King,P3-Medium,Tier 2 Support,Dyson Vacuum Cleaner,9/23/25,Inquiry,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-09-23 20:57:52
+INC-00105,John Wright,P4-Low,Tier 2 Support,Philips Hue Lights,10/4/25,Incident,Product not working,Product arrived damaged or defective.,2025-10-04 10:57:27
+PRB-00133,Nancy Ramirez,P2-High,Tier 1 Support,GoPro Action Camera,3/14/25,Problem,Product not working,Escalation needed for resolution.,2025-03-14 20:45:11
+INQ-00127,Paul Robinson,P3-Medium,Tier 1 Support,Apple AirPods,3/3/26,Inquiry,Feature request,Customer needs urgent assistance.,2026-03-03 08:30:37
+PRB-00134,Richard Anderson,P4-Low,Tier 2 Support,Fitbit Versa Smartwatch,9/27/25,Problem,Shipping question,Customer needs urgent assistance.,2025-09-27 14:32:13
+INC-00106,Sandra Williams,P1-Critical,Tier 2 Support,Garmin Forerunner,10/30/25,Incident,Billing inquiry,Customer needs urgent assistance.,2025-10-30 14:58:28
+INC-00107,Jane Harris,P1-Critical,Tier 1 Support,Samsung Soundbar,7/16/25,Incident,Bug report,Product arrived damaged or defective.,2025-07-16 11:17:39
+INQ-00128,Jane Wilson,P3-Medium,Tier 1 Support,Sony PlayStation,5/5/25,Inquiry,Product not working,Unable to resolve the issue through standard troubleshooting.,2025-05-05 07:20:56
+INC-00108,Donald Martinez,P2-High,Tier 2 Support,Dyson Vacuum Cleaner,12/16/25,Incident,Technical issue,Customer reported issue with the product.,2025-12-16 18:53:17
+PRB-00135,Mary Smith,P1-Critical,Tier 2 Support,Apple AirPods,8/21/25,Problem,Shipping question,Customer reported issue with the product.,2025-08-21 12:23:15
+INC-00109,Emily Smith,P4-Low,Tier 1 Support,Nest Thermostat,7/11/25,Incident,Product not working,Product arrived damaged or defective.,2025-07-11 16:14:44
+PRB-00136,Mary Harris,P1-Critical,Tier 1 Support,Roomba Robot Vacuum,10/5/25,Problem,Technical issue,Product arrived damaged or defective.,2025-10-05 13:33:00
+INC-00110,Steven Thomas,P1-Critical,Tier 1 Support,Nikon D,9/22/25,Incident,Billing inquiry,Escalation needed for resolution.,2025-09-22 12:19:33
+PRB-00137,Joseph Thompson,P4-Low,Tier 1 Support,Adobe Photoshop,6/12/25,Problem,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-06-12 20:53:44
+INC-00111,Charles Moore,P4-Low,Tier 1 Support,Bose QuietComfort,8/5/25,Incident,Feature request,Follow-up required from previous ticket.,2025-08-05 08:54:33
+INC-00112,Donald Davis,P1-Critical,Tier 1 Support,Autodesk AutoCAD,9/19/25,Incident,Feature request,Escalation needed for resolution.,2025-09-19 18:18:23
+PRB-00138,Christopher Harris,P4-Low,Tier 2 Support,Microsoft Office,8/25/25,Problem,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-08-25 18:31:49
+INC-00113,Kimberly Williams,P3-Medium,Tier 1 Support,iPhone,7/16/25,Incident,General question,Customer reported issue with the product.,2025-07-16 12:59:22
+INC-00114,Tom Perez,P1-Critical,Tier 1 Support,Google Nest,5/4/25,Incident,General question,Product arrived damaged or defective.,2025-05-04 10:44:42
+INQ-00129,Mark Anderson,P3-Medium,Tier 1 Support,Google Nest,12/9/25,Inquiry,Shipping question,Follow-up required from previous ticket.,2025-12-09 07:12:27
+PRB-00139,Thomas Martinez,P2-High,Tier 1 Support,Bose QuietComfort,12/17/25,Problem,Technical issue,Customer reported issue with the product.,2025-12-17 21:35:01
+INC-00115,Emily Campbell,P3-Medium,Tier 1 Support,Philips Hue Lights,10/10/25,Incident,General question,Customer needs urgent assistance.,2025-10-10 21:37:31
+PRB-00140,Barbara Martinez,P4-Low,Tier 2 Support,Philips Hue Lights,1/3/26,Problem,Shipping question,Product arrived damaged or defective.,2026-01-03 10:39:02
+INC-00116,Anthony Martinez,P1-Critical,Tier 2 Support,Sony 4K HDR TV,2/15/26,Incident,Shipping question,Follow-up required from previous ticket.,2026-02-15 07:01:55
+INQ-00130,John Anderson,P1-Critical,Tier 2 Support,Sony PlayStation,1/17/26,Inquiry,General question,Customer needs urgent assistance.,2026-01-17 08:17:36
+INQ-00131,Matthew Lee,P4-Low,Tier 1 Support,Amazon Kindle,1/22/26,Inquiry,General question,Escalation needed for resolution.,2026-01-22 08:51:22
+PRB-00141,Charles White,P1-Critical,Tier 1 Support,Amazon Echo,12/27/25,Problem,Product not working,Follow-up required from previous ticket.,2025-12-27 19:14:29
+INQ-00132,Anthony Jackson,P3-Medium,Tier 1 Support,GoPro Hero,4/2/25,Inquiry,Need support,Follow-up required from previous ticket.,2025-04-02 20:17:37
+INQ-00133,Lisa Lewis,P2-High,Tier 1 Support,GoPro Action Camera,3/7/25,Inquiry,Product not working,Follow-up required from previous ticket.,2025-03-07 09:19:15
+PRB-00142,John Hernandez,P1-Critical,Tier 2 Support,Dyson Vacuum Cleaner,1/3/26,Problem,Billing inquiry,Customer reported issue with the product.,2026-01-03 18:10:17
+PRB-00143,Donald Anderson,P1-Critical,Tier 1 Support,Fitbit Charge,5/31/25,Problem,Need support,Product arrived damaged or defective.,2025-05-31 09:09:25
+PRB-00144,Mike Wilson,P2-High,Tier 2 Support,GoPro Hero,6/7/25,Problem,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-06-07 12:20:15
+INQ-00134,Charles Jackson,P2-High,Tier 1 Support,Google Pixel,12/4/25,Inquiry,Product not working,Product arrived damaged or defective.,2025-12-04 15:52:45
+INQ-00135,Matthew Hernandez,P3-Medium,Tier 2 Support,Samsung Galaxy,11/2/25,Inquiry,Billing inquiry,Follow-up required from previous ticket.,2025-11-02 17:00:06
+PRB-00145,Matthew Taylor,P4-Low,Tier 1 Support,Bose SoundLink Speaker,9/8/25,Problem,Bug report,Escalation needed for resolution.,2025-09-08 20:16:49
+INQ-00136,Charles Hernandez,P1-Critical,Tier 1 Support,Dell XPS,9/2/25,Inquiry,Shipping question,Customer needs urgent assistance.,2025-09-02 07:03:20
+INQ-00137,Charles Williams,P3-Medium,Tier 1 Support,MacBook Pro,6/7/25,Inquiry,Technical issue,Customer needs urgent assistance.,2025-06-07 09:33:33
+INQ-00138,Tom Lewis,P3-Medium,Tier 2 Support,iPhone,8/17/25,Inquiry,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-08-17 11:15:09
+INC-00117,Mike Clark,P4-Low,Tier 2 Support,Canon EOS,7/20/25,Incident,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-07-20 11:47:23
+PRB-00146,Susan Campbell,P3-Medium,Tier 2 Support,Microsoft Surface,7/1/25,Problem,Product not working,Customer reported issue with the product.,2025-07-01 21:35:45
+INQ-00139,Franklin Scott,P1-Critical,Tier 1 Support,Google Nest,2/25/26,Inquiry,Shipping question,Unable to resolve the issue through standard troubleshooting.,2026-02-25 18:47:16
+PRB-00147,Mark Phillips,P4-Low,Tier 1 Support,Canon EOS,7/8/25,Problem,General question,Unable to resolve the issue through standard troubleshooting.,2025-07-08 11:38:07
+INC-00118,Anthony Smith,P3-Medium,Tier 1 Support,LG Smart TV,9/18/25,Incident,Product not working,Customer reported issue with the product.,2025-09-18 21:26:31
+PRB-00148,Karen Thomas,P4-Low,Tier 2 Support,Fitbit Versa Smartwatch,12/4/25,Problem,Product not working,Escalation needed for resolution.,2025-12-04 14:51:09
+INQ-00140,David Davis,P3-Medium,Tier 2 Support,MacBook Pro,7/12/25,Inquiry,Need support,Follow-up required from previous ticket.,2025-07-12 14:28:18
+PRB-00149,Lisa Ramirez,P4-Low,Tier 1 Support,Microsoft Surface,6/5/25,Problem,General question,Unable to resolve the issue through standard troubleshooting.,2025-06-05 13:56:27
+INC-00119,Jane Anderson,P3-Medium,Tier 1 Support,Amazon Echo,11/7/25,Incident,Bug report,Customer needs urgent assistance.,2025-11-07 09:59:33
+INC-00120,Karen Sanchez,P3-Medium,Tier 2 Support,Dell XPS,1/8/26,Incident,Product not working,Unable to resolve the issue through standard troubleshooting.,2026-01-08 21:35:38
+INQ-00141,Donald Thomas,P4-Low,Tier 1 Support,Dyson Vacuum Cleaner,10/18/25,Inquiry,Billing inquiry,Customer reported issue with the product.,2025-10-18 07:40:40
+INC-00121,Mike Thompson,P2-High,Tier 1 Support,Google Pixel,2/1/26,Incident,Bug report,Product arrived damaged or defective.,2026-02-01 09:15:50
+PRB-00150,Jane Miller,P3-Medium,Tier 1 Support,Canon EOS,5/14/25,Problem,Bug report,Follow-up required from previous ticket.,2025-05-14 10:48:03
+INQ-00142,Susan Thomas,P2-High,Tier 1 Support,Dell XPS,1/20/26,Inquiry,Billing inquiry,Customer reported issue with the product.,2026-01-20 11:40:21
+PRB-00151,Emily Wright,P4-Low,Tier 2 Support,Asus ROG,4/15/25,Problem,Product not working,Follow-up required from previous ticket.,2025-04-15 08:54:00
+INQ-00143,Richard Davis,P3-Medium,Tier 1 Support,Adobe Photoshop,11/17/25,Inquiry,Bug report,Escalation needed for resolution.,2025-11-17 07:16:00
+PRB-00152,Sandra Clark,P1-Critical,Tier 1 Support,Philips Hue Lights,4/2/25,Problem,Product not working,Unable to resolve the issue through standard troubleshooting.,2025-04-02 17:47:12
+INQ-00144,Donna Robinson,P3-Medium,Tier 1 Support,LG Smart TV,2/23/26,Inquiry,Feature request,Escalation needed for resolution.,2026-02-23 21:28:35
+INC-00122,Barbara Young,P3-Medium,Tier 2 Support,Google Pixel,7/7/25,Incident,General question,Customer needs urgent assistance.,2025-07-07 08:11:53
+INC-00123,Lisa Phillips,P2-High,Tier 2 Support,LG OLED,7/18/25,Incident,Feature request,Customer needs urgent assistance.,2025-07-18 11:10:46
+INQ-00145,Robert Thomas,P3-Medium,Tier 1 Support,Amazon Echo,5/31/25,Inquiry,General question,Customer needs urgent assistance.,2025-05-31 14:33:38
+PRB-00153,Mary Thomas,P4-Low,Tier 1 Support,Autodesk AutoCAD,9/29/25,Problem,General question,Follow-up required from previous ticket.,2025-09-29 20:19:46
+INQ-00146,Richard Clark,P1-Critical,Tier 2 Support,Roomba Robot Vacuum,3/13/25,Inquiry,Feature request,Customer needs urgent assistance.,2025-03-13 17:06:10
+INC-00124,Carol Jones,P4-Low,Tier 1 Support,Canon EOS,5/17/25,Incident,Bug report,Customer needs urgent assistance.,2025-05-17 18:25:50
+INC-00125,Steven Jones,P1-Critical,Tier 2 Support,Microsoft Xbox Controller,5/26/25,Incident,Billing inquiry,Customer reported issue with the product.,2025-05-26 15:39:53
+PRB-00154,Nancy Moore,P1-Critical,Tier 2 Support,Autodesk AutoCAD,5/14/25,Problem,Shipping question,Escalation needed for resolution.,2025-05-14 13:19:05
+INQ-00147,Steven Brown,P3-Medium,Tier 2 Support,Nintendo Switch Pro Controller,7/14/25,Inquiry,Product not working,Product arrived damaged or defective.,2025-07-14 09:57:28
+INQ-00148,Lisa Martinez,P3-Medium,Tier 1 Support,Canon EOS,12/12/25,Inquiry,Feature request,Customer needs urgent assistance.,2025-12-12 19:46:49
+INC-00126,Jennifer Anderson,P2-High,Tier 2 Support,Bose SoundLink Speaker,8/9/25,Incident,Product not working,Escalation needed for resolution.,2025-08-09 19:30:28
+INC-00127,Tom Sanchez,P2-High,Tier 1 Support,Adobe Photoshop,8/5/25,Incident,Technical issue,Customer needs urgent assistance.,2025-08-05 07:56:50
+INC-00128,Paul Johnson,P1-Critical,Tier 2 Support,HP Pavilion,6/7/25,Incident,Feature request,Product arrived damaged or defective.,2025-06-07 17:25:56
+INQ-00149,Kimberly Martinez,P1-Critical,Tier 1 Support,Autodesk AutoCAD,5/23/25,Inquiry,Product not working,Unable to resolve the issue through standard troubleshooting.,2025-05-23 08:08:28
+INQ-00150,Donald Garcia,P4-Low,Tier 2 Support,Dell XPS,8/12/25,Inquiry,Shipping question,Follow-up required from previous ticket.,2025-08-12 18:02:03
+PRB-00155,Jane Brown,P1-Critical,Tier 2 Support,Samsung Galaxy,2/28/26,Problem,Shipping question,Unable to resolve the issue through standard troubleshooting.,2026-02-28 19:56:20
+INQ-00151,Carol Peterson,P1-Critical,Tier 2 Support,Bose SoundLink Speaker,6/17/25,Inquiry,Feature request,Customer reported issue with the product.,2025-06-17 08:57:12
+INQ-00152,Sandra Ramirez,P4-Low,Tier 1 Support,Asus ROG,3/27/25,Inquiry,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-03-27 13:44:28
+INQ-00153,Charles Thompson,P4-Low,Tier 2 Support,PlayStation,9/5/25,Inquiry,Feature request,Customer reported issue with the product.,2025-09-05 08:06:35
+INQ-00154,Andrew Martin,P1-Critical,Tier 2 Support,Roomba Robot Vacuum,7/14/25,Inquiry,General question,Product arrived damaged or defective.,2025-07-14 15:17:27
+INC-00129,Steven Lewis,P3-Medium,Tier 2 Support,Google Pixel,5/13/25,Incident,Bug report,Customer needs urgent assistance.,2025-05-13 20:02:11
+INC-00130,Linda Gonzalez,P2-High,Tier 2 Support,Lenovo ThinkPad,11/28/25,Incident,Shipping question,Follow-up required from previous ticket.,2025-11-28 08:03:18
+PRB-00156,Anthony Peterson,P1-Critical,Tier 2 Support,Samsung Galaxy,9/19/25,Problem,Feature request,Product arrived damaged or defective.,2025-09-19 12:14:40
+INC-00131,Andrew Peterson,P2-High,Tier 1 Support,Lenovo ThinkPad,7/20/25,Incident,Need support,Escalation needed for resolution.,2025-07-20 21:34:01
+PRB-00157,Andrew Thomas,P2-High,Tier 1 Support,Lenovo ThinkPad,8/10/25,Problem,Need support,Unable to resolve the issue through standard troubleshooting.,2025-08-10 11:03:12
+PRB-00158,Karen Parker,P4-Low,Tier 1 Support,Samsung Galaxy,1/22/26,Problem,Shipping question,Customer needs urgent assistance.,2026-01-22 08:59:53
+INQ-00155,David Anderson,P3-Medium,Tier 1 Support,Roomba Robot Vacuum,12/31/25,Inquiry,General question,Customer reported issue with the product.,2025-12-31 14:27:05
+PRB-00159,Daniel Moore,P4-Low,Tier 1 Support,Google Nest,4/10/25,Problem,General question,Follow-up required from previous ticket.,2025-04-10 14:15:24
+INQ-00156,Kimberly Thomas,P1-Critical,Tier 1 Support,Canon EOS,11/23/25,Inquiry,Product not working,Escalation needed for resolution.,2025-11-23 16:30:12
+INQ-00157,Christopher Martin,P3-Medium,Tier 2 Support,Canon DSLR Camera,7/24/25,Inquiry,Bug report,Follow-up required from previous ticket.,2025-07-24 11:47:06
+INC-00132,Paul Miller,P2-High,Tier 1 Support,Canon EOS,9/22/25,Incident,General question,Customer needs urgent assistance.,2025-09-22 21:18:25
+PRB-00160,Franklin Anderson,P4-Low,Tier 1 Support,Adobe Photoshop,10/21/25,Problem,Bug report,Product arrived damaged or defective.,2025-10-21 14:02:31
+INQ-00158,Betty Jones,P3-Medium,Tier 1 Support,Asus ROG,5/18/25,Inquiry,Product not working,Unable to resolve the issue through standard troubleshooting.,2025-05-18 11:03:10
+INQ-00159,Margaret Gonzalez,P2-High,Tier 1 Support,Asus ROG,10/27/25,Inquiry,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-10-27 21:51:04
+INQ-00160,Margaret Clark,P3-Medium,Tier 2 Support,LG Washing Machine,6/17/25,Inquiry,Feature request,Escalation needed for resolution.,2025-06-17 20:06:08
+INQ-00161,Donald Smith,P1-Critical,Tier 2 Support,Dell XPS,1/2/26,Inquiry,Technical issue,Product arrived damaged or defective.,2026-01-02 14:38:39
+INC-00133,Paul Hernandez,P4-Low,Tier 2 Support,Asus ROG,3/31/25,Incident,Shipping question,Customer needs urgent assistance.,2025-03-31 07:23:51
+PRB-00161,Richard Allen,P1-Critical,Tier 1 Support,PlayStation,1/12/26,Problem,Technical issue,Follow-up required from previous ticket.,2026-01-12 15:46:10
+PRB-00162,Carol Martinez,P4-Low,Tier 1 Support,LG OLED,7/18/25,Problem,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-07-18 15:03:19
+PRB-00163,Kimberly Sanchez,P4-Low,Tier 2 Support,Fitbit Charge,10/4/25,Problem,Feature request,Customer reported issue with the product.,2025-10-04 09:53:20
+INC-00134,Richard Peterson,P3-Medium,Tier 2 Support,Nikon D,1/20/26,Incident,Technical issue,Customer needs urgent assistance.,2026-01-20 16:41:21
+INQ-00162,Steven Perez,P2-High,Tier 1 Support,Nintendo Switch Pro Controller,8/31/25,Inquiry,Product not working,Follow-up required from previous ticket.,2025-08-31 19:26:14
+INQ-00163,Donald Johnson,P4-Low,Tier 2 Support,Microsoft Office,2/17/26,Inquiry,Shipping question,Customer needs urgent assistance.,2026-02-17 08:12:03
+PRB-00164,Robert Robinson,P4-Low,Tier 1 Support,Microsoft Office,5/18/25,Problem,Bug report,Customer needs urgent assistance.,2025-05-18 17:58:31
+INC-00135,Kimberly Brown,P3-Medium,Tier 2 Support,Philips Hue Lights,2/2/26,Incident,Technical issue,Escalation needed for resolution.,2026-02-02 09:18:21
+INQ-00164,Daniel Parker,P2-High,Tier 1 Support,Garmin Forerunner,12/14/25,Inquiry,General question,Product arrived damaged or defective.,2025-12-14 18:29:20
+PRB-00165,Linda Parker,P2-High,Tier 1 Support,Autodesk AutoCAD,4/6/25,Problem,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-04-06 13:23:15
+INQ-00165,Richard Jackson,P2-High,Tier 2 Support,Samsung Galaxy,3/14/25,Inquiry,General question,Product arrived damaged or defective.,2025-03-14 07:13:55
+INC-00136,James Perez,P3-Medium,Tier 1 Support,PlayStation,2/1/26,Incident,Product not working,Customer reported issue with the product.,2026-02-01 21:24:36
+INQ-00166,Robert Rodriguez,P2-High,Tier 2 Support,Fitbit Charge,8/28/25,Inquiry,Bug report,Customer needs urgent assistance.,2025-08-28 09:09:25
+PRB-00166,Sarah Campbell,P1-Critical,Tier 2 Support,Microsoft Office,11/13/25,Problem,General question,Product arrived damaged or defective.,2025-11-13 15:00:12
+INC-00137,Lisa Lopez,P4-Low,Tier 2 Support,Sony 4K HDR TV,10/27/25,Incident,General question,Unable to resolve the issue through standard troubleshooting.,2025-10-27 09:17:48
+INQ-00167,Anthony Parker,P4-Low,Tier 1 Support,Samsung Soundbar,11/27/25,Inquiry,Shipping question,Customer needs urgent assistance.,2025-11-27 20:06:53
+PRB-00167,Jessica Jones,P1-Critical,Tier 1 Support,Adobe Photoshop,12/30/25,Problem,Shipping question,Follow-up required from previous ticket.,2025-12-30 18:24:01
+PRB-00168,Sandra Taylor,P3-Medium,Tier 2 Support,Philips Hue Lights,7/13/25,Problem,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-07-13 19:51:55
+INQ-00168,Karen Brown,P1-Critical,Tier 1 Support,Google Pixel,9/27/25,Inquiry,Shipping question,Follow-up required from previous ticket.,2025-09-27 13:09:41
+PRB-00169,Andrew Moore,P1-Critical,Tier 2 Support,PlayStation,3/6/25,Problem,Product not working,Product arrived damaged or defective.,2025-03-06 14:00:05
+PRB-00170,Betty Campbell,P1-Critical,Tier 1 Support,Nest Thermostat,12/9/25,Problem,Shipping question,Customer reported issue with the product.,2025-12-09 16:06:45
+INQ-00169,Jessica Allen,P3-Medium,Tier 1 Support,LG Smart TV,1/16/26,Inquiry,Technical issue,Customer needs urgent assistance.,2026-01-16 18:30:06
+INQ-00170,Anthony Johnson,P4-Low,Tier 1 Support,Roomba Robot Vacuum,6/12/25,Inquiry,Need support,Escalation needed for resolution.,2025-06-12 19:16:03
+PRB-00171,Christopher Davis,P3-Medium,Tier 2 Support,Lenovo ThinkPad,3/3/26,Problem,Product not working,Product arrived damaged or defective.,2026-03-03 07:29:06
+INC-00138,Matthew Jackson,P2-High,Tier 1 Support,Autodesk AutoCAD,1/5/26,Incident,Need support,Unable to resolve the issue through standard troubleshooting.,2026-01-05 16:01:27
+INC-00139,Jessica Harris,P4-Low,Tier 1 Support,Nintendo Switch Pro Controller,9/26/25,Incident,Bug report,Customer needs urgent assistance.,2025-09-26 08:19:37
+INC-00140,Linda Thomas,P1-Critical,Tier 1 Support,Dyson Vacuum Cleaner,5/6/25,Incident,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-05-06 11:24:24
+INC-00141,George Miller,P1-Critical,Tier 2 Support,PlayStation,6/7/25,Incident,Billing inquiry,Customer reported issue with the product.,2025-06-07 19:25:07
+PRB-00172,Karen Jones,P2-High,Tier 2 Support,Apple AirPods,9/14/25,Problem,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-09-14 10:33:11
+PRB-00173,Emily White,P3-Medium,Tier 2 Support,Microsoft Surface,6/22/25,Problem,Feature request,Product arrived damaged or defective.,2025-06-22 18:46:51
+PRB-00174,Jane Gonzalez,P4-Low,Tier 1 Support,Lenovo ThinkPad,3/15/25,Problem,Feature request,Escalation needed for resolution.,2025-03-15 13:28:57
+INQ-00171,Emily Harris,P3-Medium,Tier 2 Support,Autodesk AutoCAD,7/15/25,Inquiry,Technical issue,Product arrived damaged or defective.,2025-07-15 10:50:45
+PRB-00175,George Clark,P3-Medium,Tier 2 Support,Amazon Echo,11/1/25,Problem,Product not working,Unable to resolve the issue through standard troubleshooting.,2025-11-01 12:31:06
+PRB-00176,Paul Wright,P2-High,Tier 1 Support,LG Washing Machine,12/1/25,Problem,Bug report,Customer reported issue with the product.,2025-12-01 14:15:49
+INQ-00172,Susan Wright,P1-Critical,Tier 1 Support,Canon DSLR Camera,4/14/25,Inquiry,Feature request,Customer needs urgent assistance.,2025-04-14 18:13:41
+PRB-00177,Sandra Garcia,P2-High,Tier 2 Support,Sony 4K HDR TV,10/30/25,Problem,Bug report,Follow-up required from previous ticket.,2025-10-30 16:19:31
+PRB-00178,Steven Sanchez,P3-Medium,Tier 1 Support,Google Nest,4/9/25,Problem,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-04-09 20:35:08
+PRB-00179,Sarah King,P2-High,Tier 2 Support,Lenovo ThinkPad,3/17/25,Problem,Need support,Escalation needed for resolution.,2025-03-17 20:14:59
+INQ-00173,Mike Perez,P4-Low,Tier 1 Support,Apple AirPods,1/8/26,Inquiry,Product not working,Customer needs urgent assistance.,2026-01-08 18:54:26
+PRB-00180,Mary Martinez,P1-Critical,Tier 1 Support,Sony 4K HDR TV,10/8/25,Problem,Billing inquiry,Follow-up required from previous ticket.,2025-10-08 16:28:02
+INC-00142,Jennifer Phillips,P2-High,Tier 2 Support,Nintendo Switch Pro Controller,4/18/25,Incident,Feature request,Customer reported issue with the product.,2025-04-18 11:51:12
+INQ-00174,Donna Garcia,P3-Medium,Tier 2 Support,Sony PlayStation,6/3/25,Inquiry,Technical issue,Escalation needed for resolution.,2025-06-03 13:40:24
+PRB-00181,Jennifer Moore,P4-Low,Tier 2 Support,Adobe Photoshop,1/26/26,Problem,General question,Customer needs urgent assistance.,2026-01-26 08:20:03
+INC-00143,Sandra White,P3-Medium,Tier 2 Support,HP Pavilion,12/19/25,Incident,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-12-19 12:13:19
+PRB-00182,Daniel Brown,P1-Critical,Tier 2 Support,HP Pavilion,8/11/25,Problem,Technical issue,Customer reported issue with the product.,2025-08-11 20:44:28
+INQ-00175,Sandra Johnson,P1-Critical,Tier 2 Support,Philips Hue Lights,6/24/25,Inquiry,Bug report,Customer reported issue with the product.,2025-06-24 13:19:56
+INQ-00176,Linda Clark,P2-High,Tier 1 Support,Amazon Echo,8/30/25,Inquiry,Bug report,Escalation needed for resolution.,2025-08-30 08:14:05
+INQ-00177,Sarah Gonzalez,P3-Medium,Tier 2 Support,Bose SoundLink Speaker,8/26/25,Inquiry,Shipping question,Customer needs urgent assistance.,2025-08-26 16:55:34
+PRB-00183,Susan White,P2-High,Tier 2 Support,Canon DSLR Camera,5/20/25,Problem,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-05-20 21:28:54
+INQ-00178,Ashley Gonzalez,P1-Critical,Tier 2 Support,Fitbit Versa Smartwatch,7/5/25,Inquiry,Technical issue,Customer needs urgent assistance.,2025-07-05 20:02:48
+INQ-00179,Mike Williams,P4-Low,Tier 1 Support,Microsoft Xbox Controller,11/26/25,Inquiry,Billing inquiry,Follow-up required from previous ticket.,2025-11-26 11:29:55
+PRB-00184,Paul Gonzalez,P1-Critical,Tier 2 Support,Nintendo Switch Pro Controller,11/3/25,Problem,General question,Product arrived damaged or defective.,2025-11-03 13:27:10
+PRB-00185,Ashley Jones,P2-High,Tier 2 Support,MacBook Pro,4/5/25,Problem,General question,Escalation needed for resolution.,2025-04-05 14:51:48
+INC-00144,Robert Garcia,P4-Low,Tier 2 Support,Microsoft Xbox Controller,6/28/25,Incident,Bug report,Follow-up required from previous ticket.,2025-06-28 10:42:58
+INQ-00180,Anthony Miller,P4-Low,Tier 2 Support,Roomba Robot Vacuum,7/3/25,Inquiry,Technical issue,Escalation needed for resolution.,2025-07-03 11:11:19
+INC-00145,Carol Harris,P4-Low,Tier 1 Support,Philips Hue Lights,2/2/26,Incident,Product not working,Customer needs urgent assistance.,2026-02-02 10:09:29
+INQ-00181,Jessica Lopez,P3-Medium,Tier 2 Support,Apple AirPods,3/11/25,Inquiry,Need support,Customer reported issue with the product.,2025-03-11 21:36:31
+PRB-00186,Mary Davis,P3-Medium,Tier 2 Support,Bose SoundLink Speaker,4/28/25,Problem,Billing inquiry,Customer reported issue with the product.,2025-04-28 18:02:29
+INC-00146,Mark Parker,P2-High,Tier 1 Support,iPhone,5/28/25,Incident,Feature request,Escalation needed for resolution.,2025-05-28 19:19:17
+INC-00147,Tom White,P1-Critical,Tier 1 Support,LG OLED,11/4/25,Incident,Technical issue,Customer reported issue with the product.,2025-11-04 19:08:58
+INQ-00182,Kimberly Lopez,P2-High,Tier 2 Support,Amazon Kindle,2/25/26,Inquiry,Feature request,Unable to resolve the issue through standard troubleshooting.,2026-02-25 21:01:57
+INQ-00183,Franklin Thomas,P4-Low,Tier 2 Support,Nintendo Switch,8/21/25,Inquiry,Product not working,Unable to resolve the issue through standard troubleshooting.,2025-08-21 08:55:22
+INQ-00184,Patricia Parker,P2-High,Tier 1 Support,Samsung Galaxy,7/12/25,Inquiry,Bug report,Customer needs urgent assistance.,2025-07-12 20:05:48
+INC-00148,Mary Rodriguez,P1-Critical,Tier 2 Support,LG Washing Machine,7/4/25,Incident,Billing inquiry,Product arrived damaged or defective.,2025-07-04 07:00:23
+INC-00149,Margaret Smith,P3-Medium,Tier 1 Support,Fitbit Charge,3/26/25,Incident,General question,Follow-up required from previous ticket.,2025-03-26 14:55:47
+INC-00150,Patricia Rodriguez,P3-Medium,Tier 1 Support,Bose QuietComfort,12/4/25,Incident,Technical issue,Product arrived damaged or defective.,2025-12-04 15:11:35
+PRB-00187,Robert Peterson,P2-High,Tier 2 Support,PlayStation,3/31/25,Problem,Bug report,Customer reported issue with the product.,2025-03-31 12:48:28
+PRB-00188,Andrew Lewis,P4-Low,Tier 1 Support,MacBook Pro,7/16/25,Problem,General question,Customer reported issue with the product.,2025-07-16 09:01:07
+INQ-00185,Linda Scott,P1-Critical,Tier 2 Support,GoPro Hero,6/27/25,Inquiry,Billing inquiry,Customer needs urgent assistance.,2025-06-27 09:09:39
+PRB-00189,Barbara Campbell,P3-Medium,Tier 1 Support,Adobe Photoshop,10/12/25,Problem,General question,Unable to resolve the issue through standard troubleshooting.,2025-10-12 19:06:19
+INQ-00186,George King,P1-Critical,Tier 1 Support,iPhone,6/30/25,Inquiry,Billing inquiry,Customer reported issue with the product.,2025-06-30 11:42:13
+INC-00151,Barbara Parker,P4-Low,Tier 1 Support,Canon EOS,2/4/26,Incident,Feature request,Follow-up required from previous ticket.,2026-02-04 11:37:11
+INQ-00187,Thomas Miller,P2-High,Tier 1 Support,iPhone,5/28/25,Inquiry,Need support,Follow-up required from previous ticket.,2025-05-28 20:28:58
+PRB-00190,Susan Johnson,P4-Low,Tier 2 Support,Amazon Kindle,8/21/25,Problem,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-08-21 09:14:06
+INQ-00188,Jennifer King,P2-High,Tier 1 Support,Nintendo Switch Pro Controller,1/21/26,Inquiry,Shipping question,Unable to resolve the issue through standard troubleshooting.,2026-01-21 20:05:47
+INQ-00189,Barbara Robinson,P4-Low,Tier 2 Support,iPhone,3/5/26,Inquiry,Technical issue,Customer reported issue with the product.,2026-03-05 20:34:51
+INC-00152,George Lee,P1-Critical,Tier 1 Support,Google Pixel,9/1/25,Incident,Bug report,Escalation needed for resolution.,2025-09-01 15:13:01
+INC-00153,Ashley Lee,P1-Critical,Tier 1 Support,Google Nest,3/15/25,Incident,Shipping question,Product arrived damaged or defective.,2025-03-15 09:35:35
+INC-00154,Linda Davis,P3-Medium,Tier 1 Support,Amazon Echo,3/16/25,Incident,Bug report,Follow-up required from previous ticket.,2025-03-16 09:41:34
+INC-00155,John Thomas,P3-Medium,Tier 1 Support,Samsung Soundbar,1/2/26,Incident,Feature request,Unable to resolve the issue through standard troubleshooting.,2026-01-02 11:50:21
+INC-00156,John Johnson,P2-High,Tier 2 Support,Microsoft Xbox Controller,4/2/25,Incident,Bug report,Escalation needed for resolution.,2025-04-02 15:29:40
+INQ-00190,Lisa Perez,P1-Critical,Tier 2 Support,Microsoft Xbox Controller,6/8/25,Inquiry,Feature request,Follow-up required from previous ticket.,2025-06-08 09:00:24
+INC-00157,Jessica Davis,P4-Low,Tier 1 Support,Autodesk AutoCAD,3/6/25,Incident,Billing inquiry,Customer reported issue with the product.,2025-03-06 13:16:26
+INQ-00191,Joseph Miller,P2-High,Tier 1 Support,Nest Thermostat,7/24/25,Inquiry,Product not working,Unable to resolve the issue through standard troubleshooting.,2025-07-24 08:51:25
+INQ-00192,Anthony Brown,P1-Critical,Tier 1 Support,Apple AirPods,2/15/26,Inquiry,Need support,Follow-up required from previous ticket.,2026-02-15 15:31:48
+INC-00158,Ashley Jackson,P3-Medium,Tier 1 Support,Adobe Photoshop,12/21/25,Incident,Billing inquiry,Follow-up required from previous ticket.,2025-12-21 07:37:37
+INQ-00193,Anthony Garcia,P1-Critical,Tier 1 Support,Sony PlayStation,9/18/25,Inquiry,General question,Product arrived damaged or defective.,2025-09-18 17:27:22
+INC-00159,Charles Allen,P4-Low,Tier 2 Support,LG OLED,5/10/25,Incident,Technical issue,Follow-up required from previous ticket.,2025-05-10 07:09:55
+PRB-00191,Donna Brown,P3-Medium,Tier 2 Support,Nintendo Switch,10/15/25,Problem,Shipping question,Customer reported issue with the product.,2025-10-15 09:53:48
+INQ-00194,Joseph Brown,P2-High,Tier 2 Support,GoPro Action Camera,3/25/25,Inquiry,Shipping question,Customer needs urgent assistance.,2025-03-25 09:46:55
+INC-00160,Carol Young,P3-Medium,Tier 2 Support,Canon EOS,9/29/25,Incident,Technical issue,Follow-up required from previous ticket.,2025-09-29 19:59:43
+PRB-00192,Christopher Torres,P4-Low,Tier 2 Support,Philips Hue Lights,6/19/25,Problem,Bug report,Escalation needed for resolution.,2025-06-19 07:51:23
+INC-00161,Betty Garcia,P1-Critical,Tier 1 Support,Samsung Soundbar,7/11/25,Incident,Billing inquiry,Customer needs urgent assistance.,2025-07-11 13:17:46
+INC-00162,Linda Thompson,P1-Critical,Tier 1 Support,Nintendo Switch Pro Controller,1/10/26,Incident,Billing inquiry,Customer reported issue with the product.,2026-01-10 15:15:19
+INC-00163,Richard Young,P1-Critical,Tier 1 Support,MacBook Pro,2/17/26,Incident,Bug report,Escalation needed for resolution.,2026-02-17 14:14:16
+INQ-00195,Donna Hernandez,P2-High,Tier 1 Support,Microsoft Office,4/20/25,Inquiry,Bug report,Customer reported issue with the product.,2025-04-20 17:55:27
+INQ-00196,Betty Lopez,P2-High,Tier 1 Support,Apple AirPods,3/7/25,Inquiry,Need support,Unable to resolve the issue through standard troubleshooting.,2025-03-07 19:33:58
+INC-00164,Sarah Thompson,P3-Medium,Tier 2 Support,Microsoft Office,8/3/25,Incident,Product not working,Follow-up required from previous ticket.,2025-08-03 12:27:34
+INQ-00197,Steven Allen,P1-Critical,Tier 2 Support,Microsoft Xbox Controller,6/12/25,Inquiry,Need support,Escalation needed for resolution.,2025-06-12 19:58:23
+PRB-00193,Thomas Ramirez,P4-Low,Tier 1 Support,LG OLED,3/6/25,Problem,Billing inquiry,Escalation needed for resolution.,2025-03-06 11:36:27
+PRB-00194,Robert Smith,P1-Critical,Tier 2 Support,Lenovo ThinkPad,12/6/25,Problem,Product not working,Customer reported issue with the product.,2025-12-06 21:54:17
+PRB-00195,Franklin Clark,P3-Medium,Tier 1 Support,Nintendo Switch Pro Controller,2/25/26,Problem,Technical issue,Customer needs urgent assistance.,2026-02-25 14:59:39
+INC-00165,Donald Lewis,P2-High,Tier 2 Support,Google Pixel,1/10/26,Incident,Need support,Customer needs urgent assistance.,2026-01-10 18:04:21
+INC-00166,Barbara Phillips,P1-Critical,Tier 2 Support,Amazon Echo,2/2/26,Incident,General question,Customer reported issue with the product.,2026-02-02 20:21:33
+INC-00167,Paul Davis,P3-Medium,Tier 2 Support,Dyson Vacuum Cleaner,4/5/25,Incident,Shipping question,Customer reported issue with the product.,2025-04-05 18:44:22
+INC-00168,Richard Scott,P1-Critical,Tier 1 Support,iPhone,5/28/25,Incident,Need support,Customer reported issue with the product.,2025-05-28 19:48:19
+INC-00169,Kimberly Davis,P4-Low,Tier 2 Support,Fitbit Versa Smartwatch,8/31/25,Incident,Product not working,Product arrived damaged or defective.,2025-08-31 15:08:58
+INC-00170,Charles Rodriguez,P1-Critical,Tier 1 Support,Garmin Forerunner,2/5/26,Incident,Billing inquiry,Follow-up required from previous ticket.,2026-02-05 07:19:20
+PRB-00196,Nancy King,P3-Medium,Tier 2 Support,Autodesk AutoCAD,1/10/26,Problem,General question,Customer needs urgent assistance.,2026-01-10 14:32:04
+PRB-00197,Sandra Allen,P1-Critical,Tier 2 Support,LG OLED,12/4/25,Problem,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-12-04 09:47:22
+PRB-00198,Ashley Clark,P2-High,Tier 2 Support,Canon DSLR Camera,10/22/25,Problem,General question,Customer reported issue with the product.,2025-10-22 20:06:31
+PRB-00199,David Jackson,P2-High,Tier 2 Support,Adobe Photoshop,4/12/25,Problem,Need support,Customer needs urgent assistance.,2025-04-12 10:36:05
+PRB-00200,Kimberly Allen,P4-Low,Tier 1 Support,Microsoft Xbox Controller,11/27/25,Problem,Product not working,Customer needs urgent assistance.,2025-11-27 10:17:18
+INQ-00198,Franklin Johnson,P2-High,Tier 2 Support,Philips Hue Lights,4/2/25,Inquiry,Need support,Follow-up required from previous ticket.,2025-04-02 10:12:09
+PRB-00201,Mike Smith,P1-Critical,Tier 1 Support,Lenovo ThinkPad,8/14/25,Problem,Shipping question,Follow-up required from previous ticket.,2025-08-14 16:30:30
+INC-00171,Charles Thomas,P1-Critical,Tier 1 Support,Nintendo Switch Pro Controller,5/13/25,Incident,Shipping question,Customer reported issue with the product.,2025-05-13 15:24:43
+INC-00172,Joseph Moore,P4-Low,Tier 1 Support,Bose SoundLink Speaker,1/3/26,Incident,General question,Follow-up required from previous ticket.,2026-01-03 21:38:58
+INQ-00199,Betty Jackson,P1-Critical,Tier 1 Support,Sony 4K HDR TV,6/29/25,Inquiry,Billing inquiry,Customer reported issue with the product.,2025-06-29 13:19:23
+INQ-00200,Paul Jones,P2-High,Tier 2 Support,Fitbit Charge,1/13/26,Inquiry,Feature request,Product arrived damaged or defective.,2026-01-13 11:49:51
+INQ-00201,Matthew Davis,P1-Critical,Tier 1 Support,PlayStation,1/24/26,Inquiry,Product not working,Unable to resolve the issue through standard troubleshooting.,2026-01-24 07:04:12
+PRB-00202,Lisa Martin,P4-Low,Tier 1 Support,Canon DSLR Camera,3/13/25,Problem,Need support,Unable to resolve the issue through standard troubleshooting.,2025-03-13 07:51:46
+INC-00173,George Davis,P3-Medium,Tier 1 Support,LG OLED,5/12/25,Incident,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-05-12 12:01:33
+INC-00174,Sarah Brown,P4-Low,Tier 2 Support,Sony PlayStation,5/6/25,Incident,Billing inquiry,Customer needs urgent assistance.,2025-05-06 20:44:45
+PRB-00203,Sarah Clark,P2-High,Tier 1 Support,LG OLED,2/12/26,Problem,Feature request,Customer needs urgent assistance.,2026-02-12 14:20:45
+INC-00175,Tom Wilson,P2-High,Tier 2 Support,Sony PlayStation,2/23/26,Incident,General question,Unable to resolve the issue through standard troubleshooting.,2026-02-23 20:23:31
+INC-00176,Ashley Torres,P2-High,Tier 2 Support,iPhone,10/25/25,Incident,Need support,Product arrived damaged or defective.,2025-10-25 08:01:15
+PRB-00204,Charles Jones,P1-Critical,Tier 2 Support,Samsung Soundbar,4/26/25,Problem,General question,Escalation needed for resolution.,2025-04-26 08:42:31
+PRB-00205,Sarah Jackson,P3-Medium,Tier 1 Support,Microsoft Xbox Controller,10/9/25,Problem,Product not working,Escalation needed for resolution.,2025-10-09 19:09:49
+INC-00177,John Rodriguez,P3-Medium,Tier 2 Support,PlayStation,1/19/26,Incident,Bug report,Customer needs urgent assistance.,2026-01-19 08:39:58
+INC-00178,Joseph Perez,P4-Low,Tier 1 Support,LG Smart TV,5/8/25,Incident,Shipping question,Customer needs urgent assistance.,2025-05-08 07:43:55
+PRB-00206,Mike Martin,P2-High,Tier 1 Support,PlayStation,10/29/25,Problem,Feature request,Product arrived damaged or defective.,2025-10-29 13:50:10
+PRB-00207,Sandra Parker,P3-Medium,Tier 1 Support,Samsung Soundbar,5/23/25,Problem,Feature request,Product arrived damaged or defective.,2025-05-23 20:42:35
+PRB-00208,Sandra Martin,P2-High,Tier 2 Support,PlayStation,12/29/25,Problem,Need support,Escalation needed for resolution.,2025-12-29 17:18:06
+PRB-00209,Donald Clark,P4-Low,Tier 1 Support,Philips Hue Lights,5/11/25,Problem,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-05-11 08:44:40
+PRB-00210,Emily Lee,P3-Medium,Tier 1 Support,Amazon Kindle,3/2/26,Problem,Need support,Follow-up required from previous ticket.,2026-03-02 19:49:59
+INC-00179,Karen Miller,P2-High,Tier 2 Support,PlayStation,12/22/25,Incident,Feature request,Customer reported issue with the product.,2025-12-22 19:19:03
+INC-00180,Christopher Anderson,P4-Low,Tier 1 Support,Garmin Forerunner,4/25/25,Incident,Shipping question,Customer needs urgent assistance.,2025-04-25 19:07:39
+INQ-00202,Betty Parker,P3-Medium,Tier 1 Support,iPhone,12/18/25,Inquiry,Bug report,Customer needs urgent assistance.,2025-12-18 20:53:56
+PRB-00211,Christopher Taylor,P4-Low,Tier 2 Support,Amazon Kindle,5/24/25,Problem,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-05-24 10:08:50
+INC-00181,Matthew White,P3-Medium,Tier 1 Support,Google Pixel,9/18/25,Incident,Need support,Escalation needed for resolution.,2025-09-18 21:35:23
+PRB-00212,Daniel Lewis,P3-Medium,Tier 2 Support,Philips Hue Lights,8/17/25,Problem,Feature request,Product arrived damaged or defective.,2025-08-17 11:14:06
+INQ-00203,Patricia Phillips,P4-Low,Tier 1 Support,Asus ROG,7/31/25,Inquiry,Billing inquiry,Customer needs urgent assistance.,2025-07-31 19:07:55
+INQ-00204,Charles Lopez,P1-Critical,Tier 2 Support,Amazon Kindle,10/4/25,Inquiry,Shipping question,Customer reported issue with the product.,2025-10-04 15:46:55
+PRB-00213,Andrew Allen,P1-Critical,Tier 2 Support,Sony PlayStation,6/12/25,Problem,Shipping question,Customer needs urgent assistance.,2025-06-12 18:08:34
+INQ-00205,Anthony Thomas,P2-High,Tier 2 Support,Microsoft Xbox Controller,6/26/25,Inquiry,Bug report,Escalation needed for resolution.,2025-06-26 16:40:58
+PRB-00214,Betty King,P2-High,Tier 1 Support,Nikon D,3/2/26,Problem,General question,Customer needs urgent assistance.,2026-03-02 16:41:00
+INC-00182,Jennifer Perez,P2-High,Tier 2 Support,HP Pavilion,7/3/25,Incident,Bug report,Follow-up required from previous ticket.,2025-07-03 16:03:36
+INQ-00206,Christopher Robinson,P1-Critical,Tier 2 Support,PlayStation,5/6/25,Inquiry,Billing inquiry,Customer needs urgent assistance.,2025-05-06 18:10:02
+PRB-00215,Daniel White,P1-Critical,Tier 1 Support,Google Pixel,10/11/25,Problem,Shipping question,Product arrived damaged or defective.,2025-10-11 18:47:56
+INC-00183,Tom Young,P1-Critical,Tier 2 Support,Microsoft Office,12/26/25,Incident,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-12-26 09:30:40
+INQ-00207,Andrew Hernandez,P1-Critical,Tier 1 Support,Samsung Soundbar,4/2/25,Inquiry,General question,Unable to resolve the issue through standard troubleshooting.,2025-04-02 19:07:54
+INC-00184,Jessica Peterson,P3-Medium,Tier 1 Support,PlayStation,1/26/26,Incident,Shipping question,Unable to resolve the issue through standard troubleshooting.,2026-01-26 15:59:33
+PRB-00216,Franklin Harris,P4-Low,Tier 1 Support,Adobe Photoshop,8/18/25,Problem,Shipping question,Customer needs urgent assistance.,2025-08-18 11:15:04
+INC-00185,Betty Rodriguez,P4-Low,Tier 2 Support,Apple AirPods,12/15/25,Incident,Billing inquiry,Customer reported issue with the product.,2025-12-15 14:00:01
+INQ-00208,David Jones,P3-Medium,Tier 1 Support,Sony 4K HDR TV,3/21/25,Inquiry,Technical issue,Customer needs urgent assistance.,2025-03-21 21:55:20
+INC-00186,Charles Anderson,P3-Medium,Tier 1 Support,Garmin Forerunner,8/30/25,Incident,Bug report,Product arrived damaged or defective.,2025-08-30 19:00:44
+INQ-00209,Anthony Rodriguez,P1-Critical,Tier 2 Support,Sony PlayStation,6/6/25,Inquiry,General question,Product arrived damaged or defective.,2025-06-06 19:33:09
+INQ-00210,Donald Young,P4-Low,Tier 2 Support,GoPro Hero,5/1/25,Inquiry,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-05-01 13:59:51
+INQ-00211,Patricia Sanchez,P1-Critical,Tier 2 Support,Sony PlayStation,6/7/25,Inquiry,Need support,Unable to resolve the issue through standard troubleshooting.,2025-06-07 18:34:14
+INQ-00212,David Martin,P2-High,Tier 1 Support,Samsung Soundbar,2/28/26,Inquiry,Billing inquiry,Follow-up required from previous ticket.,2026-02-28 12:35:29
+PRB-00217,Donna Parker,P1-Critical,Tier 2 Support,Samsung Soundbar,7/27/25,Problem,Shipping question,Customer needs urgent assistance.,2025-07-27 17:23:12
+PRB-00218,Linda Sanchez,P1-Critical,Tier 2 Support,GoPro Action Camera,6/30/25,Problem,General question,Escalation needed for resolution.,2025-06-30 16:07:27
+INC-00187,Sarah Wright,P4-Low,Tier 1 Support,Sony PlayStation,2/3/26,Incident,Technical issue,Product arrived damaged or defective.,2026-02-03 10:34:27
+INC-00188,Susan Jackson,P3-Medium,Tier 1 Support,Fitbit Versa Smartwatch,4/23/25,Incident,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-04-23 10:53:00
+INC-00189,David Lee,P2-High,Tier 1 Support,Roomba Robot Vacuum,3/26/25,Incident,Technical issue,Follow-up required from previous ticket.,2025-03-26 07:05:34
+PRB-00219,Daniel Allen,P1-Critical,Tier 2 Support,HP Pavilion,1/10/26,Problem,Bug report,Follow-up required from previous ticket.,2026-01-10 09:52:47
+PRB-00220,Mary Johnson,P4-Low,Tier 1 Support,Microsoft Surface,6/12/25,Problem,Technical issue,Customer needs urgent assistance.,2025-06-12 13:24:56
+INQ-00213,Christopher Miller,P3-Medium,Tier 2 Support,Samsung Galaxy,8/13/25,Inquiry,Shipping question,Customer needs urgent assistance.,2025-08-13 14:32:19
+INC-00190,Jane Lopez,P4-Low,Tier 2 Support,Amazon Kindle,6/21/25,Incident,General question,Customer needs urgent assistance.,2025-06-21 09:09:52
+PRB-00221,James Phillips,P3-Medium,Tier 2 Support,Dyson Vacuum Cleaner,2/28/26,Problem,Product not working,Customer needs urgent assistance.,2026-02-28 13:37:52
+INC-00191,George Anderson,P1-Critical,Tier 2 Support,Microsoft Xbox Controller,12/25/25,Incident,Feature request,Customer needs urgent assistance.,2025-12-25 16:10:59
+INQ-00214,Jennifer Miller,P3-Medium,Tier 2 Support,Roomba Robot Vacuum,9/23/25,Inquiry,Need support,Customer needs urgent assistance.,2025-09-23 10:16:22
+INC-00192,Steven Anderson,P4-Low,Tier 1 Support,Google Nest,2/1/26,Incident,Technical issue,Customer reported issue with the product.,2026-02-01 12:43:51
+PRB-00222,Mike Martinez,P2-High,Tier 2 Support,LG Smart TV,5/11/25,Problem,Feature request,Follow-up required from previous ticket.,2025-05-11 12:03:33
+PRB-00223,Mark Torres,P1-Critical,Tier 1 Support,Garmin Forerunner,6/25/25,Problem,Bug report,Customer reported issue with the product.,2025-06-25 14:26:03
+INQ-00215,Kimberly Parker,P2-High,Tier 1 Support,Dyson Vacuum Cleaner,10/25/25,Inquiry,Technical issue,Customer reported issue with the product.,2025-10-25 12:35:16
+INQ-00216,Karen Peterson,P3-Medium,Tier 2 Support,Amazon Kindle,9/21/25,Inquiry,Feature request,Escalation needed for resolution.,2025-09-21 18:07:40
+INC-00193,Andrew Scott,P1-Critical,Tier 1 Support,Philips Hue Lights,12/3/25,Incident,General question,Product arrived damaged or defective.,2025-12-03 11:17:09
+PRB-00224,Mark Harris,P1-Critical,Tier 2 Support,Amazon Kindle,5/18/25,Problem,Feature request,Customer needs urgent assistance.,2025-05-18 13:20:26
+INQ-00217,Nancy Miller,P4-Low,Tier 2 Support,Lenovo ThinkPad,6/2/25,Inquiry,Bug report,Customer needs urgent assistance.,2025-06-02 12:39:46
+PRB-00225,Daniel Harris,P3-Medium,Tier 1 Support,Fitbit Charge,3/14/25,Problem,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-03-14 09:58:08
+INC-00194,Patricia Lee,P1-Critical,Tier 1 Support,Dell XPS,10/6/25,Incident,Product not working,Product arrived damaged or defective.,2025-10-06 17:50:29
+INC-00195,Carol Garcia,P3-Medium,Tier 1 Support,Autodesk AutoCAD,9/11/25,Incident,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-09-11 10:11:12
+INQ-00218,Emily Brown,P1-Critical,Tier 1 Support,Dell XPS,10/11/25,Inquiry,Bug report,Product arrived damaged or defective.,2025-10-11 11:01:32
+INQ-00219,Emily King,P2-High,Tier 1 Support,LG Smart TV,8/23/25,Inquiry,Product not working,Follow-up required from previous ticket.,2025-08-23 18:03:14
+PRB-00226,Kimberly Anderson,P2-High,Tier 2 Support,Asus ROG,3/17/25,Problem,Billing inquiry,Escalation needed for resolution.,2025-03-17 21:35:57
+INC-00196,Richard Wilson,P2-High,Tier 1 Support,LG Washing Machine,10/17/25,Incident,Product not working,Product arrived damaged or defective.,2025-10-17 17:09:04
+PRB-00227,Margaret Hernandez,P3-Medium,Tier 2 Support,Bose QuietComfort,11/16/25,Problem,Product not working,Unable to resolve the issue through standard troubleshooting.,2025-11-16 20:13:57
+PRB-00228,Ashley Harris,P3-Medium,Tier 1 Support,GoPro Action Camera,11/18/25,Problem,Feature request,Product arrived damaged or defective.,2025-11-18 19:50:47
+PRB-00229,Robert Ramirez,P1-Critical,Tier 1 Support,Nikon D,1/3/26,Problem,Product not working,Customer reported issue with the product.,2026-01-03 14:52:51
+PRB-00230,Mike Lee,P2-High,Tier 1 Support,Nintendo Switch,5/10/25,Problem,Bug report,Customer reported issue with the product.,2025-05-10 18:50:51
+PRB-00231,Emily Martinez,P4-Low,Tier 1 Support,Nest Thermostat,11/28/25,Problem,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-11-28 11:15:11
+INQ-00220,Ashley Garcia,P1-Critical,Tier 1 Support,Adobe Photoshop,7/26/25,Inquiry,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-07-26 13:37:55
+PRB-00232,Richard Ramirez,P2-High,Tier 1 Support,PlayStation,11/25/25,Problem,Product not working,Customer needs urgent assistance.,2025-11-25 15:36:35
+INQ-00221,James Parker,P2-High,Tier 2 Support,Lenovo ThinkPad,12/2/25,Inquiry,Shipping question,Customer needs urgent assistance.,2025-12-02 21:11:57
+PRB-00233,Robert Taylor,P2-High,Tier 2 Support,Apple AirPods,2/9/26,Problem,Shipping question,Product arrived damaged or defective.,2026-02-09 19:33:52
+PRB-00234,Nancy Taylor,P1-Critical,Tier 1 Support,Garmin Forerunner,1/3/26,Problem,Shipping question,Product arrived damaged or defective.,2026-01-03 14:31:34
+PRB-00235,Ashley Perez,P4-Low,Tier 2 Support,Bose SoundLink Speaker,2/18/26,Problem,Billing inquiry,Customer needs urgent assistance.,2026-02-18 16:23:22
+INQ-00222,Barbara Martin,P3-Medium,Tier 2 Support,Sony 4K HDR TV,1/11/26,Inquiry,Feature request,Product arrived damaged or defective.,2026-01-11 10:45:07
+INQ-00223,Mary Jackson,P3-Medium,Tier 1 Support,Fitbit Versa Smartwatch,3/30/25,Inquiry,Bug report,Escalation needed for resolution.,2025-03-30 19:40:06
+INC-00197,Charles Wright,P3-Medium,Tier 2 Support,Samsung Galaxy,6/17/25,Incident,General question,Product arrived damaged or defective.,2025-06-17 15:31:23
+INC-00198,Patricia Martin,P3-Medium,Tier 2 Support,Sony 4K HDR TV,4/19/25,Incident,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-04-19 14:43:48
+INC-00199,Sandra Campbell,P2-High,Tier 1 Support,Philips Hue Lights,11/14/25,Incident,Bug report,Product arrived damaged or defective.,2025-11-14 18:45:30
+PRB-00236,Karen Thompson,P2-High,Tier 1 Support,Bose QuietComfort,7/5/25,Problem,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-07-05 16:34:28
+INC-00200,Sarah Martin,P1-Critical,Tier 1 Support,Dyson Vacuum Cleaner,3/7/25,Incident,Technical issue,Customer reported issue with the product.,2025-03-07 08:16:14
+INQ-00224,Susan Allen,P1-Critical,Tier 1 Support,HP Pavilion,10/14/25,Inquiry,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-10-14 11:45:33
+PRB-00237,Linda Martinez,P2-High,Tier 2 Support,Amazon Echo,9/27/25,Problem,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-09-27 09:43:38
+INQ-00225,Jane Peterson,P1-Critical,Tier 1 Support,LG Washing Machine,9/16/25,Inquiry,Product not working,Product arrived damaged or defective.,2025-09-16 18:59:58
+INQ-00226,Karen Moore,P2-High,Tier 2 Support,Garmin Forerunner,7/13/25,Inquiry,Billing inquiry,Customer reported issue with the product.,2025-07-13 07:08:43
+INC-00201,Paul Martinez,P3-Medium,Tier 2 Support,Nikon D,2/21/26,Incident,Technical issue,Escalation needed for resolution.,2026-02-21 10:25:36
+INQ-00227,Carol Williams,P1-Critical,Tier 2 Support,Nintendo Switch,1/27/26,Inquiry,Feature request,Escalation needed for resolution.,2026-01-27 15:55:54
+INC-00202,Daniel Gonzalez,P1-Critical,Tier 2 Support,Nest Thermostat,11/2/25,Incident,General question,Follow-up required from previous ticket.,2025-11-02 17:30:25
+PRB-00238,Nancy Wilson,P2-High,Tier 1 Support,Sony 4K HDR TV,4/17/25,Problem,Product not working,Product arrived damaged or defective.,2025-04-17 14:56:56
+INQ-00228,Tom Phillips,P1-Critical,Tier 1 Support,Nintendo Switch,3/30/25,Inquiry,Bug report,Product arrived damaged or defective.,2025-03-30 19:00:22
+PRB-00239,Emily Ramirez,P3-Medium,Tier 1 Support,Google Nest,8/29/25,Problem,Billing inquiry,Customer needs urgent assistance.,2025-08-29 20:02:07
+INQ-00229,Sarah Jones,P2-High,Tier 2 Support,Autodesk AutoCAD,12/6/25,Inquiry,Need support,Follow-up required from previous ticket.,2025-12-06 08:47:25
+PRB-00240,George Garcia,P3-Medium,Tier 2 Support,Sony 4K HDR TV,6/4/25,Problem,Shipping question,Customer needs urgent assistance.,2025-06-04 21:21:07
+PRB-00241,Donald Perez,P1-Critical,Tier 1 Support,Samsung Soundbar,2/26/26,Problem,Shipping question,Follow-up required from previous ticket.,2026-02-26 16:31:07
+INQ-00230,James Lee,P2-High,Tier 1 Support,iPhone,12/20/25,Inquiry,Bug report,Customer needs urgent assistance.,2025-12-20 16:25:52
+PRB-00242,Donald Allen,P1-Critical,Tier 2 Support,Sony 4K HDR TV,12/21/25,Problem,Product not working,Unable to resolve the issue through standard troubleshooting.,2025-12-21 08:24:47
+PRB-00243,Mark Miller,P3-Medium,Tier 2 Support,Samsung Soundbar,7/8/25,Problem,Shipping question,Follow-up required from previous ticket.,2025-07-08 16:56:13
+INC-00203,Andrew Ramirez,P4-Low,Tier 1 Support,Apple AirPods,6/12/25,Incident,Bug report,Customer reported issue with the product.,2025-06-12 17:05:50
+INC-00204,Paul Lopez,P1-Critical,Tier 1 Support,Apple AirPods,5/11/25,Incident,Feature request,Product arrived damaged or defective.,2025-05-11 15:46:04
+INQ-00231,Richard Parker,P4-Low,Tier 1 Support,Adobe Photoshop,7/29/25,Inquiry,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-07-29 08:53:17
+INQ-00232,Paul Lee,P2-High,Tier 1 Support,Microsoft Xbox Controller,7/13/25,Inquiry,Need support,Unable to resolve the issue through standard troubleshooting.,2025-07-13 14:39:42
+PRB-00244,Mark Gonzalez,P3-Medium,Tier 1 Support,LG OLED,12/7/25,Problem,Need support,Unable to resolve the issue through standard troubleshooting.,2025-12-07 21:23:18
+INQ-00233,Emily Thomas,P2-High,Tier 2 Support,Nintendo Switch,2/22/26,Inquiry,Shipping question,Follow-up required from previous ticket.,2026-02-22 17:09:43
+INQ-00234,Anthony Clark,P1-Critical,Tier 2 Support,Nest Thermostat,12/25/25,Inquiry,Shipping question,Product arrived damaged or defective.,2025-12-25 09:40:52
+INQ-00235,Donald Ramirez,P1-Critical,Tier 2 Support,PlayStation,6/8/25,Inquiry,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-06-08 21:28:03
+PRB-00245,Robert Martinez,P2-High,Tier 1 Support,Samsung Soundbar,10/9/25,Problem,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-10-09 21:08:01
+PRB-00246,Lisa Anderson,P4-Low,Tier 2 Support,Autodesk AutoCAD,7/11/25,Problem,General question,Follow-up required from previous ticket.,2025-07-11 09:21:56
+PRB-00247,Betty Harris,P2-High,Tier 1 Support,Sony 4K HDR TV,6/3/25,Problem,Technical issue,Follow-up required from previous ticket.,2025-06-03 19:57:31
+INC-00205,Joseph Wilson,P3-Medium,Tier 2 Support,LG Smart TV,8/5/25,Incident,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-08-05 13:15:30
+PRB-00248,Carol Lee,P4-Low,Tier 2 Support,Garmin Forerunner,7/17/25,Problem,Billing inquiry,Escalation needed for resolution.,2025-07-17 15:10:27
+INQ-00236,Robert Perez,P2-High,Tier 2 Support,Asus ROG,11/4/25,Inquiry,General question,Customer reported issue with the product.,2025-11-04 13:40:26
+INC-00206,Matthew Campbell,P4-Low,Tier 1 Support,Google Nest,1/23/26,Incident,Need support,Unable to resolve the issue through standard troubleshooting.,2026-01-23 18:11:41
+INC-00207,Mary Parker,P4-Low,Tier 2 Support,Dyson Vacuum Cleaner,9/12/25,Incident,Technical issue,Follow-up required from previous ticket.,2025-09-12 21:55:34
+INQ-00237,Mark Wright,P3-Medium,Tier 2 Support,Amazon Echo,3/8/25,Inquiry,Product not working,Unable to resolve the issue through standard troubleshooting.,2025-03-08 18:51:09
+PRB-00249,Daniel Jackson,P4-Low,Tier 1 Support,Bose SoundLink Speaker,12/1/25,Problem,Technical issue,Customer needs urgent assistance.,2025-12-01 20:59:37
+INQ-00238,Daniel Wright,P3-Medium,Tier 2 Support,LG OLED,7/5/25,Inquiry,Shipping question,Follow-up required from previous ticket.,2025-07-05 21:54:40
+INQ-00239,Jessica Rodriguez,P4-Low,Tier 2 Support,Dell XPS,6/21/25,Inquiry,Feature request,Follow-up required from previous ticket.,2025-06-21 08:14:06
+PRB-00250,Ashley Allen,P3-Medium,Tier 2 Support,Lenovo ThinkPad,3/26/25,Problem,Shipping question,Escalation needed for resolution.,2025-03-26 10:12:22
+INQ-00240,Margaret Anderson,P3-Medium,Tier 2 Support,Nintendo Switch,9/24/25,Inquiry,Need support,Follow-up required from previous ticket.,2025-09-24 17:20:47
+PRB-00251,Ashley Ramirez,P4-Low,Tier 1 Support,Microsoft Office,2/15/26,Problem,Technical issue,Unable to resolve the issue through standard troubleshooting.,2026-02-15 15:28:37
+PRB-00252,Paul Williams,P1-Critical,Tier 1 Support,Autodesk AutoCAD,1/14/26,Problem,Shipping question,Escalation needed for resolution.,2026-01-14 07:52:08
+INC-00208,Mary Young,P4-Low,Tier 2 Support,LG Smart TV,1/27/26,Incident,General question,Follow-up required from previous ticket.,2026-01-27 08:44:02
+INC-00209,Daniel Thomas,P1-Critical,Tier 2 Support,Roomba Robot Vacuum,9/17/25,Incident,General question,Unable to resolve the issue through standard troubleshooting.,2025-09-17 14:38:34
+INQ-00241,Kimberly Gonzalez,P2-High,Tier 1 Support,Canon DSLR Camera,12/11/25,Inquiry,General question,Customer needs urgent assistance.,2025-12-11 16:52:27
+INQ-00242,Jennifer Taylor,P2-High,Tier 2 Support,Microsoft Office,6/22/25,Inquiry,Shipping question,Customer needs urgent assistance.,2025-06-22 09:38:57
+PRB-00253,Susan Taylor,P1-Critical,Tier 2 Support,Nikon D,2/26/26,Problem,Feature request,Escalation needed for resolution.,2026-02-26 09:22:31
+INC-00210,Betty Allen,P4-Low,Tier 2 Support,iPhone,2/12/26,Incident,General question,Customer needs urgent assistance.,2026-02-12 08:24:55
+PRB-00254,Lisa Torres,P4-Low,Tier 1 Support,LG OLED,11/16/25,Problem,General question,Product arrived damaged or defective.,2025-11-16 15:31:12
+INQ-00243,Susan Harris,P3-Medium,Tier 2 Support,iPhone,9/10/25,Inquiry,Product not working,Unable to resolve the issue through standard troubleshooting.,2025-09-10 07:05:26
+PRB-00255,Jane King,P4-Low,Tier 1 Support,LG Smart TV,8/21/25,Problem,Need support,Escalation needed for resolution.,2025-08-21 15:44:08
+PRB-00256,Ashley Anderson,P1-Critical,Tier 2 Support,GoPro Hero,11/29/25,Problem,Shipping question,Customer reported issue with the product.,2025-11-29 14:39:34
+INQ-00244,James Hernandez,P1-Critical,Tier 2 Support,Bose QuietComfort,6/10/25,Inquiry,Billing inquiry,Customer needs urgent assistance.,2025-06-10 13:43:11
+INC-00211,Emily Phillips,P3-Medium,Tier 1 Support,Apple AirPods,6/14/25,Incident,Billing inquiry,Customer reported issue with the product.,2025-06-14 17:32:29
+INQ-00245,Charles Wilson,P2-High,Tier 1 Support,Canon EOS,7/25/25,Inquiry,Shipping question,Follow-up required from previous ticket.,2025-07-25 14:46:20
+INQ-00246,Lisa King,P4-Low,Tier 1 Support,Microsoft Surface,6/30/25,Inquiry,Shipping question,Escalation needed for resolution.,2025-06-30 17:56:11
+PRB-00257,Mary Taylor,P2-High,Tier 1 Support,Philips Hue Lights,10/31/25,Problem,Technical issue,Customer reported issue with the product.,2025-10-31 18:34:05
+PRB-00258,John Campbell,P3-Medium,Tier 1 Support,Philips Hue Lights,3/21/25,Problem,Technical issue,Follow-up required from previous ticket.,2025-03-21 20:26:30
+INQ-00247,Matthew Martin,P3-Medium,Tier 1 Support,Google Nest,11/15/25,Inquiry,Billing inquiry,Escalation needed for resolution.,2025-11-15 18:06:56
+INQ-00248,Kimberly Garcia,P1-Critical,Tier 2 Support,LG OLED,11/4/25,Inquiry,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-11-04 14:46:11
+PRB-00259,Betty Gonzalez,P2-High,Tier 2 Support,Canon DSLR Camera,5/9/25,Problem,Technical issue,Product arrived damaged or defective.,2025-05-09 14:54:24
+INC-00212,Barbara Wilson,P4-Low,Tier 2 Support,Samsung Soundbar,9/30/25,Incident,Shipping question,Escalation needed for resolution.,2025-09-30 10:41:13
+INC-00213,Kimberly Robinson,P4-Low,Tier 1 Support,Samsung Soundbar,5/27/25,Incident,Shipping question,Product arrived damaged or defective.,2025-05-27 15:51:48
+INQ-00249,Franklin Peterson,P2-High,Tier 2 Support,Nest Thermostat,9/5/25,Inquiry,Need support,Customer reported issue with the product.,2025-09-05 09:51:24
+PRB-00260,Donald Wright,P1-Critical,Tier 1 Support,PlayStation,1/27/26,Problem,Feature request,Unable to resolve the issue through standard troubleshooting.,2026-01-27 20:47:58
+INQ-00250,Mark Thompson,P2-High,Tier 1 Support,GoPro Hero,3/14/25,Inquiry,General question,Customer reported issue with the product.,2025-03-14 19:30:14
+INQ-00251,Thomas Jones,P2-High,Tier 1 Support,Garmin Forerunner,4/19/25,Inquiry,Technical issue,Escalation needed for resolution.,2025-04-19 08:05:04
+PRB-00261,Richard Johnson,P4-Low,Tier 2 Support,Canon DSLR Camera,2/14/26,Problem,Need support,Customer needs urgent assistance.,2026-02-14 18:00:34
+PRB-00262,Matthew Sanchez,P4-Low,Tier 1 Support,Nintendo Switch,1/28/26,Problem,Need support,Follow-up required from previous ticket.,2026-01-28 08:12:39
+INQ-00252,Andrew Thompson,P1-Critical,Tier 2 Support,Samsung Soundbar,3/16/25,Inquiry,Technical issue,Customer needs urgent assistance.,2025-03-16 17:25:59
+INQ-00253,Christopher Martinez,P1-Critical,Tier 2 Support,Amazon Kindle,3/24/25,Inquiry,Product not working,Product arrived damaged or defective.,2025-03-24 08:44:52
+PRB-00263,Sarah Wilson,P4-Low,Tier 2 Support,PlayStation,4/29/25,Problem,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-04-29 14:27:53
+INQ-00254,Linda Peterson,P4-Low,Tier 1 Support,Sony PlayStation,12/3/25,Inquiry,Feature request,Product arrived damaged or defective.,2025-12-03 16:01:38
+INC-00214,Susan Phillips,P3-Medium,Tier 1 Support,Dell XPS,5/9/25,Incident,Billing inquiry,Follow-up required from previous ticket.,2025-05-09 17:12:21
+INC-00215,Matthew Anderson,P4-Low,Tier 2 Support,Asus ROG,10/17/25,Incident,Shipping question,Customer needs urgent assistance.,2025-10-17 13:58:25
+INC-00216,Robert Torres,P1-Critical,Tier 1 Support,Canon EOS,9/15/25,Incident,Billing inquiry,Follow-up required from previous ticket.,2025-09-15 20:59:08
+INQ-00255,Betty Moore,P4-Low,Tier 1 Support,Microsoft Xbox Controller,1/31/26,Inquiry,Shipping question,Product arrived damaged or defective.,2026-01-31 18:22:25
+PRB-00264,Jane White,P3-Medium,Tier 2 Support,Adobe Photoshop,5/27/25,Problem,Bug report,Escalation needed for resolution.,2025-05-27 10:48:21
+PRB-00265,Mike Gonzalez,P1-Critical,Tier 2 Support,Microsoft Surface,10/13/25,Problem,Billing inquiry,Product arrived damaged or defective.,2025-10-13 17:43:02
+PRB-00266,Betty Scott,P4-Low,Tier 1 Support,Microsoft Surface,6/10/25,Problem,Need support,Customer reported issue with the product.,2025-06-10 17:55:12
+PRB-00267,Jennifer Martinez,P2-High,Tier 2 Support,Fitbit Versa Smartwatch,10/7/25,Problem,Product not working,Customer reported issue with the product.,2025-10-07 12:53:32
+INC-00217,Jane Hernandez,P3-Medium,Tier 2 Support,MacBook Pro,1/22/26,Incident,Product not working,Unable to resolve the issue through standard troubleshooting.,2026-01-22 18:37:22
+INQ-00256,Sarah Anderson,P3-Medium,Tier 2 Support,HP Pavilion,1/19/26,Inquiry,Billing inquiry,Follow-up required from previous ticket.,2026-01-19 20:23:59
+PRB-00268,Betty Peterson,P1-Critical,Tier 1 Support,MacBook Pro,12/7/25,Problem,Shipping question,Escalation needed for resolution.,2025-12-07 19:37:28
+PRB-00269,Jane Martin,P3-Medium,Tier 2 Support,Bose SoundLink Speaker,8/24/25,Problem,Need support,Product arrived damaged or defective.,2025-08-24 18:19:57
+INQ-00257,Betty Clark,P4-Low,Tier 2 Support,Bose SoundLink Speaker,6/19/25,Inquiry,Billing inquiry,Customer reported issue with the product.,2025-06-19 16:20:39
+INQ-00258,Tom Harris,P3-Medium,Tier 1 Support,Microsoft Surface,12/19/25,Inquiry,Bug report,Product arrived damaged or defective.,2025-12-19 11:36:02
+PRB-00270,Nancy Jones,P2-High,Tier 2 Support,Samsung Soundbar,5/27/25,Problem,Need support,Escalation needed for resolution.,2025-05-27 18:34:12
+INC-00218,Franklin Rodriguez,P1-Critical,Tier 2 Support,iPhone,9/28/25,Incident,General question,Escalation needed for resolution.,2025-09-28 12:34:42
+PRB-00271,Charles Phillips,P4-Low,Tier 1 Support,Samsung Soundbar,3/28/25,Problem,Need support,Escalation needed for resolution.,2025-03-28 14:23:32
+INQ-00259,James Rodriguez,P2-High,Tier 2 Support,Nest Thermostat,10/8/25,Inquiry,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-10-08 11:24:18
+PRB-00272,Mike Sanchez,P3-Medium,Tier 2 Support,LG Smart TV,11/1/25,Problem,Technical issue,Escalation needed for resolution.,2025-11-01 11:00:31
+PRB-00273,Matthew Wright,P1-Critical,Tier 1 Support,LG OLED,2/20/26,Problem,Technical issue,Follow-up required from previous ticket.,2026-02-20 09:36:54
+PRB-00274,Lisa Peterson,P3-Medium,Tier 2 Support,GoPro Hero,1/30/26,Problem,Bug report,Follow-up required from previous ticket.,2026-01-30 21:34:23
+PRB-00275,Jane Wright,P2-High,Tier 1 Support,Canon EOS,7/31/25,Problem,General question,Customer reported issue with the product.,2025-07-31 09:56:02
+INC-00219,Margaret Allen,P1-Critical,Tier 1 Support,LG Washing Machine,11/4/25,Incident,General question,Customer needs urgent assistance.,2025-11-04 08:30:18
+INQ-00260,Mark Wilson,P1-Critical,Tier 2 Support,iPhone,4/15/25,Inquiry,Need support,Follow-up required from previous ticket.,2025-04-15 21:28:56
+INC-00220,Jane Sanchez,P3-Medium,Tier 1 Support,Nikon D,10/4/25,Incident,Feature request,Follow-up required from previous ticket.,2025-10-04 15:04:45
+INC-00221,Franklin Martinez,P1-Critical,Tier 1 Support,Sony 4K HDR TV,2/12/26,Incident,Need support,Customer reported issue with the product.,2026-02-12 13:11:50
+INQ-00261,Matthew Young,P1-Critical,Tier 2 Support,Roomba Robot Vacuum,6/22/25,Inquiry,General question,Customer needs urgent assistance.,2025-06-22 18:20:54
+INC-00222,Karen Anderson,P4-Low,Tier 1 Support,LG Smart TV,7/8/25,Incident,Feature request,Customer reported issue with the product.,2025-07-08 12:22:07
+PRB-00276,Carol Lewis,P4-Low,Tier 1 Support,Canon EOS,9/12/25,Problem,Technical issue,Customer reported issue with the product.,2025-09-12 08:21:16
+INC-00223,Donna Campbell,P2-High,Tier 1 Support,MacBook Pro,8/12/25,Incident,General question,Product arrived damaged or defective.,2025-08-12 17:23:03
+INQ-00262,Jessica Sanchez,P4-Low,Tier 2 Support,Dell XPS,12/3/25,Inquiry,General question,Customer needs urgent assistance.,2025-12-03 09:46:00
+PRB-00277,Steven Torres,P2-High,Tier 2 Support,Asus ROG,3/8/25,Problem,Technical issue,Customer needs urgent assistance.,2025-03-08 15:07:50
+INQ-00263,Richard Taylor,P2-High,Tier 2 Support,Microsoft Surface,8/4/25,Inquiry,Need support,Customer needs urgent assistance.,2025-08-04 21:19:56
+PRB-00278,Sandra Scott,P2-High,Tier 2 Support,Nintendo Switch Pro Controller,1/9/26,Problem,Feature request,Unable to resolve the issue through standard troubleshooting.,2026-01-09 21:09:09
+PRB-00279,Thomas Wilson,P2-High,Tier 2 Support,GoPro Action Camera,4/11/25,Problem,Technical issue,Product arrived damaged or defective.,2025-04-11 12:18:43
+PRB-00280,Mike Jackson,P3-Medium,Tier 1 Support,Nintendo Switch Pro Controller,1/19/26,Problem,General question,Unable to resolve the issue through standard troubleshooting.,2026-01-19 18:41:32
+PRB-00281,Andrew Williams,P2-High,Tier 1 Support,Samsung Galaxy,4/17/25,Problem,Shipping question,Follow-up required from previous ticket.,2025-04-17 16:02:04
+PRB-00282,Richard Lopez,P4-Low,Tier 1 Support,Sony 4K HDR TV,5/6/25,Problem,Technical issue,Follow-up required from previous ticket.,2025-05-06 14:20:54
+INC-00224,Mike Thomas,P4-Low,Tier 1 Support,Microsoft Xbox Controller,3/31/25,Incident,Feature request,Customer reported issue with the product.,2025-03-31 09:01:52
+PRB-00283,Mark Sanchez,P4-Low,Tier 2 Support,MacBook Pro,2/1/26,Problem,Bug report,Customer needs urgent assistance.,2026-02-01 12:57:34
+PRB-00284,Franklin Lewis,P4-Low,Tier 2 Support,Apple AirPods,4/9/25,Problem,Billing inquiry,Customer needs urgent assistance.,2025-04-09 16:43:42
+INQ-00264,Jessica Williams,P2-High,Tier 1 Support,MacBook Pro,6/11/25,Inquiry,General question,Product arrived damaged or defective.,2025-06-11 21:14:23
+PRB-00285,Joseph Peterson,P1-Critical,Tier 1 Support,Microsoft Surface,8/27/25,Problem,Bug report,Escalation needed for resolution.,2025-08-27 07:11:47
+PRB-00286,Jennifer Scott,P3-Medium,Tier 1 Support,MacBook Pro,5/13/25,Problem,Billing inquiry,Escalation needed for resolution.,2025-05-13 17:05:26
+INQ-00265,Anthony Gonzalez,P3-Medium,Tier 2 Support,Nest Thermostat,3/17/25,Inquiry,Bug report,Customer needs urgent assistance.,2025-03-17 19:28:59
+INQ-00266,Daniel Martin,P3-Medium,Tier 1 Support,Nintendo Switch,3/3/26,Inquiry,Technical issue,Unable to resolve the issue through standard troubleshooting.,2026-03-03 21:45:03
+INC-00225,Barbara Miller,P1-Critical,Tier 1 Support,Amazon Echo,7/27/25,Incident,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-07-27 13:35:10
+INC-00226,Susan Robinson,P1-Critical,Tier 2 Support,iPhone,9/20/25,Incident,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-09-20 08:52:58
+PRB-00287,Matthew Williams,P2-High,Tier 1 Support,Amazon Echo,1/30/26,Problem,General question,Product arrived damaged or defective.,2026-01-30 11:20:17
+INC-00227,Mike Allen,P4-Low,Tier 2 Support,iPhone,6/15/25,Incident,Need support,Follow-up required from previous ticket.,2025-06-15 19:16:18
+INC-00228,Christopher Jackson,P4-Low,Tier 2 Support,Sony 4K HDR TV,1/14/26,Incident,Bug report,Unable to resolve the issue through standard troubleshooting.,2026-01-14 20:28:47
+INC-00229,Margaret Taylor,P3-Medium,Tier 1 Support,GoPro Action Camera,12/1/25,Incident,Shipping question,Follow-up required from previous ticket.,2025-12-01 16:12:11
+PRB-00288,Lisa Sanchez,P4-Low,Tier 1 Support,Dyson Vacuum Cleaner,11/20/25,Problem,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-11-20 08:58:30
+INQ-00267,Christopher Smith,P2-High,Tier 2 Support,GoPro Action Camera,9/1/25,Inquiry,Technical issue,Customer reported issue with the product.,2025-09-01 08:11:17
+PRB-00289,Paul Martin,P3-Medium,Tier 2 Support,Sony PlayStation,9/25/25,Problem,Product not working,Customer needs urgent assistance.,2025-09-25 14:28:11
+PRB-00290,Donald Williams,P2-High,Tier 2 Support,Amazon Kindle,9/30/25,Problem,Bug report,Customer needs urgent assistance.,2025-09-30 15:31:57
+INC-00230,Anthony Ramirez,P2-High,Tier 2 Support,Bose QuietComfort,12/5/25,Incident,Feature request,Customer needs urgent assistance.,2025-12-05 07:03:11
+INC-00231,David Moore,P2-High,Tier 1 Support,Microsoft Surface,4/21/25,Incident,General question,Product arrived damaged or defective.,2025-04-21 17:28:05
+INQ-00268,Jessica Johnson,P1-Critical,Tier 2 Support,LG OLED,1/26/26,Inquiry,Technical issue,Customer needs urgent assistance.,2026-01-26 15:27:40
+INC-00232,Donna Wright,P4-Low,Tier 1 Support,Microsoft Office,11/6/25,Incident,Feature request,Customer needs urgent assistance.,2025-11-06 07:15:52
+INQ-00269,Carol Thomas,P3-Medium,Tier 1 Support,Garmin Forerunner,1/16/26,Inquiry,Technical issue,Follow-up required from previous ticket.,2026-01-16 08:07:07
+INQ-00270,Carol Sanchez,P4-Low,Tier 1 Support,Microsoft Office,6/23/25,Inquiry,Technical issue,Escalation needed for resolution.,2025-06-23 13:02:42
+PRB-00291,Steven Peterson,P3-Medium,Tier 1 Support,Amazon Echo,11/28/25,Problem,Product not working,Escalation needed for resolution.,2025-11-28 17:00:32
+INC-00233,Donna Rodriguez,P1-Critical,Tier 1 Support,Amazon Echo,2/27/26,Incident,Feature request,Product arrived damaged or defective.,2026-02-27 19:28:49
+INC-00234,Margaret Brown,P1-Critical,Tier 1 Support,Amazon Kindle,3/27/25,Incident,General question,Unable to resolve the issue through standard troubleshooting.,2025-03-27 13:05:07
+PRB-00292,Tom Wright,P4-Low,Tier 2 Support,Dyson Vacuum Cleaner,6/16/25,Problem,Need support,Product arrived damaged or defective.,2025-06-16 11:57:58
+INQ-00271,Sarah White,P1-Critical,Tier 1 Support,Samsung Soundbar,10/12/25,Inquiry,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-10-12 21:14:37
+INC-00235,Sarah Johnson,P3-Medium,Tier 1 Support,Microsoft Office,12/11/25,Incident,Technical issue,Customer reported issue with the product.,2025-12-11 13:39:50
+INC-00236,Thomas King,P1-Critical,Tier 2 Support,Amazon Kindle,5/4/25,Incident,Product not working,Product arrived damaged or defective.,2025-05-04 11:40:21
+PRB-00293,David Harris,P2-High,Tier 1 Support,Google Nest,6/25/25,Problem,Need support,Follow-up required from previous ticket.,2025-06-25 13:29:56
+INQ-00272,John Moore,P1-Critical,Tier 2 Support,iPhone,6/13/25,Inquiry,Need support,Follow-up required from previous ticket.,2025-06-13 07:53:37
+INQ-00273,Mary Scott,P1-Critical,Tier 1 Support,Bose SoundLink Speaker,7/24/25,Inquiry,Feature request,Customer reported issue with the product.,2025-07-24 11:06:07
+PRB-00294,Lisa Jones,P4-Low,Tier 1 Support,Asus ROG,9/29/25,Problem,Need support,Product arrived damaged or defective.,2025-09-29 14:14:55
+INC-00237,Franklin Jackson,P2-High,Tier 1 Support,Fitbit Charge,1/6/26,Incident,Bug report,Unable to resolve the issue through standard troubleshooting.,2026-01-06 20:15:47
+INC-00238,Robert Davis,P1-Critical,Tier 1 Support,Garmin Forerunner,3/2/26,Incident,Shipping question,Product arrived damaged or defective.,2026-03-02 18:08:18
+INC-00239,Susan Rodriguez,P4-Low,Tier 2 Support,Nest Thermostat,4/1/25,Incident,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-04-01 18:17:32
+INQ-00274,Betty Johnson,P2-High,Tier 2 Support,LG Smart TV,1/20/26,Inquiry,General question,Customer reported issue with the product.,2026-01-20 15:18:23
+PRB-00295,Robert Sanchez,P3-Medium,Tier 2 Support,LG Smart TV,4/26/25,Problem,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-04-26 08:45:32
+PRB-00296,Mark Johnson,P1-Critical,Tier 1 Support,Dyson Vacuum Cleaner,6/6/25,Problem,Technical issue,Customer reported issue with the product.,2025-06-06 12:18:57
+PRB-00297,Kimberly Wright,P2-High,Tier 2 Support,Adobe Photoshop,7/13/25,Problem,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-07-13 21:52:53
+INQ-00275,Sarah Rodriguez,P2-High,Tier 2 Support,Autodesk AutoCAD,4/4/25,Inquiry,Technical issue,Customer reported issue with the product.,2025-04-04 07:46:12
+PRB-00298,Tom Martin,P2-High,Tier 2 Support,Dell XPS,12/24/25,Problem,General question,Follow-up required from previous ticket.,2025-12-24 20:54:58
+INQ-00276,Emily Sanchez,P4-Low,Tier 1 Support,Google Nest,8/17/25,Inquiry,Feature request,Customer reported issue with the product.,2025-08-17 17:06:26
+INC-00240,Margaret Davis,P1-Critical,Tier 1 Support,GoPro Hero,3/4/26,Incident,Product not working,Customer needs urgent assistance.,2026-03-04 11:59:42
+PRB-00299,Mark Scott,P1-Critical,Tier 1 Support,LG Washing Machine,7/3/25,Problem,Shipping question,Follow-up required from previous ticket.,2025-07-03 18:36:45
+INQ-00277,David Robinson,P3-Medium,Tier 2 Support,Samsung Galaxy,1/21/26,Inquiry,Need support,Customer reported issue with the product.,2026-01-21 19:58:28
+PRB-00300,Andrew Johnson,P3-Medium,Tier 2 Support,Asus ROG,10/3/25,Problem,Billing inquiry,Product arrived damaged or defective.,2025-10-03 07:21:27
+PRB-00301,James Johnson,P2-High,Tier 1 Support,Asus ROG,6/7/25,Problem,Product not working,Follow-up required from previous ticket.,2025-06-07 08:57:27
+INC-00241,Thomas Lopez,P4-Low,Tier 1 Support,LG Smart TV,1/21/26,Incident,Technical issue,Product arrived damaged or defective.,2026-01-21 16:35:51
+PRB-00302,Donna Williams,P1-Critical,Tier 1 Support,Sony PlayStation,12/4/25,Problem,Need support,Product arrived damaged or defective.,2025-12-04 21:04:23
+INQ-00278,Lisa Scott,P1-Critical,Tier 2 Support,MacBook Pro,8/29/25,Inquiry,Billing inquiry,Follow-up required from previous ticket.,2025-08-29 07:24:16
+INQ-00279,Robert Williams,P2-High,Tier 2 Support,Fitbit Versa Smartwatch,8/14/25,Inquiry,Shipping question,Customer reported issue with the product.,2025-08-14 16:08:21
+INQ-00280,Jennifer Gonzalez,P4-Low,Tier 2 Support,LG Smart TV,10/6/25,Inquiry,Technical issue,Follow-up required from previous ticket.,2025-10-06 09:56:11
+PRB-00303,Barbara Lee,P4-Low,Tier 1 Support,GoPro Action Camera,10/7/25,Problem,General question,Customer needs urgent assistance.,2025-10-07 16:18:23
+INQ-00281,Jennifer Davis,P2-High,Tier 1 Support,Apple AirPods,10/17/25,Inquiry,Need support,Customer needs urgent assistance.,2025-10-17 16:13:06
+INC-00242,Charles Ramirez,P4-Low,Tier 2 Support,Adobe Photoshop,2/1/26,Incident,Shipping question,Customer reported issue with the product.,2026-02-01 08:33:05
+INQ-00282,James Thompson,P4-Low,Tier 2 Support,Amazon Kindle,8/12/25,Inquiry,Product not working,Product arrived damaged or defective.,2025-08-12 17:25:43
+INQ-00283,John Sanchez,P1-Critical,Tier 1 Support,LG OLED,9/29/25,Inquiry,Bug report,Customer reported issue with the product.,2025-09-29 20:05:04
+INQ-00284,George Williams,P4-Low,Tier 2 Support,Amazon Kindle,6/9/25,Inquiry,Bug report,Customer reported issue with the product.,2025-06-09 19:48:34
+PRB-00304,Paul Wilson,P1-Critical,Tier 1 Support,Asus ROG,6/2/25,Problem,Feature request,Escalation needed for resolution.,2025-06-02 07:50:46
+PRB-00305,Mary Lee,P1-Critical,Tier 1 Support,Autodesk AutoCAD,1/30/26,Problem,Need support,Customer reported issue with the product.,2026-01-30 10:44:43
+INQ-00285,Daniel Smith,P2-High,Tier 2 Support,Sony PlayStation,3/1/26,Inquiry,Need support,Product arrived damaged or defective.,2026-03-01 10:37:26
+PRB-00306,Thomas Sanchez,P4-Low,Tier 2 Support,Google Pixel,2/18/26,Problem,Bug report,Escalation needed for resolution.,2026-02-18 13:24:11
+INQ-00286,Matthew Torres,P3-Medium,Tier 2 Support,Samsung Galaxy,10/3/25,Inquiry,Shipping question,Customer needs urgent assistance.,2025-10-03 09:32:55
+INC-00243,Ashley White,P3-Medium,Tier 2 Support,Garmin Forerunner,5/12/25,Incident,Product not working,Customer needs urgent assistance.,2025-05-12 19:31:50
+INC-00244,Susan Wilson,P3-Medium,Tier 2 Support,Sony PlayStation,2/18/26,Incident,Need support,Follow-up required from previous ticket.,2026-02-18 18:09:36
+INC-00245,Christopher Scott,P1-Critical,Tier 1 Support,Sony PlayStation,1/3/26,Incident,Technical issue,Unable to resolve the issue through standard troubleshooting.,2026-01-03 19:04:05
+INC-00246,Lisa Rodriguez,P4-Low,Tier 1 Support,Sony PlayStation,1/20/26,Incident,Product not working,Escalation needed for resolution.,2026-01-20 09:15:02
+INC-00247,Betty Lewis,P3-Medium,Tier 1 Support,PlayStation,2/7/26,Incident,Bug report,Product arrived damaged or defective.,2026-02-07 07:27:18
+INQ-00287,Linda Williams,P3-Medium,Tier 2 Support,Adobe Photoshop,1/22/26,Inquiry,Feature request,Unable to resolve the issue through standard troubleshooting.,2026-01-22 20:09:09
+INQ-00288,Joseph Lee,P2-High,Tier 1 Support,Philips Hue Lights,4/5/25,Inquiry,Shipping question,Escalation needed for resolution.,2025-04-05 11:06:51
+INQ-00289,Patricia Martinez,P1-Critical,Tier 2 Support,Samsung Soundbar,2/6/26,Inquiry,Need support,Follow-up required from previous ticket.,2026-02-06 16:51:12
+INC-00248,Sandra Rodriguez,P3-Medium,Tier 2 Support,Roomba Robot Vacuum,4/24/25,Incident,Product not working,Unable to resolve the issue through standard troubleshooting.,2025-04-24 20:22:16
+PRB-00307,Daniel Wilson,P3-Medium,Tier 2 Support,Nintendo Switch,9/15/25,Problem,Shipping question,Product arrived damaged or defective.,2025-09-15 07:35:58
+PRB-00308,Carol Parker,P4-Low,Tier 1 Support,Bose QuietComfort,10/17/25,Problem,Technical issue,Escalation needed for resolution.,2025-10-17 07:31:49
+INC-00249,Daniel Taylor,P4-Low,Tier 2 Support,Amazon Echo,4/6/25,Incident,Bug report,Escalation needed for resolution.,2025-04-06 07:44:13
+INC-00250,Karen Clark,P3-Medium,Tier 2 Support,Microsoft Office,5/24/25,Incident,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-05-24 09:44:23
+PRB-00309,David Williams,P4-Low,Tier 1 Support,Bose QuietComfort,3/3/26,Problem,Technical issue,Customer needs urgent assistance.,2026-03-03 07:17:30
+INC-00251,Tom Allen,P2-High,Tier 2 Support,Nintendo Switch,7/23/25,Incident,Shipping question,Customer reported issue with the product.,2025-07-23 19:50:39
+INQ-00290,Donald Rodriguez,P2-High,Tier 2 Support,Philips Hue Lights,5/3/25,Inquiry,Technical issue,Follow-up required from previous ticket.,2025-05-03 16:22:56
+PRB-00310,Richard Robinson,P2-High,Tier 1 Support,Fitbit Versa Smartwatch,7/12/25,Problem,General question,Customer reported issue with the product.,2025-07-12 21:50:52
+PRB-00311,Ashley King,P4-Low,Tier 1 Support,Bose QuietComfort,11/28/25,Problem,General question,Product arrived damaged or defective.,2025-11-28 19:24:58
+INQ-00291,Anthony Lewis,P4-Low,Tier 1 Support,Google Nest,11/3/25,Inquiry,Shipping question,Customer reported issue with the product.,2025-11-03 21:06:02
+PRB-00312,Franklin Davis,P1-Critical,Tier 1 Support,Philips Hue Lights,2/9/26,Problem,Feature request,Customer needs urgent assistance.,2026-02-09 10:45:14
+PRB-00313,Sarah Sanchez,P4-Low,Tier 1 Support,LG OLED,8/27/25,Problem,Need support,Escalation needed for resolution.,2025-08-27 11:01:33
+INQ-00292,Paul White,P1-Critical,Tier 1 Support,Microsoft Office,5/3/25,Inquiry,Shipping question,Escalation needed for resolution.,2025-05-03 19:46:02
+PRB-00314,Steven Miller,P3-Medium,Tier 2 Support,LG Washing Machine,10/17/25,Problem,Bug report,Customer reported issue with the product.,2025-10-17 10:02:21
+INQ-00293,Jane Parker,P1-Critical,Tier 2 Support,PlayStation,7/31/25,Inquiry,Product not working,Escalation needed for resolution.,2025-07-31 07:12:09
+INC-00252,James Sanchez,P2-High,Tier 2 Support,Fitbit Charge,11/16/25,Incident,Feature request,Follow-up required from previous ticket.,2025-11-16 17:36:55
+INQ-00294,Robert Wright,P1-Critical,Tier 2 Support,Dell XPS,4/28/25,Inquiry,Billing inquiry,Follow-up required from previous ticket.,2025-04-28 19:56:03
+PRB-00315,Joseph Johnson,P1-Critical,Tier 1 Support,Dyson Vacuum Cleaner,8/19/25,Problem,Feature request,Customer reported issue with the product.,2025-08-19 21:24:08
+INC-00253,Linda Robinson,P3-Medium,Tier 2 Support,Nikon D,10/6/25,Incident,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-10-06 20:07:11
+INQ-00295,Robert Johnson,P3-Medium,Tier 1 Support,Samsung Soundbar,9/22/25,Inquiry,General question,Follow-up required from previous ticket.,2025-09-22 08:13:08
+INQ-00296,George Martinez,P3-Medium,Tier 2 Support,Dyson Vacuum Cleaner,12/13/25,Inquiry,Bug report,Customer reported issue with the product.,2025-12-13 18:53:34
+PRB-00316,Donna King,P4-Low,Tier 1 Support,Nintendo Switch,2/25/26,Problem,Need support,Product arrived damaged or defective.,2026-02-25 19:43:21
+INQ-00297,Margaret Torres,P4-Low,Tier 1 Support,Philips Hue Lights,9/29/25,Inquiry,Billing inquiry,Customer reported issue with the product.,2025-09-29 17:06:54
+INQ-00298,Charles Davis,P3-Medium,Tier 1 Support,Apple AirPods,4/16/25,Inquiry,Feature request,Escalation needed for resolution.,2025-04-16 19:23:15
+PRB-00317,Sandra Torres,P3-Medium,Tier 2 Support,Samsung Soundbar,1/3/26,Problem,Bug report,Follow-up required from previous ticket.,2026-01-03 19:15:32
+PRB-00318,Mike Lewis,P3-Medium,Tier 2 Support,Nest Thermostat,2/16/26,Problem,Product not working,Follow-up required from previous ticket.,2026-02-16 13:10:39
+INC-00254,Susan Martin,P1-Critical,Tier 2 Support,Amazon Echo,4/8/25,Incident,Bug report,Customer reported issue with the product.,2025-04-08 07:50:37
+PRB-00319,Jennifer Lewis,P2-High,Tier 1 Support,iPhone,7/5/25,Problem,Billing inquiry,Escalation needed for resolution.,2025-07-05 13:37:47
+PRB-00320,James Williams,P3-Medium,Tier 1 Support,Samsung Galaxy,12/5/25,Problem,Need support,Product arrived damaged or defective.,2025-12-05 10:10:12
+PRB-00321,Donald Campbell,P2-High,Tier 1 Support,Google Pixel,11/13/25,Problem,Bug report,Escalation needed for resolution.,2025-11-13 08:39:30
+INC-00255,Barbara Davis,P3-Medium,Tier 1 Support,Amazon Kindle,7/23/25,Incident,Need support,Follow-up required from previous ticket.,2025-07-23 08:24:48
+INQ-00299,Susan Gonzalez,P1-Critical,Tier 1 Support,Philips Hue Lights,4/10/25,Inquiry,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-04-10 17:03:51
+PRB-00322,Carol Ramirez,P1-Critical,Tier 2 Support,Microsoft Xbox Controller,1/8/26,Problem,Technical issue,Follow-up required from previous ticket.,2026-01-08 14:26:37
+PRB-00323,Anthony Moore,P2-High,Tier 2 Support,Autodesk AutoCAD,12/13/25,Problem,Shipping question,Customer reported issue with the product.,2025-12-13 15:11:39
+INC-00256,Steven Martinez,P3-Medium,Tier 2 Support,Canon EOS,4/17/25,Incident,Need support,Unable to resolve the issue through standard troubleshooting.,2025-04-17 18:14:51
+INC-00257,Barbara King,P1-Critical,Tier 1 Support,Amazon Kindle,7/27/25,Incident,Billing inquiry,Customer needs urgent assistance.,2025-07-27 15:52:37
+PRB-00324,John King,P1-Critical,Tier 1 Support,Bose SoundLink Speaker,1/6/26,Problem,Billing inquiry,Customer reported issue with the product.,2026-01-06 16:42:56
+PRB-00325,Joseph Campbell,P1-Critical,Tier 1 Support,Fitbit Versa Smartwatch,8/8/25,Problem,Shipping question,Escalation needed for resolution.,2025-08-08 08:08:07
+INQ-00300,Sandra Phillips,P1-Critical,Tier 2 Support,Autodesk AutoCAD,7/14/25,Inquiry,Shipping question,Product arrived damaged or defective.,2025-07-14 19:51:20
+INQ-00301,Susan Martinez,P2-High,Tier 2 Support,Google Nest,3/30/25,Inquiry,Shipping question,Escalation needed for resolution.,2025-03-30 13:34:06
+INC-00258,Patricia Taylor,P2-High,Tier 2 Support,Philips Hue Lights,4/3/25,Incident,Need support,Unable to resolve the issue through standard troubleshooting.,2025-04-03 09:52:05
+INQ-00302,Betty Williams,P2-High,Tier 1 Support,GoPro Action Camera,9/6/25,Inquiry,Bug report,Customer needs urgent assistance.,2025-09-06 19:44:28
+INQ-00303,Robert Young,P1-Critical,Tier 1 Support,Canon EOS,1/6/26,Inquiry,Billing inquiry,Product arrived damaged or defective.,2026-01-06 18:20:13
+PRB-00326,Jennifer Allen,P3-Medium,Tier 2 Support,Garmin Forerunner,6/6/25,Problem,General question,Customer reported issue with the product.,2025-06-06 07:32:24
+INQ-00304,Ashley Brown,P1-Critical,Tier 1 Support,Roomba Robot Vacuum,10/16/25,Inquiry,Shipping question,Customer needs urgent assistance.,2025-10-16 09:31:26
+INQ-00305,David Allen,P2-High,Tier 2 Support,Sony 4K HDR TV,7/11/25,Inquiry,Need support,Customer reported issue with the product.,2025-07-11 07:43:37
+INQ-00306,Linda Anderson,P4-Low,Tier 1 Support,Samsung Galaxy,1/14/26,Inquiry,Feature request,Customer reported issue with the product.,2026-01-14 11:14:56
+PRB-00327,Jane Scott,P4-Low,Tier 1 Support,Fitbit Versa Smartwatch,2/4/26,Problem,Bug report,Product arrived damaged or defective.,2026-02-04 08:19:50
+PRB-00328,Nancy Martinez,P3-Medium,Tier 1 Support,Apple AirPods,4/4/25,Problem,Product not working,Escalation needed for resolution.,2025-04-04 17:14:22
+PRB-00329,Ashley Sanchez,P2-High,Tier 2 Support,Samsung Soundbar,3/18/25,Problem,Billing inquiry,Customer needs urgent assistance.,2025-03-18 14:17:19
+PRB-00330,Barbara Allen,P2-High,Tier 1 Support,Apple AirPods,7/28/25,Problem,Feature request,Product arrived damaged or defective.,2025-07-28 21:09:46
+PRB-00331,Tom Jackson,P2-High,Tier 1 Support,Asus ROG,11/10/25,Problem,Technical issue,Escalation needed for resolution.,2025-11-10 18:02:07
+INC-00259,Mark Thomas,P1-Critical,Tier 1 Support,MacBook Pro,10/11/25,Incident,Need support,Product arrived damaged or defective.,2025-10-11 16:56:32
+INC-00260,Kimberly Phillips,P2-High,Tier 2 Support,Samsung Galaxy,4/13/25,Incident,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-04-13 14:04:25
+INQ-00307,Margaret Scott,P2-High,Tier 2 Support,Google Nest,12/21/25,Inquiry,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-12-21 07:53:10
+INC-00261,Christopher Jones,P2-High,Tier 2 Support,Garmin Forerunner,11/28/25,Incident,Feature request,Customer needs urgent assistance.,2025-11-28 08:00:36
+PRB-00332,Jennifer Rodriguez,P2-High,Tier 2 Support,Nintendo Switch Pro Controller,7/8/25,Problem,Product not working,Product arrived damaged or defective.,2025-07-08 16:46:19
+INC-00262,George Jackson,P1-Critical,Tier 2 Support,Dyson Vacuum Cleaner,11/3/25,Incident,Need support,Follow-up required from previous ticket.,2025-11-03 07:19:11
+INC-00263,Matthew Wilson,P2-High,Tier 2 Support,Amazon Echo,11/11/25,Incident,General question,Unable to resolve the issue through standard troubleshooting.,2025-11-11 07:31:39
+PRB-00333,Charles Garcia,P1-Critical,Tier 1 Support,PlayStation,9/25/25,Problem,Feature request,Customer reported issue with the product.,2025-09-25 10:16:10
+INC-00264,Mike Miller,P1-Critical,Tier 1 Support,Microsoft Xbox Controller,7/17/25,Incident,Need support,Product arrived damaged or defective.,2025-07-17 20:29:40
+PRB-00334,Sandra Sanchez,P1-Critical,Tier 2 Support,Roomba Robot Vacuum,7/28/25,Problem,Bug report,Escalation needed for resolution.,2025-07-28 13:27:09
+INC-00265,Franklin Perez,P3-Medium,Tier 1 Support,LG Washing Machine,4/6/25,Incident,Billing inquiry,Product arrived damaged or defective.,2025-04-06 17:31:26
+PRB-00335,Margaret Thomas,P1-Critical,Tier 1 Support,Dyson Vacuum Cleaner,6/30/25,Problem,Product not working,Customer reported issue with the product.,2025-06-30 13:23:48
+INC-00266,Lisa Thompson,P3-Medium,Tier 1 Support,LG OLED,8/23/25,Incident,Technical issue,Customer reported issue with the product.,2025-08-23 09:32:13
+PRB-00336,James Harris,P3-Medium,Tier 1 Support,LG Washing Machine,10/3/25,Problem,Billing inquiry,Customer reported issue with the product.,2025-10-03 12:49:46
+PRB-00337,Barbara Hernandez,P4-Low,Tier 1 Support,Fitbit Charge,12/13/25,Problem,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-12-13 08:26:43
+INC-00267,Margaret Peterson,P2-High,Tier 2 Support,Canon DSLR Camera,6/16/25,Incident,Feature request,Customer needs urgent assistance.,2025-06-16 18:21:54
+PRB-00338,Mike Jones,P1-Critical,Tier 2 Support,Asus ROG,2/20/26,Problem,Shipping question,Customer reported issue with the product.,2026-02-20 09:07:10
+INQ-00308,Paul Thompson,P2-High,Tier 1 Support,GoPro Hero,5/9/25,Inquiry,Technical issue,Product arrived damaged or defective.,2025-05-09 12:21:42
+INC-00268,Betty Wilson,P1-Critical,Tier 1 Support,Microsoft Office,4/2/25,Incident,Shipping question,Customer reported issue with the product.,2025-04-02 21:07:56
+INC-00269,Christopher Thompson,P4-Low,Tier 1 Support,Apple AirPods,6/21/25,Incident,Bug report,Customer needs urgent assistance.,2025-06-21 15:10:45
+INQ-00309,Richard Thompson,P2-High,Tier 2 Support,Canon DSLR Camera,3/16/25,Inquiry,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-03-16 13:57:11
+INQ-00310,Paul Sanchez,P1-Critical,Tier 2 Support,Asus ROG,5/14/25,Inquiry,Feature request,Customer reported issue with the product.,2025-05-14 15:05:49
+INC-00270,Anthony Scott,P4-Low,Tier 2 Support,LG Washing Machine,6/7/25,Incident,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-06-07 18:28:06
+PRB-00339,Steven Taylor,P1-Critical,Tier 2 Support,Roomba Robot Vacuum,7/8/25,Problem,Technical issue,Customer needs urgent assistance.,2025-07-08 10:50:35
+PRB-00340,Anthony King,P1-Critical,Tier 1 Support,Microsoft Xbox Controller,12/31/25,Problem,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-12-31 16:57:29
+PRB-00341,Karen Scott,P3-Medium,Tier 2 Support,GoPro Action Camera,6/21/25,Problem,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-06-21 20:08:31
+INQ-00311,Thomas Torres,P1-Critical,Tier 2 Support,Dyson Vacuum Cleaner,11/24/25,Inquiry,Need support,Customer reported issue with the product.,2025-11-24 15:09:31
+PRB-00342,Christopher Johnson,P2-High,Tier 1 Support,Samsung Galaxy,4/10/25,Problem,Shipping question,Customer needs urgent assistance.,2025-04-10 13:22:01
+INC-00271,Jessica Perez,P4-Low,Tier 2 Support,GoPro Action Camera,11/27/25,Incident,Shipping question,Escalation needed for resolution.,2025-11-27 09:33:30
+PRB-00343,Tom Thomas,P2-High,Tier 1 Support,Amazon Kindle,3/21/25,Problem,General question,Customer needs urgent assistance.,2025-03-21 10:57:56
+INQ-00312,Joseph Garcia,P3-Medium,Tier 2 Support,Microsoft Office,5/1/25,Inquiry,Need support,Customer reported issue with the product.,2025-05-01 21:12:26
+INC-00272,Robert White,P3-Medium,Tier 1 Support,Nikon D,2/8/26,Incident,General question,Follow-up required from previous ticket.,2026-02-08 15:09:16
+PRB-00344,Christopher Campbell,P2-High,Tier 2 Support,Google Nest,4/12/25,Problem,General question,Unable to resolve the issue through standard troubleshooting.,2025-04-12 11:15:59
+PRB-00345,Anthony Sanchez,P2-High,Tier 2 Support,Adobe Photoshop,3/5/26,Problem,Need support,Follow-up required from previous ticket.,2026-03-05 13:52:05
+INQ-00313,Joseph Martinez,P4-Low,Tier 1 Support,HP Pavilion,5/24/25,Inquiry,Shipping question,Follow-up required from previous ticket.,2025-05-24 15:01:29
+INC-00273,Emily Robinson,P3-Medium,Tier 1 Support,Asus ROG,6/15/25,Incident,Technical issue,Escalation needed for resolution.,2025-06-15 15:22:30
+INQ-00314,John Gonzalez,P2-High,Tier 2 Support,HP Pavilion,7/11/25,Inquiry,Billing inquiry,Product arrived damaged or defective.,2025-07-11 17:07:28
+INC-00274,Joseph Parker,P4-Low,Tier 1 Support,Nikon D,7/12/25,Incident,Bug report,Customer reported issue with the product.,2025-07-12 10:09:55
+INQ-00315,Franklin Parker,P1-Critical,Tier 2 Support,Bose SoundLink Speaker,9/14/25,Inquiry,Feature request,Product arrived damaged or defective.,2025-09-14 16:55:25
+PRB-00346,Jessica Wilson,P1-Critical,Tier 2 Support,Nintendo Switch,9/15/25,Problem,Product not working,Customer needs urgent assistance.,2025-09-15 13:00:58
+INQ-00316,Matthew Harris,P2-High,Tier 1 Support,Bose SoundLink Speaker,8/2/25,Inquiry,Billing inquiry,Customer needs urgent assistance.,2025-08-02 21:19:04
+INQ-00317,Tom Taylor,P3-Medium,Tier 2 Support,PlayStation,9/3/25,Inquiry,Bug report,Unable to resolve the issue through standard troubleshooting.,2025-09-03 09:54:44
+PRB-00347,Margaret Sanchez,P2-High,Tier 2 Support,LG Washing Machine,2/1/26,Problem,General question,Customer needs urgent assistance.,2026-02-01 09:36:35
+INQ-00318,Tom Lopez,P2-High,Tier 2 Support,Bose SoundLink Speaker,6/22/25,Inquiry,Shipping question,Product arrived damaged or defective.,2025-06-22 13:04:14
+PRB-00348,Mary Moore,P3-Medium,Tier 2 Support,Philips Hue Lights,12/17/25,Problem,Bug report,Customer needs urgent assistance.,2025-12-17 14:27:13
+INC-00275,Sandra Wilson,P2-High,Tier 1 Support,GoPro Hero,10/9/25,Incident,Shipping question,Customer needs urgent assistance.,2025-10-09 17:58:43
+INQ-00319,Andrew Lopez,P2-High,Tier 2 Support,Canon DSLR Camera,3/8/25,Inquiry,Billing inquiry,Follow-up required from previous ticket.,2025-03-08 13:24:38
+INQ-00320,George Scott,P3-Medium,Tier 1 Support,GoPro Hero,11/10/25,Inquiry,Billing inquiry,Follow-up required from previous ticket.,2025-11-10 20:31:36
+INQ-00321,Donna Young,P4-Low,Tier 1 Support,Bose QuietComfort,6/13/25,Inquiry,Billing inquiry,Customer reported issue with the product.,2025-06-13 14:31:03
+PRB-00349,Thomas Thompson,P2-High,Tier 2 Support,Asus ROG,6/27/25,Problem,Billing inquiry,Product arrived damaged or defective.,2025-06-27 08:39:35
+INQ-00322,Daniel Thompson,P4-Low,Tier 1 Support,Dell XPS,2/14/26,Inquiry,General question,Product arrived damaged or defective.,2026-02-14 08:11:58
+INC-00276,Jane Taylor,P4-Low,Tier 1 Support,Dyson Vacuum Cleaner,6/20/25,Incident,Billing inquiry,Customer reported issue with the product.,2025-06-20 21:50:01
+INC-00277,Mike Taylor,P2-High,Tier 1 Support,Dyson Vacuum Cleaner,8/10/25,Incident,Product not working,Product arrived damaged or defective.,2025-08-10 09:59:28
+PRB-00350,Anthony Lee,P4-Low,Tier 1 Support,Samsung Soundbar,2/1/26,Problem,Technical issue,Customer needs urgent assistance.,2026-02-01 21:08:29
+INQ-00323,Mark Ramirez,P3-Medium,Tier 1 Support,Fitbit Charge,8/21/25,Inquiry,Shipping question,Customer reported issue with the product.,2025-08-21 11:49:53
+INC-00278,Robert Campbell,P1-Critical,Tier 2 Support,MacBook Pro,12/30/25,Incident,Product not working,Customer reported issue with the product.,2025-12-30 08:49:16
+INQ-00324,Franklin Robinson,P1-Critical,Tier 2 Support,GoPro Action Camera,4/8/25,Inquiry,Feature request,Escalation needed for resolution.,2025-04-08 11:44:28
+INQ-00325,Carol Thompson,P4-Low,Tier 2 Support,Samsung Galaxy,3/12/25,Inquiry,Product not working,Customer needs urgent assistance.,2025-03-12 16:22:43
+INC-00279,Jessica Martin,P2-High,Tier 2 Support,Garmin Forerunner,5/9/25,Incident,Feature request,Customer needs urgent assistance.,2025-05-09 13:28:03
+INQ-00326,Charles Martin,P1-Critical,Tier 1 Support,Fitbit Charge,2/10/26,Inquiry,Shipping question,Product arrived damaged or defective.,2026-02-10 18:50:48
+PRB-00351,Barbara Harris,P4-Low,Tier 1 Support,HP Pavilion,7/18/25,Problem,Need support,Product arrived damaged or defective.,2025-07-18 16:09:49
+INC-00280,Carol Campbell,P2-High,Tier 2 Support,Garmin Forerunner,9/7/25,Incident,Feature request,Customer reported issue with the product.,2025-09-07 13:49:43
+INQ-00327,Susan Parker,P4-Low,Tier 1 Support,LG Washing Machine,1/25/26,Inquiry,Technical issue,Customer reported issue with the product.,2026-01-25 16:55:38
+PRB-00352,Karen Harris,P2-High,Tier 2 Support,Canon DSLR Camera,10/18/25,Problem,Technical issue,Customer needs urgent assistance.,2025-10-18 21:40:44
+PRB-00353,Charles Torres,P1-Critical,Tier 2 Support,LG Washing Machine,11/7/25,Problem,Technical issue,Customer reported issue with the product.,2025-11-07 13:20:46
+INQ-00328,Steven Johnson,P4-Low,Tier 2 Support,Amazon Kindle,4/3/25,Inquiry,Billing inquiry,Escalation needed for resolution.,2025-04-03 09:33:54
+INQ-00329,Matthew Scott,P3-Medium,Tier 2 Support,Google Pixel,12/28/25,Inquiry,General question,Escalation needed for resolution.,2025-12-28 13:03:25
+INQ-00330,Susan Scott,P1-Critical,Tier 2 Support,LG OLED,4/27/25,Inquiry,Technical issue,Product arrived damaged or defective.,2025-04-27 19:55:27
+INQ-00331,Andrew Gonzalez,P1-Critical,Tier 1 Support,Nest Thermostat,7/14/25,Inquiry,Billing inquiry,Customer reported issue with the product.,2025-07-14 10:20:38
+PRB-00354,Thomas Brown,P3-Medium,Tier 2 Support,Nikon D,6/13/25,Problem,Feature request,Unable to resolve the issue through standard troubleshooting.,2025-06-13 21:03:11
+INC-00281,Emily Hernandez,P4-Low,Tier 1 Support,Nintendo Switch Pro Controller,1/15/26,Incident,Bug report,Customer reported issue with the product.,2026-01-15 15:47:51
+INQ-00332,Tom Ramirez,P1-Critical,Tier 1 Support,GoPro Action Camera,7/18/25,Inquiry,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-07-18 16:39:46
+INC-00282,Matthew Garcia,P4-Low,Tier 1 Support,Fitbit Charge,2/6/26,Incident,General question,Product arrived damaged or defective.,2026-02-06 11:37:37
+INC-00283,James Gonzalez,P2-High,Tier 2 Support,Canon DSLR Camera,8/20/25,Incident,Bug report,Customer needs urgent assistance.,2025-08-20 20:03:18
+PRB-00355,Nancy Clark,P3-Medium,Tier 1 Support,Philips Hue Lights,1/11/26,Problem,Bug report,Escalation needed for resolution.,2026-01-11 07:45:20
+INQ-00333,James Torres,P3-Medium,Tier 2 Support,Garmin Forerunner,5/28/25,Inquiry,Need support,Escalation needed for resolution.,2025-05-28 11:38:26
+INC-00284,Mike King,P4-Low,Tier 1 Support,Google Pixel,12/30/25,Incident,Shipping question,Follow-up required from previous ticket.,2025-12-30 13:47:39
+INC-00285,Joseph Clark,P4-Low,Tier 1 Support,Amazon Echo,6/5/25,Incident,Billing inquiry,Customer reported issue with the product.,2025-06-05 14:49:46
+PRB-00356,Kimberly Moore,P4-Low,Tier 1 Support,Philips Hue Lights,2/18/26,Problem,Need support,Follow-up required from previous ticket.,2026-02-18 14:12:40
+PRB-00357,Sarah Thomas,P3-Medium,Tier 1 Support,Sony 4K HDR TV,10/5/25,Problem,Billing inquiry,Customer reported issue with the product.,2025-10-05 09:12:55
+INQ-00334,Richard King,P1-Critical,Tier 1 Support,Adobe Photoshop,10/15/25,Inquiry,Technical issue,Unable to resolve the issue through standard troubleshooting.,2025-10-15 10:55:57
+INQ-00335,David Sanchez,P4-Low,Tier 2 Support,Adobe Photoshop,1/15/26,Inquiry,Feature request,Customer reported issue with the product.,2026-01-15 08:31:42
+INQ-00336,Kimberly Lee,P1-Critical,Tier 1 Support,Dell XPS,10/21/25,Inquiry,Bug report,Customer reported issue with the product.,2025-10-21 15:26:22
+INQ-00337,Andrew Parker,P1-Critical,Tier 2 Support,Fitbit Versa Smartwatch,1/30/26,Inquiry,Shipping question,Follow-up required from previous ticket.,2026-01-30 12:17:35
+INQ-00338,George Hernandez,P2-High,Tier 2 Support,Canon DSLR Camera,12/13/25,Inquiry,Feature request,Product arrived damaged or defective.,2025-12-13 15:38:25
+INC-00286,Nancy Wright,P4-Low,Tier 2 Support,Lenovo ThinkPad,4/19/25,Incident,Billing inquiry,Unable to resolve the issue through standard troubleshooting.,2025-04-19 15:45:37
+INC-00287,Donna Perez,P4-Low,Tier 1 Support,Nintendo Switch Pro Controller,11/29/25,Incident,Technical issue,Product arrived damaged or defective.,2025-11-29 17:00:48
+INQ-00339,Nancy Gonzalez,P4-Low,Tier 2 Support,Microsoft Xbox Controller,7/18/25,Inquiry,Technical issue,Follow-up required from previous ticket.,2025-07-18 15:33:22
+INQ-00340,Nancy Lewis,P1-Critical,Tier 1 Support,Nintendo Switch Pro Controller,7/12/25,Inquiry,Need support,Customer needs urgent assistance.,2025-07-12 16:59:30
+PRB-00358,David Lopez,P2-High,Tier 1 Support,Dyson Vacuum Cleaner,11/17/25,Problem,General question,Customer reported issue with the product.,2025-11-17 15:16:02
+INC-00288,Barbara Williams,P3-Medium,Tier 2 Support,Garmin Forerunner,2/14/26,Incident,Shipping question,Customer needs urgent assistance.,2026-02-14 16:16:44
+PRB-00359,Joseph Anderson,P3-Medium,Tier 2 Support,Sony PlayStation,5/25/25,Problem,Product not working,Escalation needed for resolution.,2025-05-25 16:52:29
+INC-00289,James Robinson,P1-Critical,Tier 2 Support,Microsoft Xbox Controller,5/18/25,Incident,Technical issue,Product arrived damaged or defective.,2025-05-18 11:03:27
+INQ-00341,Carol Wright,P1-Critical,Tier 1 Support,Lenovo ThinkPad,3/15/25,Inquiry,Shipping question,Unable to resolve the issue through standard troubleshooting.,2025-03-15 10:23:31
+PRB-00360,Mary Gonzalez,P1-Critical,Tier 2 Support,Microsoft Office,2/2/26,Problem,Bug report,Product arrived damaged or defective.,2026-02-02 18:27:12
+INC-00290,Emily Peterson,P4-Low,Tier 2 Support,iPhone,6/21/25,Incident,Shipping question,Product arrived damaged or defective.,2025-06-21 12:47:35
+INC-00291,David Hernandez,P3-Medium,Tier 1 Support,LG OLED,1/17/26,Incident,Need support,Customer reported issue with the product.,2026-01-17 15:07:44
+PRB-00361,Charles Robinson,P3-Medium,Tier 1 Support,Sony PlayStation,6/11/25,Problem,Feature request,Follow-up required from previous ticket.,2025-06-11 09:26:20
+PRB-00362,George Gonzalez,P4-Low,Tier 1 Support,Sony PlayStation,2/21/26,Problem,Feature request,Escalation needed for resolution.,2026-02-21 13:09:07
+PRB-00363,Jennifer Parker,P2-High,Tier 2 Support,Adobe Photoshop,5/16/25,Problem,General question,Product arrived damaged or defective.,2025-05-16 14:47:23
+INC-00292,Daniel Jones,P1-Critical,Tier 2 Support,MacBook Pro,12/2/25,Incident,General question,Escalation needed for resolution.,2025-12-02 16:37:11
+PRB-00364,Emily Wilson,P1-Critical,Tier 2 Support,Roomba Robot Vacuum,8/25/25,Problem,General question,Follow-up required from previous ticket.,2025-08-25 14:29:22
+INC-00293,John Torres,P3-Medium,Tier 1 Support,Samsung Soundbar,4/27/25,Incident,Product not working,Customer reported issue with the product.,2025-04-27 12:23:37
+INQ-00342,Paul Scott,P3-Medium,Tier 2 Support,MacBook Pro,4/11/25,Inquiry,Feature request,Customer needs urgent assistance.,2025-04-11 21:09:06
+PRB-00365,Jennifer Harris,P2-High,Tier 2 Support,Fitbit Charge,12/11/25,Problem,Product not working,Customer needs urgent assistance.,2025-12-11 14:55:44
+INC-00294,Chris Evans,P2-High,Tier 2 Support,Microsoft Xbox Controller,3/2/26,Incident,Xbox Conroller not working,Xbox Conroller not working,2026-03-02 19:38:13
+INQ-00343,Barbie Forteza,P2-High,Tier 1 Support,Nintendo Switch,3/9/26,Inquiry,Warranty,"I purchased it last March 9, 2026 and would like to ask, am I eligible for a warranty?",2026-03-09 18:19:53
+TKT-00001,Amanda Errols,P1-Critical,Tier 1 Support,iPhone,Mar-26,Incident,Incident,"I purchased it last March 9, 2026 and would like to ask, am I eligible for a warranty?",
+INC-00295,Iron Man,P1-Critical,Tier 2 Support,Roomba Robot Vacuum,2/16/26,Incident,This is a test in incident,This is a test in incident,2026-02-16 20:43:16
+INC-00296,Jma ,P1-Critical,Tier 1 Support,Adobe Photoshop,3/5/26,Incident,test,test,2026-03-05 08:43:33
+PRB-00366,Donal Smith,P3-Medium,Tier 2 Support,Apple Music,3/2/26,Problem,Issue,Issue,2026-03-02 20:27:06
+INQ-00344,High High,P2-High,Tier 1 Support,Slack,3/5/26,Inquiry,Slack,Slack,2026-03-05 19:18:05
+INC-00297,Low Low,P4-Low,Tier 2 Support,Sony PlayStation,3/5/26,Incident,Low Low,Low,2026-03-05 14:39:57
+INC-00298,High High,P2-High,Tier 2 Support,Sony PlayStation,3/5/26,Incident,Low Low,Low,2026-03-05 18:39:48
+INC-00300,Yeng Yeng,P2-High,Tier 2 Support,Sony PlayStation,2026-03-02,Incident,Yeng Yeng ,Yeng yeng,2026-03-02 14:35:09
+INC-00301,Geo Tio,P2-High,Tier 1 Support,Sony PlayStation,2026-03-05,Incident,Sony,Sony,2026-03-05 11:04:16
+INC-00302,Deo Deo,P2-High,Tier 2 Support,Google Workspace,2026-03-05,Incident,Google,Google,2026-03-05 18:28:11
+INC-00303,Claire Claire,P1-Critical,Tier 1 Support,Microsoft Office 365,2026-03-05,Incident,365,365,2026-03-05 10:36:23
+INC-00304,Nine Nibe,P1-Critical,Tier 1 Support,Adobe Photoshop,2026-03-05,Incident,Nine,Nine,2026-03-05 11:57:17
+INC-00305,nine forty three,P2-High,Tier 2 Support,Adobe Photoshop,2026-03-05,Incident,nine four,nine four,2026-03-05 21:43:48
+INC-00306,Rad Rad,P1-Critical,Tier 1 Support,AWS S3,2026-03-02,Incident,rad ,rad,2026-03-05 22:01:06
